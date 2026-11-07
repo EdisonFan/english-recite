@@ -6,7 +6,8 @@
 # 已完成：CNB 仓库 https://cnb.cool/cooledi/english-recite 已创建（Public）
 # 还需你在 GitHub 侧做一步：
 #   Settings → Secrets and variables → Actions → New repository secret
-#   名称 CNB_TOKEN，值填 CNB 访问令牌（Git 用户名固定为 cnb）
+#   名称 CNB_TOKEN（若误建成 CNB__TOKEN 双下划线也会自动兼容）
+#   值填 CNB 访问令牌（Git 用户名固定为 cnb）
 #
 # 注意：CNB 组名 cooledi ≠ GitHub owner EdisonFan，
 #       所以 CNB_REPO 必须写死，不能用默认的 github.repository。
@@ -39,7 +40,8 @@ jobs:
 
       - name: Push all branches and tags to CNB
         env:
-          CNB_TOKEN: ${{ secrets.CNB_TOKEN }}
+          # 兼容标准名 CNB_TOKEN 与仓库里实际建的 CNB__TOKEN（双下划线）
+          CNB_TOKEN: ${{ secrets.CNB_TOKEN || secrets.CNB__TOKEN }}
           CNB_REPO: cooledi/english-recite
         run: |
           set -euo pipefail
