@@ -130,9 +130,11 @@
       "audio": "accepted",
       "audio_submitted": true,
       "audio_note": "主流程自生成并加严验收通过：6 课 / 59 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 59/59 命中、响度 -17 LUFS 指纹一致。",
-      "video": "blocked",
-      "video_submitted": false,
-      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）"
+      "video": "accepted",
+      "video_submitted": true,
+      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）",
+      "video_source": "主流程本地渲染（白板同一实现 + 宽屏封面）",
+      "video_note": "已入库 冀教版/冀教版八年级英语下册(2026春版)/第八单元/，6 课 / 99 子句 / 535.2s 成片；每课 4 文件，自检 PASS、全帧解码 0 错误、双封面尺寸合规。"
     }
   },
   "contract": "v2 · tasks/8b/数据契约.md（切分正则 / allow_cjk / 长句折行 / 唯一闸门）",
@@ -157,6 +159,14 @@
     "output_pattern": "results/8b/unitNN/video/（6 个子目录 × 3 文件 = 18 个）",
     "spec": "1080x1920 / 24fps / H.264+AAC / 与原 timeline.total 对齐 / 全帧解码 0 错误",
     "deps": "Python≥3.9 + Pillow + ffmpeg(libass,libx264,aac)；字体随包自带，无需系统字体",
-    "note": "音频已全部齐备，但阶段⑥本次仍只开放 unit01 六课做分包试跑；其余 7 单元 video=blocked，等 unit01 试跑结果再决定是否开放。unit06 另需先修译文 144/146 切分。"
+    "note": "阶段⑥：unit08 六课已由主流程做完并入库（含宽屏封面），unit01 分包试跑进行中、产物尚未交回，其余 6 单元待做。新增标准：每课 4 文件（视频.mp4 / 音频.mp3 / 封面.png / 封面_宽屏.png）；unit01 分包交回后由主流程补宽屏封面，白板契约届时统一升级 v2。unit06 需先修译文 144/146 切分才能进渲染。",
+    "cover_spec": {
+      "竖版": "1080x1920 PNG（抖音竖屏 9:16，沿用八上 48 课版式）",
+      "宽屏": "1920x1080 PNG（抖音横版 16:9，本轮新增，每课出两张）",
+      "文件名": [
+        "封面.png",
+        "封面_宽屏.png"
+      ]
+    }
   }
 }
