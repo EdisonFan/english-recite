@@ -1,0 +1,502 @@
+{
+  "unit": 8,
+  "scope": "按子句逐句对应",
+  "note": "中文译文按课文语境自译，课本原文无中文对照，仅供跟读理解参考",
+  "items": [
+    {
+      "no": 1,
+      "en": "Class, what do you know about natural disasters like earthquakes, typhoons, floods, and wildfires?",
+      "zh": "同学们，关于地震、台风、洪水和野火这些自然灾害，你们了解些什么？"
+    },
+    {
+      "no": 2,
+      "en": "They are very powerful and dangerous.",
+      "zh": "它们非常强大，也非常危险。"
+    },
+    {
+      "no": 3,
+      "en": "That’s right.",
+      "zh": "说得对。"
+    },
+    {
+      "no": 4,
+      "en": "When it comes to earthquakes, what should people do to stay safe?",
+      "zh": "说到地震，人们应该怎么做才能保证安全？"
+    },
+    {
+      "no": 5,
+      "en": "If an earthquake happens, we should stay calm and quickly find shelter to protect ourselves from falling objects.",
+      "zh": "如果发生地震，我们应该保持冷静，迅速找到躲避处，保护自己不被掉落的物体砸到。"
+    },
+    {
+      "no": 6,
+      "en": "Great advice!",
+      "zh": "好建议！"
+    },
+    {
+      "no": 7,
+      "en": "And what about typhoons?",
+      "zh": "那台风呢？"
+    },
+    {
+      "no": 8,
+      "en": "How can we prepare for them?",
+      "zh": "我们该怎么防范？"
+    },
+    {
+      "no": 9,
+      "en": "For typhoons, we should stay indoors, away from windows and from any dangerous objects outside.",
+      "zh": "遇到台风，我们应该待在室内，远离窗户和外面任何危险的物体。"
+    },
+    {
+      "no": 10,
+      "en": "We should shut all windows and doors.",
+      "zh": "我们应该关好所有门窗。"
+    },
+    {
+      "no": 11,
+      "en": "Good points.",
+      "zh": "说得好。"
+    },
+    {
+      "no": 12,
+      "en": "Now, let’s talk about floods.",
+      "zh": "现在，我们来谈谈洪水。"
+    },
+    {
+      "no": 13,
+      "en": "What actions should we take during a flood?",
+      "zh": "洪水来临时我们应该采取什么行动？"
+    },
+    {
+      "no": 14,
+      "en": "We should go to higher ground.",
+      "zh": "我们应该去地势较高的地方。"
+    },
+    {
+      "no": 15,
+      "en": "Never try to walk or drive through flood waters.",
+      "zh": "千万不要试图步行或开车穿过洪水。"
+    },
+    {
+      "no": 16,
+      "en": "They can be dangerous.",
+      "zh": "洪水可能很危险。"
+    },
+    {
+      "no": 17,
+      "en": "Earthquakes can occur anytime without warning.",
+      "zh": "地震随时可能发生，毫无预警。"
+    },
+    {
+      "no": 18,
+      "en": "So it is important to be prepared and know how to protect yourself.",
+      "zh": "所以，做好准备、知道如何保护自己很重要。"
+    },
+    {
+      "no": 19,
+      "en": "What should you do if one happens?",
+      "zh": "如果地震发生，你该怎么做？"
+    },
+    {
+      "no": 20,
+      "en": "Stay calm as the earth begins to shake.",
+      "zh": "大地开始摇晃时，要保持冷静。"
+    },
+    {
+      "no": 21,
+      "en": "If you are inside when the earthquake starts, get under a table or a bed.",
+      "zh": "如果地震开始时你在室内，就躲到桌子或床下。"
+    },
+    {
+      "no": 22,
+      "en": "You need to have something strong around you to protect you from falling objects.",
+      "zh": "你需要身边有坚固的东西，保护你不被掉落的物体砸到。"
+    },
+    {
+      "no": 23,
+      "en": "Do not stand near walls or windows.",
+      "zh": "不要站在墙边或窗边。"
+    },
+    {
+      "no": 24,
+      "en": "Stay out of the kitchen.",
+      "zh": "不要待在厨房。"
+    },
+    {
+      "no": 25,
+      "en": "Also, never get into a lift during an earthquake.",
+      "zh": "还有，地震时千万不要乘电梯。"
+    },
+    {
+      "no": 26,
+      "en": "If you are outside, get to an open area as fast as you can.",
+      "zh": "如果你在室外，要尽快到空旷的地方。"
+    },
+    {
+      "no": 27,
+      "en": "Stay away from buildings and trees.",
+      "zh": "远离建筑物和树木。"
+    },
+    {
+      "no": 28,
+      "en": "If you are in a vehicle, pull over to a place far from trees or tall buildings and stay in the car.",
+      "zh": "如果你在车里，把车停到远离树木或高楼的地方，并留在车内。"
+    },
+    {
+      "no": 29,
+      "en": "If you are close to the sea, try to get as far away from the water as possible.",
+      "zh": "如果你靠近海边，要尽量远离海水。"
+    },
+    {
+      "no": 30,
+      "en": "Earthquakes can cause huge, dangerous waves that appear rapidly.",
+      "zh": "地震可能引发巨大而危险的海浪，而且来得很快。"
+    },
+    {
+      "no": 31,
+      "en": "When the earthquake is over, there is still plenty of danger.",
+      "zh": "地震结束后，仍然有很多危险。"
+    },
+    {
+      "no": 32,
+      "en": "If you see a fire, quickly move outdoors to an open area.",
+      "zh": "如果看到火，要迅速转移到室外的空旷处。"
+    },
+    {
+      "no": 33,
+      "en": "Keep an eye out for things that can fall on you.",
+      "zh": "留意可能砸到你的东西。"
+    },
+    {
+      "no": 34,
+      "en": "Only make necessary phone calls.",
+      "zh": "只在必要时打电话。"
+    },
+    {
+      "no": 35,
+      "en": "Too many calls will bring down the phone system.",
+      "zh": "太多电话会让通信系统瘫痪。"
+    },
+    {
+      "no": 36,
+      "en": "Staying calm can improve your chances of survival in an earthquake.",
+      "zh": "保持冷静能提高你在地震中生存的机会。"
+    },
+    {
+      "no": 37,
+      "en": "It is not easy, but it can save your life.",
+      "zh": "这并不容易，但能救你的命。"
+    },
+    {
+      "no": 38,
+      "en": "Disasters are terrible.",
+      "zh": "灾害很可怕。"
+    },
+    {
+      "no": 39,
+      "en": "Sometimes, secondary disasters are even more dangerous because they create more damages.",
+      "zh": "有时候，次生灾害更危险，因为它们会造成更多破坏。"
+    },
+    {
+      "no": 40,
+      "en": "Secondary disasters include landslides, fires, floods, and so on.",
+      "zh": "次生灾害包括山体滑坡、火灾、洪水等。"
+    },
+    {
+      "no": 41,
+      "en": "Here is a serious example.",
+      "zh": "下面是一个严重的例子。"
+    },
+    {
+      "no": 42,
+      "en": "On March 11, 2011, the largest earthquake ever recorded in Japan caused great destruction.",
+      "zh": "2011年3月11日，日本有记录以来最大的地震造成了巨大破坏。"
+    },
+    {
+      "no": 43,
+      "en": "Tsunami waves hit the coastal area less than half an hour later.",
+      "zh": "不到半小时后，海啸浪涛袭击了沿海地区。"
+    },
+    {
+      "no": 44,
+      "en": "They also destroyed the Fukushima Daiichi nuclear power plant.",
+      "zh": "它们还摧毁了福岛第一核电站。"
+    },
+    {
+      "no": 45,
+      "en": "In the following days, explosions rocked the plant.",
+      "zh": "在接下来的几天里，爆炸震动了核电站。"
+    },
+    {
+      "no": 46,
+      "en": "More than 150,000 people had to leave the area.",
+      "zh": "超过15万人不得不离开该地区。"
+    },
+    {
+      "no": 47,
+      "en": "Lots of radioactivity got into the ocean and came down from the atmosphere.",
+      "zh": "大量放射性物质进入海洋，并从大气中落下。"
+    },
+    {
+      "no": 48,
+      "en": "In August, 2023, the Japanese government began to release the radioactive water from the Fukushima plant into the ocean.",
+      "zh": "2023年8月，日本政府开始把福岛核电站的放射性废水排入海洋。"
+    },
+    {
+      "no": 49,
+      "en": "The water could have a deep impact on sea life and the environment.",
+      "zh": "这些水可能对海洋生物和环境产生深远影响。"
+    },
+    {
+      "no": 50,
+      "en": "People living in coastal areas around the world are worried.",
+      "zh": "世界各地生活在沿海地区的人们都很担心。"
+    },
+    {
+      "no": 51,
+      "en": "The radioactive water from the plant is still considered harmful today.",
+      "zh": "直到今天，核电站的放射性废水仍被认为有害。"
+    },
+    {
+      "no": 52,
+      "en": "The earthquake highlighted an important problem — disasters often cause a chain reaction, leading to more problems.",
+      "zh": "这次地震凸显了一个重要问题——灾害常常引发连锁反应，带来更多问题。"
+    },
+    {
+      "no": 53,
+      "en": "If people do not deal with them properly, it will lead to greater disasters.",
+      "zh": "如果人们处理不当，就会导致更大的灾难。"
+    },
+    {
+      "no": 54,
+      "en": "It is everyone’s responsibility to take action to reduce disasters or secondary disasters.",
+      "zh": "采取行动减少灾害或次生灾害，是每个人的责任。"
+    },
+    {
+      "no": 55,
+      "en": "Typhoons are strong storms with powerful winds.",
+      "zh": "台风是伴有强风的猛烈风暴。"
+    },
+    {
+      "no": 56,
+      "en": "They usually occur in the Western North Pacific.",
+      "zh": "它们通常发生在西北太平洋。"
+    },
+    {
+      "no": 57,
+      "en": "Typhoons form when warm water from the ocean meets special wind patterns.",
+      "zh": "当海洋的暖水遇到特殊的风型时，就会形成台风。"
+    },
+    {
+      "no": 58,
+      "en": "Typhoons can bring heavy rain and help cool down hot summers.",
+      "zh": "台风能带来大雨，也有助于给炎热的夏天降温。"
+    },
+    {
+      "no": 59,
+      "en": "However, they can be very dangerous and cause a lot of damage.",
+      "zh": "然而，它们也可能非常危险，造成大量破坏。"
+    },
+    {
+      "no": 60,
+      "en": "During a typhoon, wind speeds can reach up to 252 kilometres per hour or even higher.",
+      "zh": "台风期间，风速可达每小时252公里甚至更高。"
+    },
+    {
+      "no": 61,
+      "en": "This can lead to trees falling, buildings getting damaged, and some areas flooding.",
+      "zh": "这可能导致树木倒伏、建筑物受损，以及一些地区发生洪涝。"
+    },
+    {
+      "no": 62,
+      "en": "Wildfires are big, out-of-control fires.",
+      "zh": "野火是失控的大火。"
+    },
+    {
+      "no": 63,
+      "en": "They happen in natural places like forests and grasslands.",
+      "zh": "它们发生在森林和草原等自然区域。"
+    },
+    {
+      "no": 64,
+      "en": "They can badly hurt animals, plants, and the environment.",
+      "zh": "它们会严重伤害动物、植物和环境。"
+    },
+    {
+      "no": 65,
+      "en": "They are also dangerous to people living nearby.",
+      "zh": "它们对附近的居民也很危险。"
+    },
+    {
+      "no": 66,
+      "en": "In 2023, Canada experienced many big forest fires, affecting an area of over 60,000 square kilometres.",
+      "zh": "2023年，加拿大多次发生大规模森林火灾，影响面积超过6万平方公里。"
+    },
+    {
+      "no": 67,
+      "en": "Floods are huge amounts of water covering an area.",
+      "zh": "洪水是覆盖大片区域的巨量水流。"
+    },
+    {
+      "no": 68,
+      "en": "They happen when there’s too much rain or when rivers overflow.",
+      "zh": "当降雨过多或河流泛滥时，就会发生洪水。"
+    },
+    {
+      "no": 69,
+      "en": "Floods can hurt a lot of people and destroy farms, buildings, and roads.",
+      "zh": "洪水会伤害许多人，摧毁农场、建筑和道路。"
+    },
+    {
+      "no": 70,
+      "en": "In China, one of the biggest floods was the 1998 Changjiang River flood.",
+      "zh": "在中国，最大的洪水之一是1998年长江洪水。"
+    },
+    {
+      "no": 71,
+      "en": "The PLA troops fought against this terrible flood and protected millions of people from drowning.",
+      "zh": "解放军部队抗击这场可怕的洪水，保护了数百万人免于溺水。"
+    },
+    {
+      "no": 72,
+      "en": "They successfully kept major cities like Wuhan safe.",
+      "zh": "他们成功守住了武汉等大城市的安全。"
+    },
+    {
+      "no": 73,
+      "en": "On June 1, 2013, an earthquake hit Ya’an, Sichuan Province.",
+      "zh": "2013年6月1日，四川省雅安发生地震。"
+    },
+    {
+      "no": 74,
+      "en": "When the building began to shake, a teacher at Fengcun School shouted to his students, “Earthquake!",
+      "zh": "教学楼开始摇晃时，凤村学校的一位老师朝学生们大喊：“地震了！"
+    },
+    {
+      "no": 75,
+      "en": "Run!”",
+      "zh": "快跑！”"
+    },
+    {
+      "no": 76,
+      "en": "He opened the door at the same time.",
+      "zh": "他同时打开了门。"
+    },
+    {
+      "no": 77,
+      "en": "All the students bent down, covered their heads with their hands, and quickly left the building from the front door in order.",
+      "zh": "所有学生都弯下腰，用双手护住头，从前门迅速有序地离开教学楼。"
+    },
+    {
+      "no": 78,
+      "en": "Amazingly, they all made it safely within just seven seconds, without any injuries.",
+      "zh": "令人惊讶的是，他们全都在短短七秒内安全撤离，没有人受伤。"
+    },
+    {
+      "no": 79,
+      "en": "From this incident, we can learn much about how to respond in times of danger.",
+      "zh": "从这件事中，我们可以学到很多在危险时刻如何应对的方法。"
+    },
+    {
+      "no": 80,
+      "en": "Overcome your fears and act quickly.",
+      "zh": "克服恐惧，迅速行动。"
+    },
+    {
+      "no": 81,
+      "en": "The moment you feel the disaster coming, you should act without thinking twice.",
+      "zh": "一旦感觉到灾害来临，就应该毫不犹豫地行动。"
+    },
+    {
+      "no": 82,
+      "en": "Work with others.",
+      "zh": "与他人合作。"
+    },
+    {
+      "no": 83,
+      "en": "Teamwork increases survival chances.",
+      "zh": "团队合作能提高生存机会。"
+    },
+    {
+      "no": 84,
+      "en": "In times of disaster, the best survival strategy for people is usually to follow the group.",
+      "zh": "在灾害发生时，人们最好的生存策略通常是跟随群体。"
+    },
+    {
+      "no": 85,
+      "en": "Do escape drills.",
+      "zh": "进行逃生演练。"
+    },
+    {
+      "no": 86,
+      "en": "Disasters can happen at any time.",
+      "zh": "灾害随时可能发生。"
+    },
+    {
+      "no": 87,
+      "en": "Practice often so you don’t have to stop to think during a real emergency.",
+      "zh": "经常练习，这样在真正的紧急情况下就不必停下来思考。"
+    },
+    {
+      "no": 88,
+      "en": "Remember: survival = calm + will to survive + knowledge of escape",
+      "zh": "记住：生存 = 冷静 + 求生意志 + 逃生知识"
+    },
+    {
+      "no": 89,
+      "en": "Floods are common natural disasters.",
+      "zh": "洪水是常见的自然灾害。"
+    },
+    {
+      "no": 90,
+      "en": "They can cause serious damage to homes and crops, and pose a threat to human lives.",
+      "zh": "它们会对房屋和农作物造成严重破坏，并威胁人的生命。"
+    },
+    {
+      "no": 91,
+      "en": "Many countries take all kinds of measures to prevent floods based on their specific conditions.",
+      "zh": "许多国家根据自身具体情况，采取各种措施防洪。"
+    },
+    {
+      "no": 92,
+      "en": "The Three Gorges Dam plays a crucial role in preventing floods in China.",
+      "zh": "三峡大坝在中国的防洪中起着至关重要的作用。"
+    },
+    {
+      "no": 93,
+      "en": "This dam is located on the Changjiang River and helps control the flow of water during heavy rains.",
+      "zh": "这座大坝位于长江上，有助于在暴雨期间控制水流。"
+    },
+    {
+      "no": 94,
+      "en": "The dam acts as a barrier to hold back excess water and releases it slowly and safely.",
+      "zh": "大坝像一道屏障，拦住多余的水，再缓慢、安全地排放。"
+    },
+    {
+      "no": 95,
+      "en": "This makes sure that the areas nearby are protected from the floods.",
+      "zh": "这确保了附近地区免受洪水侵袭。"
+    },
+    {
+      "no": 96,
+      "en": "By controlling the water levels, the dam keeps people safe.",
+      "zh": "通过控制水位，大坝保障了人们的安全。"
+    },
+    {
+      "no": 97,
+      "en": "The Thames Barrier is an important flood defense system in the UK.",
+      "zh": "泰晤士河防洪闸是英国重要的防洪系统。"
+    },
+    {
+      "no": 98,
+      "en": "It is located on the River Thames with huge gates that can be raised during high tides to protect London from flooding.",
+      "zh": "它位于泰晤士河上，巨大的闸门可以在高潮时升起，保护伦敦免受洪水侵袭。"
+    },
+    {
+      "no": 99,
+      "en": "The barrier has successfully prevented many floods since its completion in 1982, safeguarding the city and its people.",
+      "zh": "自1982年建成以来，该防洪闸成功阻止了多次洪水，守护了这座城市和市民。"
+    }
+  ]
+}
