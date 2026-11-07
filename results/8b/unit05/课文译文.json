@@ -1,0 +1,522 @@
+{
+  "unit": 5,
+  "scope": "按子句逐句对应",
+  "note": "中文译文按课文语境自译，课本原文无中文对照，仅供跟读理解参考",
+  "items": [
+    {
+      "no": 1,
+      "en": "Today, let’s discuss inventions and their roles in shaping our world.",
+      "zh": "今天，我们来聊聊发明，以及它们在塑造我们世界中的作用。"
+    },
+    {
+      "no": 2,
+      "en": "Which invention do you think is the most important?",
+      "zh": "你觉得哪一项发明最重要？"
+    },
+    {
+      "no": 3,
+      "en": "I believe the invention of paper has greatly influenced the development of human civilization.",
+      "zh": "我觉得纸的发明对人类文明的发展影响很大。"
+    },
+    {
+      "no": 4,
+      "en": "How about the telephone?",
+      "zh": "那电话呢？"
+    },
+    {
+      "no": 5,
+      "en": "It allows people to communicate with each other easily and quickly.",
+      "zh": "它让人们能轻松又快速地互相交流。"
+    },
+    {
+      "no": 6,
+      "en": "The light bulb is also an important invention.",
+      "zh": "电灯泡也是一项重要的发明。"
+    },
+    {
+      "no": 7,
+      "en": "It lights up the world.",
+      "zh": "它照亮了整个世界。"
+    },
+    {
+      "no": 8,
+      "en": "I think washing machines are helpful inventions, and both electric and gas-powered cars are cool.",
+      "zh": "我觉得洗衣机是很实用的发明，电动车和燃气车也都很酷。"
+    },
+    {
+      "no": 9,
+      "en": "These are all very good examples!",
+      "zh": "这些例子都举得非常好！"
+    },
+    {
+      "no": 10,
+      "en": "Are there any other inventions coming to your mind?",
+      "zh": "你们还能想到别的发明吗？"
+    },
+    {
+      "no": 11,
+      "en": "Computers are very important.",
+      "zh": "电脑非常重要。"
+    },
+    {
+      "no": 12,
+      "en": "People can do so much on a computer.",
+      "zh": "用电脑能做好多事情。"
+    },
+    {
+      "no": 13,
+      "en": "And don’t forget about the internet!",
+      "zh": "还有，别忘了互联网！"
+    },
+    {
+      "no": 14,
+      "en": "It connects people from all over the world and provides us with information, knowledge, and entertainment.",
+      "zh": "它把世界各地的人连在一起，还给我们带来信息、知识和娱乐。"
+    },
+    {
+      "no": 15,
+      "en": "Long ago, people did not travel far from home.",
+      "zh": "很久以前，人们不会离家远行。"
+    },
+    {
+      "no": 16,
+      "en": "In fact, in the early days, a person might live their whole life in one village and never travel far.",
+      "zh": "其实在早些年代，一个人可能一辈子都待在一个村子里，从没出过远门。"
+    },
+    {
+      "no": 17,
+      "en": "The first important invention in travel was the wheel.",
+      "zh": "出行方面第一项重要发明是轮子。"
+    },
+    {
+      "no": 18,
+      "en": "And then came the wagons.",
+      "zh": "接着出现了四轮马车。"
+    },
+    {
+      "no": 19,
+      "en": "Humans began to have the power to move and carry things across long distances.",
+      "zh": "人类从此有了长距离搬运和运送东西的能力。"
+    },
+    {
+      "no": 20,
+      "en": "The next was the train.",
+      "zh": "接下来是火车。"
+    },
+    {
+      "no": 21,
+      "en": "After the train came the invention of cars, buses, trucks, and other means of transportation.",
+      "zh": "火车之后，又有了汽车、公交车、卡车和其他交通工具。"
+    },
+    {
+      "no": 22,
+      "en": "Humans and goods were able to travel farther than ever before.",
+      "zh": "人和货物都能走到比以前更远的地方。"
+    },
+    {
+      "no": 23,
+      "en": "Boats and ships provided another important way of travelling.",
+      "zh": "小船和大船提供了另一种重要的出行方式。"
+    },
+    {
+      "no": 24,
+      "en": "The invention of the compass helped people explore more places.",
+      "zh": "指南针的发明帮助人们探索了更多地方。"
+    },
+    {
+      "no": 25,
+      "en": "And canal systems made fast waterway transportation possible.",
+      "zh": "运河系统让快速的水路运输成为可能。"
+    },
+    {
+      "no": 26,
+      "en": "Modern means of transportation, such as high-speed trains and airplanes, help people travel faster and farther.",
+      "zh": "高铁、飞机这些现代交通工具，让人们走得更快、更远。"
+    },
+    {
+      "no": 27,
+      "en": "Eco-friendly electric cars are common and self-driving cars are in development.",
+      "zh": "环保电动车已经很常见，自动驾驶汽车也在研发中。"
+    },
+    {
+      "no": 28,
+      "en": "People can even travel to space in spaceships.",
+      "zh": "人们甚至能坐宇宙飞船去太空。"
+    },
+    {
+      "no": 29,
+      "en": "Who knows what the future holds?",
+      "zh": "谁知道未来还会有什么呢？"
+    },
+    {
+      "no": 30,
+      "en": "The development of transportation has made people’s travel much easier and faster.",
+      "zh": "交通的发展让人们的出行轻松多了，也快多了。"
+    },
+    {
+      "no": 31,
+      "en": "Every invention is a symbol of human creativity.",
+      "zh": "每一项发明都是人类创造力的象征。"
+    },
+    {
+      "no": 32,
+      "en": "Let’s enjoy these developments and work for more great things in the future.",
+      "zh": "让我们享受这些成果，也为未来更多了不起的发明努力吧。"
+    },
+    {
+      "no": 33,
+      "en": "Jenny wants to do her homework on the computer.",
+      "zh": "珍妮想在电脑上写作业。"
+    },
+    {
+      "no": 34,
+      "en": "But her mum is using it.",
+      "zh": "可是妈妈正在用电脑。"
+    },
+    {
+      "no": 35,
+      "en": "Mum, is it okay if I use the computer now?",
+      "zh": "妈妈，我现在可以用电脑吗？"
+    },
+    {
+      "no": 36,
+      "en": "Okay.",
+      "zh": "可以。"
+    },
+    {
+      "no": 37,
+      "en": "I just finished my work, so it’s all yours.",
+      "zh": "我刚忙完工作，电脑归你了。"
+    },
+    {
+      "no": 38,
+      "en": "Jenny, you’re so lucky to have a computer.",
+      "zh": "珍妮，你能有台电脑真幸运。"
+    },
+    {
+      "no": 39,
+      "en": "Yes, I am.",
+      "zh": "是呀，我很幸运。"
+    },
+    {
+      "no": 40,
+      "en": "As it’s connected to the internet, it has made study and research much easier.",
+      "zh": "它连上了互联网，学习和查资料都方便多了。"
+    },
+    {
+      "no": 41,
+      "en": "This technology helps students a lot with their homework.",
+      "zh": "这项技术对学生做作业帮助很大。"
+    },
+    {
+      "no": 42,
+      "en": "But when I was a student, computers were not widely used.",
+      "zh": "可我上学那会儿，电脑还没普及。"
+    },
+    {
+      "no": 43,
+      "en": "And the internet was not as convenient as it is now.",
+      "zh": "互联网也不像现在这么方便。"
+    },
+    {
+      "no": 44,
+      "en": "I couldn’t imagine having such a convenient tool for getting the job done.",
+      "zh": "我那时真想象不出能有这么顺手的工具来帮忙完成任务。"
+    },
+    {
+      "no": 45,
+      "en": "Mum, how was homework done in those days?",
+      "zh": "妈妈，那时候作业是怎么做的呀？"
+    },
+    {
+      "no": 46,
+      "en": "Well, everything was written by hand on paper.",
+      "zh": "嗯，所有东西都得手写在本子上。"
+    },
+    {
+      "no": 47,
+      "en": "When I didn’t know how to spell a word, I had to look it up in a printed dictionary.",
+      "zh": "不会拼某个词，就得去翻纸质词典。"
+    },
+    {
+      "no": 48,
+      "en": "When I needed to do any research, I had to go to the library.",
+      "zh": "要查资料，就得跑图书馆。"
+    },
+    {
+      "no": 49,
+      "en": "But now with the internet we can simply search for everything online.",
+      "zh": "可现在有了互联网，什么都能直接上网搜。"
+    },
+    {
+      "no": 50,
+      "en": "And there’s always new technology, like AI.",
+      "zh": "而且还不断有新技术，比如人工智能。"
+    },
+    {
+      "no": 51,
+      "en": "Yes, and you can easily find definitions and examples for any word.",
+      "zh": "是啊，任何一个词的释义和例句你都能轻松查到。"
+    },
+    {
+      "no": 52,
+      "en": "The internet and the computer are amazing inventions with many applications.",
+      "zh": "互联网和电脑真是了不起的发明，用途特别多。"
+    },
+    {
+      "no": 53,
+      "en": "I agree with you on that, Mum.",
+      "zh": "这点我同意您，妈妈。"
+    },
+    {
+      "no": 54,
+      "en": "While pouring a glass of milk, Jeremy notices something written on the package.",
+      "zh": "杰瑞米倒牛奶时，注意到包装上写着字。"
+    },
+    {
+      "no": 55,
+      "en": "Hey, Mum!",
+      "zh": "嘿，妈妈！"
+    },
+    {
+      "no": 56,
+      "en": "I just noticed a big word on the carton.",
+      "zh": "我刚看到盒子上有个大字。"
+    },
+    {
+      "no": 57,
+      "en": "PASTEURIZED.",
+      "zh": "「巴氏杀菌」。"
+    },
+    {
+      "no": 58,
+      "en": "What does it mean?",
+      "zh": "这是什么意思？"
+    },
+    {
+      "no": 59,
+      "en": "Well, if something is pasteurized, it means that it has gone through a process of heating to a certain temperature.",
+      "zh": "嗯，标着「巴氏杀菌」，就是说它经过了一道加热到一定温度的工序。"
+    },
+    {
+      "no": 60,
+      "en": "Why do we heat milk?",
+      "zh": "为什么要给牛奶加热呢？"
+    },
+    {
+      "no": 61,
+      "en": "Raw milk has dangerous bacteria and germs.",
+      "zh": "生牛奶里有危险的细菌和病菌。"
+    },
+    {
+      "no": 62,
+      "en": "We must heat milk to 72 degrees Celsius for 15 seconds to kill them.",
+      "zh": "得把牛奶加热到 72 摄氏度、保持 15 秒，才能杀死它们。"
+    },
+    {
+      "no": 63,
+      "en": "How did people discover that?",
+      "zh": "人们是怎么发现这个办法的？"
+    },
+    {
+      "no": 64,
+      "en": "Many years ago, people sometimes got sick when they drank milk.",
+      "zh": "很多年前，人们喝牛奶有时会生病。"
+    },
+    {
+      "no": 65,
+      "en": "Some of them even died because of the bad bacteria.",
+      "zh": "有些人甚至因为有害细菌丢了性命。"
+    },
+    {
+      "no": 66,
+      "en": "Wow!",
+      "zh": "哇！"
+    },
+    {
+      "no": 67,
+      "en": "Who discovered this heating process?",
+      "zh": "是谁发现了这种加热方法？"
+    },
+    {
+      "no": 68,
+      "en": "A dairy farmer or a scientist?",
+      "zh": "是奶农，还是科学家？"
+    },
+    {
+      "no": 69,
+      "en": "It was Louis Pasteur, a French microbiologist.",
+      "zh": "是路易·巴斯德，一位法国微生物学家。"
+    },
+    {
+      "no": 70,
+      "en": "He discovered the process around 1864.",
+      "zh": "他在 1864 年前后发现了这个方法。"
+    },
+    {
+      "no": 71,
+      "en": "That’s a long time ago!",
+      "zh": "那可真是很久以前了！"
+    },
+    {
+      "no": 72,
+      "en": "Mr Pasteur was one of the greatest scientists.",
+      "zh": "巴斯德先生是最伟大的科学家之一。"
+    },
+    {
+      "no": 73,
+      "en": "His work saved millions of lives around the world.",
+      "zh": "他的研究救了全世界数以百万计的生命。"
+    },
+    {
+      "no": 74,
+      "en": "He was famous for his work on germs.",
+      "zh": "他以研究细菌而闻名。"
+    },
+    {
+      "no": 75,
+      "en": "Well, here’s a toast to you, Mr Pasteur.",
+      "zh": "那我敬您一杯，巴斯德先生。"
+    },
+    {
+      "no": 76,
+      "en": "Thank you for making the world much safer.",
+      "zh": "谢谢您让这个世界安全多了。"
+    },
+    {
+      "no": 77,
+      "en": "Ancient times: Ancient China, Greece, and Rome used ice or snow to preserve food by freezing or chilling it.",
+      "zh": "古代：中国、希腊和罗马用冰或雪冷冻、冷藏食物来保鲜。"
+    },
+    {
+      "no": 78,
+      "en": "1600s: Icehouses were used to preserve food all year-round.",
+      "zh": "17世纪：人们用冰窖全年保存食物。"
+    },
+    {
+      "no": 79,
+      "en": "1748: William Cullen did an experiment on artificial refrigeration.",
+      "zh": "1748年：威廉·卡伦做了一次人工制冷实验。"
+    },
+    {
+      "no": 80,
+      "en": "1805: Oliver Evans designed the first refrigeration machine.",
+      "zh": "1805年：奥利弗·埃文斯设计出第一台制冷机。"
+    },
+    {
+      "no": 81,
+      "en": "1890s: Iceboxes became popular.",
+      "zh": "19世纪90年代：冰盒开始流行。"
+    },
+    {
+      "no": 82,
+      "en": "They were smaller icehouses meant for home use.",
+      "zh": "它们是供家庭使用的小型冰窖。"
+    },
+    {
+      "no": 83,
+      "en": "1913: Fred W.",
+      "zh": "1913年：弗雷德·W."
+    },
+    {
+      "no": 84,
+      "en": "Wolf invented the first home electric refrigerator.",
+      "zh": "沃尔夫发明了第一台家用电冰箱。"
+    },
+    {
+      "no": 85,
+      "en": "1918: Mass production of home refrigerators began.",
+      "zh": "1918年：家用电冰箱开始批量生产。"
+    },
+    {
+      "no": 86,
+      "en": "1920s: Refrigerators became popular in some countries.",
+      "zh": "20世纪20年代：电冰箱在一些国家普及开来。"
+    },
+    {
+      "no": 87,
+      "en": "1940s: Freezer compartments were added.",
+      "zh": "20世纪40年代：加装了冷冻室。"
+    },
+    {
+      "no": 88,
+      "en": "1980s: Water dispensers were added.",
+      "zh": "20世纪80年代：加装了饮水机。"
+    },
+    {
+      "no": 89,
+      "en": "1996: Refrigerators became more energy-saving.",
+      "zh": "1996年：电冰箱变得更省电了。"
+    },
+    {
+      "no": 90,
+      "en": "We all know the most significant inventions of ancient China — paper-making, printing, gunpowder, and compasses.",
+      "zh": "我们都知道中国古代最重要的发明——造纸术、印刷术、火药和指南针。"
+    },
+    {
+      "no": 91,
+      "en": "However, Chinese people also made many other fascinating inventions.",
+      "zh": "不过，中国人还创造了许多别的有趣发明。"
+    },
+    {
+      "no": 92,
+      "en": "Have you used the abacus?",
+      "zh": "你用过算盘吗？"
+    },
+    {
+      "no": 93,
+      "en": "It was invented in China over 2,500 years ago.",
+      "zh": "它是两千五百多年前在中国发明的。"
+    },
+    {
+      "no": 94,
+      "en": "It became the primary tool used by merchants and bankers to calculate.",
+      "zh": "后来成了商人和钱庄老板算账的主要工具。"
+    },
+    {
+      "no": 95,
+      "en": "Tofu originated in China.",
+      "zh": "豆腐起源于中国。"
+    },
+    {
+      "no": 96,
+      "en": "It is a good source of protein.",
+      "zh": "它是很好的蛋白质来源。"
+    },
+    {
+      "no": 97,
+      "en": "Tofu is rich in minerals that are important for building strong bones and reducing the risk of some diseases.",
+      "zh": "豆腐富含矿物质，有助于强健骨骼、降低某些疾病的风险。"
+    },
+    {
+      "no": 98,
+      "en": "It has been an important part of Chinese cuisine for over 2,000 years and is now enjoyed worldwide.",
+      "zh": "两千多年来它一直是中国饮食的重要部分，如今全世界都爱吃。"
+    },
+    {
+      "no": 99,
+      "en": "Tea making is another invention from China.",
+      "zh": "制茶也是中国的一项发明。"
+    },
+    {
+      "no": 100,
+      "en": "It is said that Shennong, an ancient Chinese emperor, discovered tea when a tea leaf accidentally fell into a pot of boiling water.",
+      "zh": "相传中国古代帝王神农，是因为一片茶叶不小心落进滚水里，才发现了茶。"
+    },
+    {
+      "no": 101,
+      "en": "Today, tea is popular all over the world.",
+      "zh": "今天，茶已经风靡全球。"
+    },
+    {
+      "no": 102,
+      "en": "The origins of porcelain can be traced back to the Han Dynasty in China.",
+      "zh": "瓷器的起源可以追溯到中国的汉代。"
+    },
+    {
+      "no": 103,
+      "en": "Porcelain quickly spread throughout China and reached other parts of the world.",
+      "zh": "瓷器很快传遍中国，又走向了世界其他地方。"
+    }
+  ]
+}

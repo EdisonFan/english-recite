@@ -1,0 +1,302 @@
+{
+  "unit": 5,
+  "unit_title": "Great inventions",
+  "lessons": [
+    {
+      "no": "Lesson 1",
+      "title": "Inventions are great!",
+      "title_zh": "发明真了不起！",
+      "kind": "对话 · 刘老师与同学们讨论最重要的发明",
+      "lines": [
+        {
+          "role": "MS LIU",
+          "text": "Today, let’s discuss inventions and their roles in shaping our world. Which invention do you think is the most important?"
+        },
+        {
+          "role": "LI MING",
+          "text": "I believe the invention of paper has greatly influenced the development of human civilization."
+        },
+        {
+          "role": "SONG HUA",
+          "text": "How about the telephone? It allows people to communicate with each other easily and quickly."
+        },
+        {
+          "role": "WANG MEI",
+          "text": "The light bulb is also an important invention. It lights up the world."
+        },
+        {
+          "role": "LI LIN",
+          "text": "I think washing machines are helpful inventions, and both electric and gas-powered cars are cool."
+        },
+        {
+          "role": "MS LIU",
+          "text": "These are all very good examples! Are there any other inventions coming to your mind?"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "Computers are very important. People can do so much on a computer."
+        },
+        {
+          "role": "LI MING",
+          "text": "And don’t forget about the internet! It connects people from all over the world and provides us with information, knowledge, and entertainment."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 2",
+      "title": "Ways of travelling",
+      "title_zh": "出行方式",
+      "kind": "说明文 · 从轮子到宇宙飞船，人类交通方式的演变",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Long ago, people did not travel far from home. In fact, in the early days, a person might live their whole life in one village and never travel far."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The first important invention in travel was the wheel. And then came the wagons. Humans began to have the power to move and carry things across long distances."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The next was the train. After the train came the invention of cars, buses, trucks, and other means of transportation."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Humans and goods were able to travel farther than ever before."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Boats and ships provided another important way of travelling. The invention of the compass helped people explore more places."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "And canal systems made fast waterway transportation possible."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Modern means of transportation, such as high-speed trains and airplanes, help people travel faster and farther."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Eco-friendly electric cars are common and self-driving cars are in development. People can even travel to space in spaceships. Who knows what the future holds?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The development of transportation has made people’s travel much easier and faster. Every invention is a symbol of human creativity."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Let’s enjoy these developments and work for more great things in the future."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 3",
+      "title": "Computers and the internet",
+      "title_zh": "电脑与互联网",
+      "kind": "对话 · 珍妮和妈妈聊电脑与互联网给学习带来的变化",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Jenny wants to do her homework on the computer. But her mum is using it."
+        },
+        {
+          "role": "JENNY",
+          "text": "Mum, is it okay if I use the computer now?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Okay. I just finished my work, so it’s all yours. Jenny, you’re so lucky to have a computer."
+        },
+        {
+          "role": "JENNY",
+          "text": "Yes, I am. As it’s connected to the internet, it has made study and research much easier."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This technology helps students a lot with their homework. But when I was a student, computers were not widely used. And the internet was not as convenient as it is now."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "I couldn’t imagine having such a convenient tool for getting the job done."
+        },
+        {
+          "role": "JENNY",
+          "text": "Mum, how was homework done in those days?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Well, everything was written by hand on paper. When I didn’t know how to spell a word, I had to look it up in a printed dictionary."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When I needed to do any research, I had to go to the library."
+        },
+        {
+          "role": "JENNY",
+          "text": "But now with the internet we can simply search for everything online. And there’s always new technology, like AI."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Yes, and you can easily find definitions and examples for any word. The internet and the computer are amazing inventions with many applications."
+        },
+        {
+          "role": "JENNY",
+          "text": "I agree with you on that, Mum."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 4",
+      "title": "Thank you, Mr Pasteur!",
+      "title_zh": "谢谢你，巴斯德先生！",
+      "kind": "对话 · 杰瑞米和妈妈聊牛奶的巴氏杀菌与巴斯德",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "While pouring a glass of milk, Jeremy notices something written on the package."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Hey, Mum! I just noticed a big word on the carton. PASTEURIZED. What does it mean?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Well, if something is pasteurized, it means that it has gone through a process of heating to a certain temperature."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Why do we heat milk?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Raw milk has dangerous bacteria and germs. We must heat milk to 72 degrees Celsius for 15 seconds to kill them."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "How did people discover that?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Many years ago, people sometimes got sick when they drank milk. Some of them even died because of the bad bacteria."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Wow! Who discovered this heating process? A dairy farmer or a scientist?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It was Louis Pasteur, a French microbiologist. He discovered the process around 1864."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "That’s a long time ago!"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mr Pasteur was one of the greatest scientists. His work saved millions of lives around the world. He was famous for his work on germs."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Well, here’s a toast to you, Mr Pasteur. Thank you for making the world much safer."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 5",
+      "title": "Refrigerator timeline",
+      "title_zh": "冰箱发展时间线",
+      "kind": "时间线说明文 · 从古代冰藏到节能冰箱的发展",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Ancient times: Ancient China, Greece, and Rome used ice or snow to preserve food by freezing or chilling it."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1600s: Icehouses were used to preserve food all year-round."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1748: William Cullen did an experiment on artificial refrigeration."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1805: Oliver Evans designed the first refrigeration machine."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1890s: Iceboxes became popular. They were smaller icehouses meant for home use."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1913: Fred W. Wolf invented the first home electric refrigerator."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1918: Mass production of home refrigerators began."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1920s: Refrigerators became popular in some countries."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1940s: Freezer compartments were added."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1980s: Water dispensers were added."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "1996: Refrigerators became more energy-saving."
+        }
+      ]
+    },
+    {
+      "no": "Unit cultures",
+      "title": "Great inventions of ancient China",
+      "title_zh": "中国古代的伟大发明",
+      "kind": "说明文 · 中国古代的算盘、豆腐、制茶与瓷器",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "We all know the most significant inventions of ancient China — paper-making, printing, gunpowder, and compasses."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "However, Chinese people also made many other fascinating inventions."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Have you used the abacus? It was invented in China over 2,500 years ago. It became the primary tool used by merchants and bankers to calculate."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Tofu originated in China. It is a good source of protein. Tofu is rich in minerals that are important for building strong bones and reducing the risk of some diseases."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It has been an important part of Chinese cuisine for over 2,000 years and is now enjoyed worldwide."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Tea making is another invention from China."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It is said that Shennong, an ancient Chinese emperor, discovered tea when a tea leaf accidentally fell into a pot of boiling water."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Today, tea is popular all over the world."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The origins of porcelain can be traced back to the Han Dynasty in China. Porcelain quickly spread throughout China and reached other parts of the world."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "unit": 5,
+  "lessons": [
+    {
+      "key": "U05_Lesson1",
+      "no": "Lesson 1",
+      "title": "Inventions are great!",
+      "page": "教材 P58 / PDF p63",
+      "kind": "对话 · 刘老师与同学们讨论最重要的发明",
+      "canonical": [
+        "Today, let’s discuss inventions and their roles in shaping our world. Which invention do you think is the most important?",
+        "I believe the invention of paper has greatly influenced the development of human civilization.",
+        "How about the telephone? It allows people to communicate with each other easily and quickly.",
+        "The light bulb is also an important invention. It lights up the world.",
+        "I think washing machines are helpful inventions, and both electric and gas-powered cars are cool.",
+        "These are all very good examples! Are there any other inventions coming to your mind?",
+        "Computers are very important. People can do so much on a computer.",
+        "And don’t forget about the internet! It connects people from all over the world and provides us with information, knowledge, and entertainment."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Which invention do you think is the most important? Tick or write down your answer.」、题号 2「Listen to the conversation and circle the pictures of inventions mentioned.」及十个图片词（paper / steam engine / internet / bike / plane / printing press / computer / car / phone / light bulb）、「Other:」、课号「1」与页脚页码「58」。",
+        "重排：PDF 多栏把每句台词拦腰断行（如「Today, let’s discuss inventions / and their roles in shaping our world.」「I believe the invention of / paper has greatly influenced...」），已按对话逻辑合并为完整句；说话人依正文冒号前缀对应。",
+        "文字层修复：「Computers are ver y important」中的「ver y」为 PDF 断字，按「very」还原并合并空格（与 unit04「militar y → military」同类处理）；属文字层缺陷修复而非改词，请对照纸质课本核对。",
+        "拆句：本课最长台词 144 字符，未超过 170 字符，未触发拆句。",
+        "说话人分配：Ms Liu、Li Ming、Song Hua、Wang Mei、Li Lin 均在音色表内，分别用 MS LIU / LI MING / SONG HUA / WANG MEI / LI LIN。",
+        "标题：正文页「1 Inventions are great!」（1 为课号）与 Contents 目录同名，title 取「Inventions are great!」。教材页码 58 / PDF p63。",
+        "标点：弯引号 ’ 与连字符（gas-powered）按原文保留。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U05_Lesson2",
+      "no": "Lesson 2",
+      "title": "Ways of travelling",
+      "page": "教材 P60 / PDF p65",
+      "kind": "说明文 · 从轮子到宇宙飞船，人类交通方式的演变",
+      "canonical": [
+        "Long ago, people did not travel far from home. In fact, in the early days, a person might live their whole life in one village and never travel far.",
+        "The first important invention in travel was the wheel. And then came the wagons. Humans began to have the power to move and carry things across long distances.",
+        "The next was the train. After the train came the invention of cars, buses, trucks, and other means of transportation.",
+        "Humans and goods were able to travel farther than ever before.",
+        "Boats and ships provided another important way of travelling. The invention of the compass helped people explore more places.",
+        "And canal systems made fast waterway transportation possible.",
+        "Modern means of transportation, such as high-speed trains and airplanes, help people travel faster and farther.",
+        "Eco-friendly electric cars are common and self-driving cars are in development. People can even travel to space in spaceships. Who knows what the future holds?",
+        "The development of transportation has made people’s travel much easier and faster. Every invention is a symbol of human creativity.",
+        "Let’s enjoy these developments and work for more great things in the future."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Watch the video and answer the questions.」、题号 2「Read the passage and match each part with its main idea.」、A「How many inventions are mentioned in the video?」、B「Which invention do you think is the most important for you and why?」、课号「2」与页脚页码「60」。",
+        "重排（重点）：PDF 多栏把「Boats and ships provided another important way of travelling. The」与右栏「invention of the compass helped people explore more places.」拆开，A/B 两问与课标题「2 Ways of travelling」插在两句中间；已剔除题目并跨栏合并为完整句「The invention of the compass helped people explore more places.」，顺序按语义而非 PDF 取字顺序。",
+        "拆句：超过 170 字符的段落已按句末标点 . ! ? 切成多条，只切分、不删词不改词不加词。",
+        "说话人分配：说明文全篇用 NARRATOR。",
+        "文字层修复：所有跨行断句按单个空格合并，「travelling」「transportation」等英式拼写按原文保留。",
+        "标题：正文页「2 Ways of travelling」（2 为课号）与 Contents 目录同名。教材页码 60 / PDF p65。",
+        "标点：弯引号 ’ 与连字符（high-speed / Eco-friendly / self-driving）按原文保留。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U05_Lesson3",
+      "no": "Lesson 3",
+      "title": "Computers and the internet",
+      "page": "教材 P62 / PDF p67",
+      "kind": "对话 · 珍妮和妈妈聊电脑与互联网给学习带来的变化",
+      "canonical": [
+        "Jenny wants to do her homework on the computer. But her mum is using it.",
+        "Mum, is it okay if I use the computer now?",
+        "Okay. I just finished my work, so it’s all yours. Jenny, you’re so lucky to have a computer.",
+        "Yes, I am. As it’s connected to the internet, it has made study and research much easier.",
+        "This technology helps students a lot with their homework. But when I was a student, computers were not widely used. And the internet was not as convenient as it is now.",
+        "I couldn’t imagine having such a convenient tool for getting the job done.",
+        "Mum, how was homework done in those days?",
+        "Well, everything was written by hand on paper. When I didn’t know how to spell a word, I had to look it up in a printed dictionary.",
+        "When I needed to do any research, I had to go to the library.",
+        "But now with the internet we can simply search for everything online. And there’s always new technology, like AI.",
+        "Yes, and you can easily find definitions and examples for any word. The internet and the computer are amazing inventions with many applications.",
+        "I agree with you on that, Mum."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「What do you like to do on the computer? Tick and talk with your partner.」、题号 2「Read the conversation and answer the questions.」、勾选选项「Take an online course.」「Chat with friends.」「Send or receive emails.」「Do homework search.」「Other:」、A「What does Jenny want to do on the computer?」、B「How did Jenny’s mum do homework when she was a student?」、说话人标签、课标题「3 Computers and the internet」与页脚页码「62」。",
+        "保留：对话前的情景句「Jenny wants to do her homework on the computer. But her mum is using it.」属语篇正文，按 NARRATOR 保留。",
+        "重排：PDF 多栏把题号 1 的勾选选项与 A/B 两问插在 Mum 第一段台词与第二轮对话之间，已剔除并按对话顺序接续；跨行断句按语义合并。",
+        "拆句：超过 170 字符的两段台词（Mum 谈学生时代做作业、手写查词典）已按句末标点切分，只切分、不删词不改词不加词。",
+        "说话人分配：Jenny 在音色表内，用 JENNY；Mum 不在音色表内，不自创 role，其台词与情景叙述统一由 NARRATOR 承载（与 unit04 中 Mr Dino 的处理一致），建议主流程评估是否补入 MUM 角色。",
+        "标题：正文页「3 Computers and the internet」（3 为课号）与 Contents 目录同名。教材页码 62 / PDF p67。",
+        "标点：弯引号 ’ 按原文保留；「AI」按原文大写。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U05_Lesson4",
+      "no": "Lesson 4",
+      "title": "Thank you, Mr Pasteur!",
+      "page": "教材 P64 / PDF p69",
+      "kind": "对话 · 杰瑞米和妈妈聊牛奶的巴氏杀菌与巴斯德",
+      "canonical": [
+        "While pouring a glass of milk, Jeremy notices something written on the package.",
+        "Hey, Mum! I just noticed a big word on the carton. PASTEURIZED. What does it mean?",
+        "Well, if something is pasteurized, it means that it has gone through a process of heating to a certain temperature.",
+        "Why do we heat milk?",
+        "Raw milk has dangerous bacteria and germs. We must heat milk to 72 degrees Celsius for 15 seconds to kill them.",
+        "How did people discover that?",
+        "Many years ago, people sometimes got sick when they drank milk. Some of them even died because of the bad bacteria.",
+        "Wow! Who discovered this heating process? A dairy farmer or a scientist?",
+        "It was Louis Pasteur, a French microbiologist. He discovered the process around 1864.",
+        "That’s a long time ago!",
+        "Mr Pasteur was one of the greatest scientists. His work saved millions of lives around the world. He was famous for his work on germs.",
+        "Well, here’s a toast to you, Mr Pasteur. Thank you for making the world much safer."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Read the questions and give your answers.」、题号 2「Read the passage and answer the questions.」、A「Do you drink milk every day? Why?」、B「Do you know how the milk we drink is processed?」、说话人标签「Jeremy:」「Mum:」、括号舞台提示「(She nods and adds.)」「(He raises his glass of milk in the air.)」、课标题「4 Thank you, Mr Pasteur!」与页脚页码「64」。",
+        "保留：开场情景句「While pouring a glass of milk, Jeremy notices something written on the package.」属语篇正文，按 NARRATOR 保留；包装上的大写词「PASTEURIZED」按原文保留。",
+        "舞台提示口径：括号内的动作说明属版式元素而非人物台词，已剔除，正文台词照留；请对照纸质课本核对是否需作为旁白保留。",
+        "文字层修复：「to 72 / degrees Celsius」跨行合并为「to 72 degrees Celsius」，未改词。",
+        "拆句：本课最长台词未超过 170 字符，未触发拆句。",
+        "说话人分配：Jeremy、Mum、Mr Pasteur 均不在音色表内，不自创 role，全篇由 NARRATOR 承载（与 unit04 中 Mr Dino 的处理一致）；建议主流程评估是否补入 JEREMY / MUM 角色。",
+        "标题：正文页「4 Thank you, Mr Pasteur!」（4 为课号）与 Contents 目录同名。教材页码 64 / PDF p69。",
+        "标点：弯引号 ’ 按原文保留；「Mr Pasteur」中的「Mr」后无句点，按原文保留。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U05_Lesson5",
+      "no": "Lesson 5",
+      "title": "Refrigerator timeline",
+      "page": "教材 P66 / PDF p71",
+      "kind": "时间线说明文 · 从古代冰藏到节能冰箱的发展",
+      "canonical": [
+        "Ancient times: Ancient China, Greece, and Rome used ice or snow to preserve food by freezing or chilling it.",
+        "1600s: Icehouses were used to preserve food all year-round.",
+        "1748: William Cullen did an experiment on artificial refrigeration.",
+        "1805: Oliver Evans designed the first refrigeration machine.",
+        "1890s: Iceboxes became popular. They were smaller icehouses meant for home use.",
+        "1913: Fred W. Wolf invented the first home electric refrigerator.",
+        "1918: Mass production of home refrigerators began.",
+        "1920s: Refrigerators became popular in some countries.",
+        "1940s: Freezer compartments were added.",
+        "1980s: Water dispensers were added.",
+        "1996: Refrigerators became more energy-saving."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Read the timeline and tick the inventor of the first refrigerator.」、三个勾选项「William Cullen」「Oliver Evans」「Fred W. Wolf」、时间轴刻度「1600」「1700」「1800」「1900」「2000」、课标题「5 Refrigerator timeline」与页脚页码「66」。",
+        "重排（重点）：PDF 文字层按左右两栏取字，把 1980s / 1600s / 1890s / 1918 / 1940s / 1996 六个条目排在 1920s 之后；已按年代先后重排为 Ancient times → 1600s → 1748 → 1805 → 1890s → 1913 → 1918 → 1920s → 1940s → 1980s → 1996，顺序按语义而非 PDF 取字顺序。",
+        "保留：年份标签（如「1748: 」）是时间线语篇结构的一部分，按原文保留为正文（参照 unit04「Case 1: Cutting in line」的处理）。",
+        "文字层修复：「all year- / round」跨行合并为「all year-round」，保留原有连字符，未改词。",
+        "缩写提示：「1913: Fred W. Wolf…」中「W.」是姓名缩写中的句点，按子句正则会拆成「1913: Fred W.」与「Wolf invented the first home electric refrigerator.」两条，译文按此逐条对应；英文原文未作任何改写，请主流程核对。",
+        "拆句：各条目均未超过 170 字符，未触发拆句。",
+        "说话人分配：时间线说明文全篇用 NARRATOR。",
+        "标题：正文页「5 Refrigerator timeline」（5 为课号）与 Contents 目录同名。教材页码 66 / PDF p71。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U05_CX",
+      "no": "Unit cultures",
+      "title": "Great inventions of ancient China",
+      "page": "教材 P68 / PDF p73",
+      "kind": "说明文 · 中国古代的算盘、豆腐、制茶与瓷器",
+      "canonical": [
+        "We all know the most significant inventions of ancient China — paper-making, printing, gunpowder, and compasses.",
+        "However, Chinese people also made many other fascinating inventions.",
+        "Have you used the abacus? It was invented in China over 2,500 years ago. It became the primary tool used by merchants and bankers to calculate.",
+        "Tofu originated in China. It is a good source of protein. Tofu is rich in minerals that are important for building strong bones and reducing the risk of some diseases.",
+        "It has been an important part of Chinese cuisine for over 2,000 years and is now enjoyed worldwide.",
+        "Tea making is another invention from China.",
+        "It is said that Shennong, an ancient Chinese emperor, discovered tea when a tea leaf accidentally fell into a pot of boiling water.",
+        "Today, tea is popular all over the world.",
+        "The origins of porcelain can be traced back to the Han Dynasty in China. Porcelain quickly spread throughout China and reached other parts of the world."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Read the passage and answer the questions.」与页脚页码「68」。",
+        "重排（重点）：板块标题「Great inventions of ancient China」插在引言「We all know … compasses. However, Chinese people also made many other fascinating inventions.」与「Have you used the abacus?」之间，已单独提取为 title，未混入正文；引言两句按语义合并。",
+        "保留：破折号「—」及其后列举的四大发明按原文保留；「2,500」「2,000」等数字按原文保留；四个小标题式领起句（Have you used the abacus? / Tofu originated in China. / Tea making is another invention from China. / The origins of porcelain…）属语篇正文，按原文保留。",
+        "拆句：超过 170 字符的段落已按句末标点切分，只切分、不删词不改词不加词。",
+        "说话人分配：说明文全篇用 NARRATOR。",
+        "标题口径：第 6 板块为单元拓展，no 按数据契约写「Unit cultures」作板块标识，title 取正文页实际标题「Great inventions of ancient China」（Contents 目录同名）。教材页码 68 / PDF p73。"
+      ],
+      "variants": []
+    }
+  ]
+}
