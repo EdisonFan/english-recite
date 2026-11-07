@@ -1,0 +1,54 @@
+# GitHub  EdisonFan/english-recite
+#   → CNB  cooledi/english-recite    单向镜像（CNB 侧只读）
+#
+# 用法：把本文件放到 GitHub 仓库的 .github/workflows/sync-to-cnb.yml
+#
+# 已完成：CNB 仓库 https://cnb.cool/cooledi/english-recite 已创建（Public）
+# 还需你在 GitHub 侧做一步：
+#   Settings → Secrets and variables → Actions → New repository secret
+#   名称 CNB_TOKEN，值填 CNB 访问令牌（Git 用户名固定为 cnb）
+#
+# 注意：CNB 组名 cooledi ≠ GitHub owner EdisonFan，
+#       所以 CNB_REPO 必须写死，不能用默认的 github.repository。
+#       源仓库含音视频约 367MB、未使用 LFS，首次 checkout 会偏慢；
+#       之后 Actions 只增量推送新对象。
+
+name: Sync to CNB
+
+on:
+  push:
+    branches: ['**']
+    tags: ['**']
+  delete:            # 分支/标签删除时也同步（配合 --prune）
+  workflow_dispatch: # 手动补一次同步
+
+jobs:
+  mirror:
+    # fork 没有 CNB_TOKEN，跳过以免报错
+    if: github.event.repository.fork == false
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    concurrency:
+      group: sync-to-cnb-${{ github.ref }}
+      cancel-in-progress: false   # 同一 ref 串行，不取消进行中的推送
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # 必须拉全历史，否则 push 会被拒
+
+      - name: Push all branches and tags to CNB
+        env:
+          CNB_TOKEN: ${{ secrets.CNB_TOKEN }}
+          CNB_REPO: cooledi/english-recite
+        run: |
+          set -euo pipefail
+          # 大文件仓库，放宽 HTTP 缓冲，避免推送中途断连
+          git config --global http.postBuffer 524288000
+          # CNB 只支持 HTTPS + 访问令牌：用户名固定 cnb，密码为令牌；不支持 SSH
+          git remote add cnb "https://cnb:${CNB_TOKEN}@cnb.cool/${CNB_REPO}.git"
+          # 只镜像分支与标签，不推 refs/pull/* 等 GitHub 专属引用
+          # --prune 让 CNB 的分支/标签与 GitHub 完全一致（含删除同步）
+          git push --force --prune cnb \
+            '+refs/heads/*:refs/heads/*' \
+            '+refs/tags/*:refs/tags/*'
