@@ -9,7 +9,7 @@
   "loudnorm": "I=-17:TP=-1.5:LRA=11",
   "mp3_encoder": "libmp3lame -q:a 2",
   "retry": 4,
-  "note": "gap_seconds=0.75 是硬契约：渲染器用 (end-start)-0.75 反推每句朗读时长，改了会全程错位。",
+  "note": "gap_seconds=0.75 是硬契约：渲染器用 (end-start)-0.75 反推每句朗读时长，改了会全程错位。；最终 MP3 容器采样率为 48000 Hz（loudnorm 重采样），中间 PCM 才是 16000 Hz",
   "roles": {
     "BRIAN": {
       "voice": "en-GB-RyanNeural",
