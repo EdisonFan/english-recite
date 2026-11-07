@@ -1,0 +1,188 @@
+{
+  "unit": 2,
+  "lessons": [
+    {
+      "key": "U02_Lesson1",
+      "no": "Lesson 1",
+      "title": "Be careful!",
+      "page": "教材 P16 / PDF p21",
+      "kind": "对话课本剧 · 装饰美术教室时 Danny 爬椅子挂星星摔下来",
+      "canonical": [
+        "The students are decorating the art classroom.",
+        "Look at this yellow star, Brian and Jenny! Isn’t it beautiful? I’m going to hang it from the ceiling over the desk.",
+        "Here is the tape. I’ll get the ladder for you.",
+        "I don’t need a ladder. I think I’m tall enough.",
+        "Danny can’t reach the ceiling, so he climbs onto Mr Green’s chair.",
+        "Almost… Almost… Aaaaaaahhhh!",
+        "Danny falls.",
+        "What was that noise?!",
+        "He sees Danny lying on the floor.",
+        "Danny, are you okay? Are you hurt?",
+        "Hmm… My tail is a little sore, but it’s not serious.",
+        "Then, they hear Brian cry for help, but his voice is very weak.",
+        "Brian? Where are you?",
+        "Help me, sir! I’m under Danny!",
+        "Oh no! I’m really sorry! Are you okay, Brian?",
+        "No, I’m opposite of okay. I tried to catch you, but you landed on top of me. My arm hurts.",
+        "Should I call an ambulance?",
+        "No, that’s not necessary. I don’t think my arm is broken.",
+        "Jenny, please call Brian’s mother. Tell her we are taking Brian to the hospital. He should get an X-ray just in case."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "版本核对：正文页未出现 Back to school / It’s Show Time! / Summer Holiday Is Coming! / Lessons 1~48 连续编号 / 「衔接三年级起点」等旧版标志，判定为 2026 春版。",
+        "剔除：题号 1「Look at the picture on this page and answer the questions.」与 A/B 选项、题号 2「Listen to the conversation and answer the questions.」、课标题里的课号「1」、页脚教材页码「16」。",
+        "重排：PDF 文字层把每句台词拦腰断行（如「Look at this yellow star, / Brian and Jenny!」「I’m going to hang it from the / ceiling over the desk.」），已按对话逻辑合并成完整句；舞台说明（The students are decorating... / Danny can’t reach... / Danny falls. / He sees Danny lying... / Then, they hear Brian cry for help...）按语义顺序保留，未删改加词。",
+        "说话人分配：Danny / Brian / Jenny 依正文冒号前缀对应音色表角色；Mr Green 共 5 处台词不在音色表内，不自创 role，统一由 NARRATOR 承载，建议主流程评估是否补入 MR GREEN。",
+        "标题差异：正文页写作「1 Be careful!」（1 为课号），Contents 目录为「Be careful!」，title 取「Be careful!」。",
+        "教材页码依据页脚数字 16，PDF 页为 p21；弯引号 ’、省略号 …、以及「What was that noise?!」的 ?! 均按原文保留。",
+        "本页所有朗读单元均 ≤170 字符，未触发拆句。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U02_Lesson2",
+      "no": "Lesson 2",
+      "title": "Safety education",
+      "page": "教材 P18 / PDF p23",
+      "kind": "日记 · Li Ming 记录全国安全教育日的消防演练与急救学习",
+      "canonical": [
+        "Today is National Safety Education Day. Our school organised activities to teach us about safety.",
+        "The first part was fire safety. What should people do in case of a fire emergency? A firefighter gave us a talk and showed us videos.",
+        "He said that if there is a fire, we should stay calm, find the nearest exit to go outside, and never use lifts.",
+        "We even had a fire drill! As soon as the fire alarm rang, all the students took action. We covered our mouths and noses with wet towels.",
+        "We walked down the stairs calmly and in order. Our teachers guided us outside.",
+        "After the drill, the firefighter taught us how to put out a fire with water or with a fire extinguisher. We did it!",
+        "Later, we learned some first aid skills, like CPR and other basic life support training. We talked about online safety practices and where to find help in any emergency.",
+        "We discussed how to stay safe in a big crowd, and what to do to avoid drowning.",
+        "The safety education activities helped us understand how to stay safe and make good choices in different situations."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "剔除：题号 1「Read the questions and give your answers.」、题号 2「Read the diary and write true (T) or false (F).」、A/B 选项，以及日记版式元素「Dear Diary,」「Best,」与署名「Li Ming」；署名之后的正文照留；另剔除课号「2」与页脚页码「18」。",
+        "重排：日记为多栏断行（如「Our school organised activities to teach / us about safety.」），按自然段合并成完整句。",
+        "文字层修复：末段「diﬀ erent situations」中的 ﬀ 为 PDF 连字，按「different」还原并合并多余空格；属文字层缺陷修复而非改词，请对照纸质课本核对。",
+        "拆句：超过 170 字符的段落已按句末标点 . ! ? 切分朗读单元，只切分、不删词不改词不加词。",
+        "说话人分配：日记署名为 Li Ming，全篇用音色表内 LI MING 承载第一人称，不硬凑分声。",
+        "标题：正文页「2 Safety education」（2 为课号）与 Contents 目录「Safety education」一致，title 取「Safety education」。教材页码 18 / PDF p23。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U02_Lesson3",
+      "no": "Lesson 3",
+      "title": "My helmet saved my life!",
+      "page": "教材 P20 / PDF p25",
+      "kind": "记叙文 · 女孩骑车摔倒，头盔替她挡下尖石",
+      "canonical": [
+        "It was a beautiful noon. I was riding my bicycle by the river, thinking about yesterday’s baseball game. I guess I rode over a hole in the road. All of a sudden, WHAM!",
+        "I went down hard on my right side. That really hurt!",
+        "My head hit the ground. I lay there for a few minutes. I tried to get up, but I couldn’t! “There’s something wrong with me,” I thought.",
+        "I felt so terrible that I lay down again. Then I saw blood on my shoe. My hand and knee were bleeding. I was in a lot of pain.",
+        "As I lay there, I took off my helmet. There was a sharp rock sticking out of it. It was pretty scary to look at. Thank goodness I wore my helmet! I shouted for help.",
+        "A driver stopped his truck and came to help me. He put my bike in the back of his truck and drove me to the hospital.",
+        "When my mother got to the hospital, she gave me a big hug and kiss. “You were wearing your helmet this time. How lucky you were!” she said.",
+        "She knew I was careless and did not always wear my helmet.",
+        "But I’ll never be careless again... My bicycle helmet saved my life!"
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "剔除：题号 1/2 的练习题指令、A/B 选项、判断题 A/B/C 三条及括号「(      )」、课号「3」与页脚页码「20」。",
+        "重排（重点）：PDF 多栏把「There was a sharp rock sticking out of it. It was」与右栏「pretty scary to look at.」拦腰拆开，中间插入了判断题 A/B/C 和课标题；按语义合并为「It was pretty scary to look at.」，顺序按语义而非 PDF 取字顺序。",
+        "标题差异：正文页标题「3 My helmet saved my life!」出现在两栏之间，已提取为 title，未混入正文；Contents 目录同名。",
+        "说话人分配：第一人称叙述者为未具名女生（判断题选项用 her / she），driver、mother 亦为音色表外人物，全篇用 NARRATOR 承载，不自创 role。",
+        "弯引号 “ ”、弯单引号 ’、拟声词「WHAM!」及「But I’ll never be careless again...」的三个点均按原文保留。",
+        "拆句：超过 170 字符的段落已按句末标点切分。教材页码 20 / PDF p25。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U02_Lesson4",
+      "no": "Lesson 4",
+      "title": "An accident on the street",
+      "page": "教材 P22 / PDF p27",
+      "kind": "新闻报道 · 13 岁女孩过街追球被车撞伤",
+      "canonical": [
+        "NORTH TOWN, Alberta. Thirteen-year-old Ann Brown was hit by a car outside North Town Primary School at 15 Park Road. The accident happened at about 7:30 a.m.",
+        "She and her brother, James, were on their way to an early basketball practice.",
+        "“We were in a hurry,” James told the reporter. “We didn’t want to be late for practice. Ann’s basketball rolled onto the street. She raced to get it.”",
+        "Mrs Andrews, a chemistry teacher from Green Wood School, was walking several steps behind the two students. She saw it happen.",
+        "“I don’t know whose fault it was,” Mrs Andrews said. “The girl didn’t see the car. And the street was icy — the car couldn’t stop in time. It was terrible.”",
+        "Mrs Andrews said, “I shouted to the girl. I wanted to stop her from running after the ball, but she didn’t hear me.”",
+        "After the accident, the car stopped, and the driver, Bill Morin, jumped out. He called an ambulance.",
+        "Mr Morin knows first aid. He did not move Ann. He stopped traffic on the road until the ambulance came. Then the ambulance took both students to the hospital.",
+        "Both kids were in shock.",
+        "Ann has a broken leg and a bad shoulder wound. She is recovering in the hospital. Doctors say she can expect to return to school in about a week."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "剔除：题号 1/2 的练习题指令（含「Read the news and put the sentences in order.」）、A/B 选项、课号「4」与页脚页码「22」。",
+        "剔除（版面元素）：页尾与课标题重复的「An accident on the street」一行，以及报头「Northern News, December 7    Girl, 13, Hit by Car」判为新闻版面/页眉元素，未写入正文，请对照纸质课本核对。",
+        "重排：多栏断行按语义合并（如「at 15 Park Road. The accident happened at about 7:30 / a.m.」「icy — the / car couldn’t stop in time.」）；破折号 — 与「7:30 a.m.」按原文保留；电头「NORTH TOWN, Alberta.」属新闻正文开头，予以保留。",
+        "说话人分配：Ann Brown、James、Mrs Andrews、Bill / Mr Morin、reporter、doctors 均为音色表外人物，全篇用 NARRATOR 承载，不自创 role。",
+        "标题：正文页「4 An accident on the street」（4 为课号）与 Contents 目录「An accident on the street」一致。教材页码 22 / PDF p27。",
+        "拆句：超过 170 字符的段落已按句末标点切分。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U02_Lesson5",
+      "no": "Lesson 5",
+      "title": "Home safety",
+      "page": "教材 P24 / PDF p29",
+      "kind": "说明文 · 厨房与浴室的居家安全提示",
+      "canonical": [
+        "Many serious accidents happen in people’s homes. The kitchen and the bathroom are the two most dangerous places in the house.",
+        "Can people prevent certain accidents? Yes. Many accidents happen because people are careless. So be careful!",
+        "Be careful with fire and boiling water when you cook.",
+        "Have fire blankets, fire extinguishers, smoke alarms, and flashlights near the kitchen.",
+        "Always turn off the oven or stove after use. In case of a gas leak, do not use a cell phone or any electric item.",
+        "Immediately turn off the stove and quickly open a window. Move to a safe area to inform emergency services and the gas company.",
+        "Never use electricity in the shower or bathtub. It can shock you!",
+        "Be sure to keep the bathroom floor dry after you take a shower or bath. It’s easy to slip and fall on a wet floor.",
+        "Turn on the cold water first when taking a bath. Then adjust the hot water to ensure a safe water temperature. Hot water can burn you.",
+        "Home safety focuses on preventing accidents and reacting well to dangers in order to protect the safety of the family."
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "剔除：「1 Read the passage and complete the table.」练习题指令、课号「5」、页脚页码「24」；另剔除栏目小标题「Safety tips in the kitchen」「Safety tips in the bathroom」与项目符号 ●。",
+        "剔除（配图说明）：页末两处窄栏安全提示「Some things catch fire easily. Don’t put them near the stove!」「Accidents happen suddenly. Never leave small children alone in a bathtub.」判为插图旁说明文字，未写入正文，请对照纸质课本核对。",
+        "文字层修复：两处「oﬀ  the」中的 ﬀ 为 PDF 连字，按「off the」还原并合并多余空格（涉及第 112、114 子句）；属文字层缺陷修复而非改词，请对照纸质课本核对。",
+        "重排：说明文多栏断行按语义合并成完整句；各条安全提示按项目符号分组，超过 170 字符的按句末标点切分。",
+        "说话人分配：说明文全篇用 NARRATOR，不硬凑分声。",
+        "标题：正文页「5 Home safety」（5 为课号）与 Contents 目录「Home safety」一致。教材页码 24 / PDF p29。"
+      ],
+      "variants": []
+    },
+    {
+      "key": "U02_CX",
+      "no": "Unit cultures",
+      "title": "Being cybersafe",
+      "page": "教材 P26 / PDF p31",
+      "kind": "说明文 · 个人信息、虚假信息与网络欺凌",
+      "canonical": [
+        "Technology can be good or bad. That’s why learning to be cybersafe is so important! Never give out private information online. Question the information you read.",
+        "Most of us have our names and photos on social media. But without the right privacy settings, they can be used by dangerous people.",
+        "Everything you post or send online could be taken and used against your will. And once it’s online, it’s nearly impossible to get rid of it completely!",
+        "Also be careful of what others send you. If you click a link or open an attachment, it can be something dangerous for your computer, like a virus.",
+        "The internet era makes gathering information easy. But you must consider the source of the information you are reading.",
+        "Who published it, a stranger or an expert in the field? What website is it on, a blog or a government resource? Does it offer different views?",
+        "Is it meant to inform you, or simply get a quick reaction?",
+        "You probably know that cyberbullying is bullying, but online.",
+        "Sending hurtful messages, spreading lies about someone, sharing their private photos... these are easy to do, but they have a huge impact on the victim.",
+        "The best way to deal with cyberbullying is to ignore, block, and delete. Telling a trusted adult is also important, especially if someone is threatening you.",
+        "Be kind to others. Be careful with your information. Think critically about everything you see online. This will ensure you are cybersafe!"
+      ],
+      "source": "官方 PDF 正文页逐句整理（多栏按语义重排）",
+      "inferred": [
+        "剔除：「1 Read the passage and write true (T) or false (F).」练习题指令、页脚页码「26」；另剔除栏目小标题「Personal information」「Misinformation」「Cyberbullying」。",
+        "重排（重点）：栏目标题「Being cybersafe」出现在多栏文字中间，把「an expert in the」与「field?」打断；已按语义合并为「an expert in the field?」，并把该行提取为板块标题，未混入正文。",
+        "标题口径：第 6 板块为单元拓展，no 按数据契约写「Unit cultures」作板块标识，title 取正文页实际标题「Being cybersafe」（Contents 目录同名）；dispatch 通用约定中的「Understanding cultures」为栏目名称，未写入 title。",
+        "保留：「photos... these are easy to do」中三点省略号为句中停顿，未按句号切开；其余多栏断行按语义合并。",
+        "说话人分配：说明文全篇用 NARRATOR，不硬凑分声。教材页码 26 / PDF p31。",
+        "拆句：超过 170 字符的段落已按句末标点切分。"
+      ],
+      "variants": []
+    }
+  ]
+}

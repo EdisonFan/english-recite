@@ -1,0 +1,742 @@
+{
+  "unit": 2,
+  "scope": "按子句逐句对应",
+  "note": "中文译文按课文语境自译，课本原文无中文对照，仅供跟读理解参考",
+  "items": [
+    {
+      "no": 1,
+      "en": "The students are decorating the art classroom.",
+      "zh": "同学们正在装饰美术教室。"
+    },
+    {
+      "no": 2,
+      "en": "Look at this yellow star, Brian and Jenny!",
+      "zh": "布莱恩、詹妮，快看这颗黄色的星星！"
+    },
+    {
+      "no": 3,
+      "en": "Isn’t it beautiful?",
+      "zh": "它是不是很漂亮？"
+    },
+    {
+      "no": 4,
+      "en": "I’m going to hang it from the ceiling over the desk.",
+      "zh": "我要把它挂在课桌上方的天花板上。"
+    },
+    {
+      "no": 5,
+      "en": "Here is the tape.",
+      "zh": "胶带给你。"
+    },
+    {
+      "no": 6,
+      "en": "I’ll get the ladder for you.",
+      "zh": "我去给你拿梯子。"
+    },
+    {
+      "no": 7,
+      "en": "I don’t need a ladder.",
+      "zh": "我不需要梯子。"
+    },
+    {
+      "no": 8,
+      "en": "I think I’m tall enough.",
+      "zh": "我觉得我够高了。"
+    },
+    {
+      "no": 9,
+      "en": "Danny can’t reach the ceiling, so he climbs onto Mr Green’s chair.",
+      "zh": "丹尼够不到天花板，就爬上了格林老师的椅子。"
+    },
+    {
+      "no": 10,
+      "en": "Almost… Almost… Aaaaaaahhhh!",
+      "zh": "快了……快了……啊啊啊啊啊！"
+    },
+    {
+      "no": 11,
+      "en": "Danny falls.",
+      "zh": "丹尼摔了下来。"
+    },
+    {
+      "no": 12,
+      "en": "What was that noise?!",
+      "zh": "什么声音？！"
+    },
+    {
+      "no": 13,
+      "en": "He sees Danny lying on the floor.",
+      "zh": "他看见丹尼躺在地上。"
+    },
+    {
+      "no": 14,
+      "en": "Danny, are you okay?",
+      "zh": "丹尼，你没事吧？"
+    },
+    {
+      "no": 15,
+      "en": "Are you hurt?",
+      "zh": "受伤了吗？"
+    },
+    {
+      "no": 16,
+      "en": "Hmm… My tail is a little sore, but it’s not serious.",
+      "zh": "嗯……我的尾巴有点疼，不过不严重。"
+    },
+    {
+      "no": 17,
+      "en": "Then, they hear Brian cry for help, but his voice is very weak.",
+      "zh": "接着，他们听见布莱恩在喊救命，可声音很微弱。"
+    },
+    {
+      "no": 18,
+      "en": "Brian?",
+      "zh": "布莱恩？"
+    },
+    {
+      "no": 19,
+      "en": "Where are you?",
+      "zh": "你在哪儿？"
+    },
+    {
+      "no": 20,
+      "en": "Help me, sir!",
+      "zh": "老师，救救我！"
+    },
+    {
+      "no": 21,
+      "en": "I’m under Danny!",
+      "zh": "我在丹尼底下！"
+    },
+    {
+      "no": 22,
+      "en": "Oh no!",
+      "zh": "哦不！"
+    },
+    {
+      "no": 23,
+      "en": "I’m really sorry!",
+      "zh": "我真的很抱歉！"
+    },
+    {
+      "no": 24,
+      "en": "Are you okay, Brian?",
+      "zh": "布莱恩，你没事吧？"
+    },
+    {
+      "no": 25,
+      "en": "No, I’m opposite of okay.",
+      "zh": "不，我可一点也不好。"
+    },
+    {
+      "no": 26,
+      "en": "I tried to catch you, but you landed on top of me.",
+      "zh": "我想接住你，结果你砸在了我身上。"
+    },
+    {
+      "no": 27,
+      "en": "My arm hurts.",
+      "zh": "我胳膊疼。"
+    },
+    {
+      "no": 28,
+      "en": "Should I call an ambulance?",
+      "zh": "要我叫救护车吗？"
+    },
+    {
+      "no": 29,
+      "en": "No, that’s not necessary.",
+      "zh": "不用，没必要。"
+    },
+    {
+      "no": 30,
+      "en": "I don’t think my arm is broken.",
+      "zh": "我觉得胳膊没骨折。"
+    },
+    {
+      "no": 31,
+      "en": "Jenny, please call Brian’s mother.",
+      "zh": "詹妮，请你给布莱恩的妈妈打个电话。"
+    },
+    {
+      "no": 32,
+      "en": "Tell her we are taking Brian to the hospital.",
+      "zh": "告诉她我们正带布莱恩去医院。"
+    },
+    {
+      "no": 33,
+      "en": "He should get an X-ray just in case.",
+      "zh": "为保险起见，他得拍个 X 光片。"
+    },
+    {
+      "no": 34,
+      "en": "Today is National Safety Education Day.",
+      "zh": "今天是全国安全教育日。"
+    },
+    {
+      "no": 35,
+      "en": "Our school organised activities to teach us about safety.",
+      "zh": "学校组织了活动，教我们安全知识。"
+    },
+    {
+      "no": 36,
+      "en": "The first part was fire safety.",
+      "zh": "第一部分是消防安全。"
+    },
+    {
+      "no": 37,
+      "en": "What should people do in case of a fire emergency?",
+      "zh": "发生火灾时该怎么做？"
+    },
+    {
+      "no": 38,
+      "en": "A firefighter gave us a talk and showed us videos.",
+      "zh": "一位消防员给我们做了讲座，还放了视频。"
+    },
+    {
+      "no": 39,
+      "en": "He said that if there is a fire, we should stay calm, find the nearest exit to go outside, and never use lifts.",
+      "zh": "他说万一着火，要保持冷静，找最近的出口出去，千万别坐电梯。"
+    },
+    {
+      "no": 40,
+      "en": "We even had a fire drill!",
+      "zh": "我们还进行了消防演练！"
+    },
+    {
+      "no": 41,
+      "en": "As soon as the fire alarm rang, all the students took action.",
+      "zh": "火警铃一响，全体同学立刻行动。"
+    },
+    {
+      "no": 42,
+      "en": "We covered our mouths and noses with wet towels.",
+      "zh": "我们用湿毛巾捂住口鼻。"
+    },
+    {
+      "no": 43,
+      "en": "We walked down the stairs calmly and in order.",
+      "zh": "我们安静有序地走下楼梯。"
+    },
+    {
+      "no": 44,
+      "en": "Our teachers guided us outside.",
+      "zh": "老师把我们带到室外。"
+    },
+    {
+      "no": 45,
+      "en": "After the drill, the firefighter taught us how to put out a fire with water or with a fire extinguisher.",
+      "zh": "演练后，消防员教我们怎么用水或灭火器灭火。"
+    },
+    {
+      "no": 46,
+      "en": "We did it!",
+      "zh": "我们做到了！"
+    },
+    {
+      "no": 47,
+      "en": "Later, we learned some first aid skills, like CPR and other basic life support training.",
+      "zh": "后来我们学了些急救技能，比如心肺复苏和其他基础生命支持训练。"
+    },
+    {
+      "no": 48,
+      "en": "We talked about online safety practices and where to find help in any emergency.",
+      "zh": "我们讨论了网络安全做法，以及遇到紧急情况去哪儿求助。"
+    },
+    {
+      "no": 49,
+      "en": "We discussed how to stay safe in a big crowd, and what to do to avoid drowning.",
+      "zh": "我们讨论了在人群中怎么保护自己，还有怎样避免溺水。"
+    },
+    {
+      "no": 50,
+      "en": "The safety education activities helped us understand how to stay safe and make good choices in different situations.",
+      "zh": "这些安全教育活动让我们明白，在不同场合怎样保护自己、做出正确选择。"
+    },
+    {
+      "no": 51,
+      "en": "It was a beautiful noon.",
+      "zh": "那是个美好的中午。"
+    },
+    {
+      "no": 52,
+      "en": "I was riding my bicycle by the river, thinking about yesterday’s baseball game.",
+      "zh": "我正沿着河边骑车，想着昨天的棒球赛。"
+    },
+    {
+      "no": 53,
+      "en": "I guess I rode over a hole in the road.",
+      "zh": "我猜是压到了路上的一个坑。"
+    },
+    {
+      "no": 54,
+      "en": "All of a sudden, WHAM!",
+      "zh": "突然，砰！"
+    },
+    {
+      "no": 55,
+      "en": "I went down hard on my right side.",
+      "zh": "我右侧重重地摔了下去。"
+    },
+    {
+      "no": 56,
+      "en": "That really hurt!",
+      "zh": "真疼啊！"
+    },
+    {
+      "no": 57,
+      "en": "My head hit the ground.",
+      "zh": "我的头磕到了地上。"
+    },
+    {
+      "no": 58,
+      "en": "I lay there for a few minutes.",
+      "zh": "我在地上躺了几分钟。"
+    },
+    {
+      "no": 59,
+      "en": "I tried to get up, but I couldn’t!",
+      "zh": "我想爬起来，却起不来！"
+    },
+    {
+      "no": 60,
+      "en": "“There’s something wrong with me,” I thought.",
+      "zh": "我心想：「我肯定是哪儿不对劲。」"
+    },
+    {
+      "no": 61,
+      "en": "I felt so terrible that I lay down again.",
+      "zh": "我难受极了，又躺了回去。"
+    },
+    {
+      "no": 62,
+      "en": "Then I saw blood on my shoe.",
+      "zh": "接着我看见鞋上有血。"
+    },
+    {
+      "no": 63,
+      "en": "My hand and knee were bleeding.",
+      "zh": "我的手和膝盖都在流血。"
+    },
+    {
+      "no": 64,
+      "en": "I was in a lot of pain.",
+      "zh": "我疼得厉害。"
+    },
+    {
+      "no": 65,
+      "en": "As I lay there, I took off my helmet.",
+      "zh": "躺着的时候，我摘下了头盔。"
+    },
+    {
+      "no": 66,
+      "en": "There was a sharp rock sticking out of it.",
+      "zh": "上面扎着一块尖石头。"
+    },
+    {
+      "no": 67,
+      "en": "It was pretty scary to look at.",
+      "zh": "看着真吓人。"
+    },
+    {
+      "no": 68,
+      "en": "Thank goodness I wore my helmet!",
+      "zh": "谢天谢地，我戴了头盔！"
+    },
+    {
+      "no": 69,
+      "en": "I shouted for help.",
+      "zh": "我大声呼救。"
+    },
+    {
+      "no": 70,
+      "en": "A driver stopped his truck and came to help me.",
+      "zh": "一位司机停下车，过来帮我。"
+    },
+    {
+      "no": 71,
+      "en": "He put my bike in the back of his truck and drove me to the hospital.",
+      "zh": "他把我的自行车放到车斗里，开车送我去了医院。"
+    },
+    {
+      "no": 72,
+      "en": "When my mother got to the hospital, she gave me a big hug and kiss.",
+      "zh": "妈妈赶到医院时，紧紧抱住我、亲了亲我。"
+    },
+    {
+      "no": 73,
+      "en": "“You were wearing your helmet this time.",
+      "zh": "「这次你戴了头盔。"
+    },
+    {
+      "no": 74,
+      "en": "How lucky you were!” she said.",
+      "zh": "多幸运啊！」她说。"
+    },
+    {
+      "no": 75,
+      "en": "She knew I was careless and did not always wear my helmet.",
+      "zh": "她知道我马虎，以前并不总戴头盔。"
+    },
+    {
+      "no": 76,
+      "en": "But I’ll never be careless again...",
+      "zh": "可我再也不会马虎了……"
+    },
+    {
+      "no": 77,
+      "en": "My bicycle helmet saved my life!",
+      "zh": "我的自行车头盔救了我的命！"
+    },
+    {
+      "no": 78,
+      "en": "NORTH TOWN, Alberta.",
+      "zh": "阿尔伯塔省北镇。"
+    },
+    {
+      "no": 79,
+      "en": "Thirteen-year-old Ann Brown was hit by a car outside North Town Primary School at 15 Park Road.",
+      "zh": "13 岁的安·布朗在公园路 15 号北镇小学外被车撞了。"
+    },
+    {
+      "no": 80,
+      "en": "The accident happened at about 7:30 a.m.",
+      "zh": "事故大约发生在早上 7 点半。"
+    },
+    {
+      "no": 81,
+      "en": "She and her brother, James, were on their way to an early basketball practice.",
+      "zh": "她和哥哥詹姆斯正赶去参加早上的篮球训练。"
+    },
+    {
+      "no": 82,
+      "en": "“We were in a hurry,” James told the reporter.",
+      "zh": "「我们当时很着急，」詹姆斯告诉记者。"
+    },
+    {
+      "no": 83,
+      "en": "“We didn’t want to be late for practice.",
+      "zh": "「我们不想训练迟到。"
+    },
+    {
+      "no": 84,
+      "en": "Ann’s basketball rolled onto the street.",
+      "zh": "安的篮球滚到了马路上。"
+    },
+    {
+      "no": 85,
+      "en": "She raced to get it.”",
+      "zh": "她冲过去捡球。」"
+    },
+    {
+      "no": 86,
+      "en": "Mrs Andrews, a chemistry teacher from Green Wood School, was walking several steps behind the two students.",
+      "zh": "绿林学校的化学老师安德鲁斯夫人走在两个学生后面几步远。"
+    },
+    {
+      "no": 87,
+      "en": "She saw it happen.",
+      "zh": "她亲眼看见了这一幕。"
+    },
+    {
+      "no": 88,
+      "en": "“I don’t know whose fault it was,” Mrs Andrews said.",
+      "zh": "「我不知道是谁的错，」安德鲁斯夫人说。"
+    },
+    {
+      "no": 89,
+      "en": "“The girl didn’t see the car.",
+      "zh": "「那女孩没看见车。"
+    },
+    {
+      "no": 90,
+      "en": "And the street was icy — the car couldn’t stop in time.",
+      "zh": "路面又结了冰——车没能及时停下。"
+    },
+    {
+      "no": 91,
+      "en": "It was terrible.”",
+      "zh": "太可怕了。」"
+    },
+    {
+      "no": 92,
+      "en": "Mrs Andrews said, “I shouted to the girl.",
+      "zh": "安德鲁斯夫人说：「我朝那女孩喊了。"
+    },
+    {
+      "no": 93,
+      "en": "I wanted to stop her from running after the ball, but she didn’t hear me.”",
+      "zh": "我想拦住她别去追球，可她没听见。」"
+    },
+    {
+      "no": 94,
+      "en": "After the accident, the car stopped, and the driver, Bill Morin, jumped out.",
+      "zh": "事故发生后，车停了下来，司机比尔·莫林跳下车。"
+    },
+    {
+      "no": 95,
+      "en": "He called an ambulance.",
+      "zh": "他叫了救护车。"
+    },
+    {
+      "no": 96,
+      "en": "Mr Morin knows first aid.",
+      "zh": "莫林先生懂急救。"
+    },
+    {
+      "no": 97,
+      "en": "He did not move Ann.",
+      "zh": "他没有搬动安。"
+    },
+    {
+      "no": 98,
+      "en": "He stopped traffic on the road until the ambulance came.",
+      "zh": "他拦住路上的车，一直等到救护车来。"
+    },
+    {
+      "no": 99,
+      "en": "Then the ambulance took both students to the hospital.",
+      "zh": "随后救护车把两个学生都送去了医院。"
+    },
+    {
+      "no": 100,
+      "en": "Both kids were in shock.",
+      "zh": "两个孩子都受到了惊吓。"
+    },
+    {
+      "no": 101,
+      "en": "Ann has a broken leg and a bad shoulder wound.",
+      "zh": "安一条腿骨折，肩膀也伤得很重。"
+    },
+    {
+      "no": 102,
+      "en": "She is recovering in the hospital.",
+      "zh": "她正在医院里恢复。"
+    },
+    {
+      "no": 103,
+      "en": "Doctors say she can expect to return to school in about a week.",
+      "zh": "医生说她大约一周后就能返校。"
+    },
+    {
+      "no": 104,
+      "en": "Many serious accidents happen in people’s homes.",
+      "zh": "很多严重事故发生在家里。"
+    },
+    {
+      "no": 105,
+      "en": "The kitchen and the bathroom are the two most dangerous places in the house.",
+      "zh": "厨房和浴室是家里最危险的两个地方。"
+    },
+    {
+      "no": 106,
+      "en": "Can people prevent certain accidents?",
+      "zh": "有些事故能预防吗？"
+    },
+    {
+      "no": 107,
+      "en": "Yes.",
+      "zh": "能。"
+    },
+    {
+      "no": 108,
+      "en": "Many accidents happen because people are careless.",
+      "zh": "很多事故都是因为人粗心。"
+    },
+    {
+      "no": 109,
+      "en": "So be careful!",
+      "zh": "所以一定要小心！"
+    },
+    {
+      "no": 110,
+      "en": "Be careful with fire and boiling water when you cook.",
+      "zh": "做饭时当心火和开水。"
+    },
+    {
+      "no": 111,
+      "en": "Have fire blankets, fire extinguishers, smoke alarms, and flashlights near the kitchen.",
+      "zh": "厨房附近要备好灭火毯、灭火器、烟雾报警器和手电筒。"
+    },
+    {
+      "no": 112,
+      "en": "Always turn off the oven or stove after use.",
+      "zh": "用完烤箱或炉灶，一定要关掉。"
+    },
+    {
+      "no": 113,
+      "en": "In case of a gas leak, do not use a cell phone or any electric item.",
+      "zh": "万一漏气，别用手机，也别碰任何电器。"
+    },
+    {
+      "no": 114,
+      "en": "Immediately turn off the stove and quickly open a window.",
+      "zh": "马上关掉炉灶，赶紧开窗。"
+    },
+    {
+      "no": 115,
+      "en": "Move to a safe area to inform emergency services and the gas company.",
+      "zh": "到安全的地方再联系急救部门和燃气公司。"
+    },
+    {
+      "no": 116,
+      "en": "Never use electricity in the shower or bathtub.",
+      "zh": "淋浴或泡澡时绝不要用电。"
+    },
+    {
+      "no": 117,
+      "en": "It can shock you!",
+      "zh": "会触电的！"
+    },
+    {
+      "no": 118,
+      "en": "Be sure to keep the bathroom floor dry after you take a shower or bath.",
+      "zh": "洗完澡一定把浴室地面擦干。"
+    },
+    {
+      "no": 119,
+      "en": "It’s easy to slip and fall on a wet floor.",
+      "zh": "地上有水很容易滑倒。"
+    },
+    {
+      "no": 120,
+      "en": "Turn on the cold water first when taking a bath.",
+      "zh": "洗澡时先开冷水。"
+    },
+    {
+      "no": 121,
+      "en": "Then adjust the hot water to ensure a safe water temperature.",
+      "zh": "再调热水，把水温调到安全。"
+    },
+    {
+      "no": 122,
+      "en": "Hot water can burn you.",
+      "zh": "热水会烫伤人。"
+    },
+    {
+      "no": 123,
+      "en": "Home safety focuses on preventing accidents and reacting well to dangers in order to protect the safety of the family.",
+      "zh": "居家安全的重点，是预防事故、妥善应对危险，保护全家人的安全。"
+    },
+    {
+      "no": 124,
+      "en": "Technology can be good or bad.",
+      "zh": "科技有好有坏。"
+    },
+    {
+      "no": 125,
+      "en": "That’s why learning to be cybersafe is so important!",
+      "zh": "所以学会安全上网特别重要！"
+    },
+    {
+      "no": 126,
+      "en": "Never give out private information online.",
+      "zh": "绝不要在网上泄露个人信息。"
+    },
+    {
+      "no": 127,
+      "en": "Question the information you read.",
+      "zh": "看到的信息要多问几个为什么。"
+    },
+    {
+      "no": 128,
+      "en": "Most of us have our names and photos on social media.",
+      "zh": "我们大多数人的名字和照片都在社交媒体上。"
+    },
+    {
+      "no": 129,
+      "en": "But without the right privacy settings, they can be used by dangerous people.",
+      "zh": "可隐私设置没调好，就可能被坏人利用。"
+    },
+    {
+      "no": 130,
+      "en": "Everything you post or send online could be taken and used against your will.",
+      "zh": "你在网上发或传的任何东西，都可能被拿去、违背你的意愿使用。"
+    },
+    {
+      "no": 131,
+      "en": "And once it’s online, it’s nearly impossible to get rid of it completely!",
+      "zh": "而且一旦上网，几乎不可能彻底删干净！"
+    },
+    {
+      "no": 132,
+      "en": "Also be careful of what others send you.",
+      "zh": "别人发来的东西也要当心。"
+    },
+    {
+      "no": 133,
+      "en": "If you click a link or open an attachment, it can be something dangerous for your computer, like a virus.",
+      "zh": "点开链接或附件，可能给电脑带来危险，比如病毒。"
+    },
+    {
+      "no": 134,
+      "en": "The internet era makes gathering information easy.",
+      "zh": "互联网时代，找信息很容易。"
+    },
+    {
+      "no": 135,
+      "en": "But you must consider the source of the information you are reading.",
+      "zh": "但你得想想信息的来源。"
+    },
+    {
+      "no": 136,
+      "en": "Who published it, a stranger or an expert in the field?",
+      "zh": "是谁发的，陌生人还是这一领域的专家？"
+    },
+    {
+      "no": 137,
+      "en": "What website is it on, a blog or a government resource?",
+      "zh": "登在什么网站，博客还是政府资料？"
+    },
+    {
+      "no": 138,
+      "en": "Does it offer different views?",
+      "zh": "它呈现了不同观点吗？"
+    },
+    {
+      "no": 139,
+      "en": "Is it meant to inform you, or simply get a quick reaction?",
+      "zh": "是为了告诉你事实，还是只想让你一时冲动？"
+    },
+    {
+      "no": 140,
+      "en": "You probably know that cyberbullying is bullying, but online.",
+      "zh": "你大概知道，网络欺凌就是发生在网上的欺凌。"
+    },
+    {
+      "no": 141,
+      "en": "Sending hurtful messages, spreading lies about someone, sharing their private photos... these are easy to do, but they have a huge impact on the victim.",
+      "zh": "发伤人的消息、散布别人的谣言、转发别人的私密照片……做起来容易，对受害者却影响巨大。"
+    },
+    {
+      "no": 142,
+      "en": "The best way to deal with cyberbullying is to ignore, block, and delete.",
+      "zh": "应对网络欺凌最好的办法是：不理、拉黑、删除。"
+    },
+    {
+      "no": 143,
+      "en": "Telling a trusted adult is also important, especially if someone is threatening you.",
+      "zh": "告诉信任的大人也很重要，尤其有人威胁你的时候。"
+    },
+    {
+      "no": 144,
+      "en": "Be kind to others.",
+      "zh": "善待别人。"
+    },
+    {
+      "no": 145,
+      "en": "Be careful with your information.",
+      "zh": "管好自己的信息。"
+    },
+    {
+      "no": 146,
+      "en": "Think critically about everything you see online.",
+      "zh": "网上看到的一切都要动脑想想。"
+    },
+    {
+      "no": 147,
+      "en": "This will ensure you are cybersafe!",
+      "zh": "这样你就能安全上网啦！"
+    }
+  ]
+}
