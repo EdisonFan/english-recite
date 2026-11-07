@@ -1,0 +1,88 @@
+{
+  "key": "U01_Lesson2",
+  "no": "Lesson 2",
+  "title": "It's getting warmer!",
+  "title_zh": "天气变暖了！",
+  "kind": "书信 · 王梅写给詹妮的电子邮件",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.302,
+      "role": "WANG MEI",
+      "text": "Dear Jenny, Today is March 6. Jingzhe falls on this day this year."
+    },
+    {
+      "start": 7.302,
+      "end": 10.716,
+      "role": "WANG MEI",
+      "text": "Do you know what Jingzhe is?"
+    },
+    {
+      "start": 10.716,
+      "end": 17.802,
+      "role": "WANG MEI",
+      "text": "It is one of China’s 24 solar terms, and it means “awakening of insects”."
+    },
+    {
+      "start": 17.802,
+      "end": 22.68,
+      "role": "WANG MEI",
+      "text": "The spring thunder wakes insects up from their sleep."
+    },
+    {
+      "start": 22.68,
+      "end": 26.982,
+      "role": "WANG MEI",
+      "text": "Then nature begins to come back to life."
+    },
+    {
+      "start": 26.982,
+      "end": 35.172,
+      "role": "WANG MEI",
+      "text": "Spring is in the air. This morning, the temperature was 10°C in my city."
+    },
+    {
+      "start": 35.172,
+      "end": 46.169999999999995,
+      "role": "WANG MEI",
+      "text": "It reached 15°C this afternoon. It was quite warm. I don’t need my heavy winter coat or boots now!"
+    },
+    {
+      "start": 46.169999999999995,
+      "end": 51.599999999999994,
+      "role": "WANG MEI",
+      "text": "On my way to school, I saw some winter jasmine blossoming."
+    },
+    {
+      "start": 51.599999999999994,
+      "end": 60.989999999999995,
+      "role": "WANG MEI",
+      "text": "People believe the blossom of this flower always tells the coming of spring, so we call winter jasmine “the welcoming-spring flower”."
+    },
+    {
+      "start": 60.989999999999995,
+      "end": 70.97999999999999,
+      "role": "WANG MEI",
+      "text": "I like spring. It is the best season for going out. We are going to be more active, like insects!"
+    },
+    {
+      "start": 70.97999999999999,
+      "end": 86.082,
+      "role": "WANG MEI",
+      "text": "We will form a music band. There is going to be a basketball game next week. My class is also planning a field trip. We will plant trees. I can’t wait!"
+    },
+    {
+      "start": 86.082,
+      "end": 93.648,
+      "role": "WANG MEI",
+      "text": "What’s the weather like in Canada? What type of classic spring activities do you do?"
+    },
+    {
+      "start": 93.648,
+      "end": 96.414,
+      "role": "WANG MEI",
+      "text": "Wang Mei"
+    }
+  ],
+  "total": 96.414
+}

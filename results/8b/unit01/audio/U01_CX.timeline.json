@@ -1,0 +1,142 @@
+{
+  "key": "U01_CX",
+  "no": "The 24 solar terms",
+  "title": "The 24 solar terms",
+  "title_zh": "二十四节气",
+  "kind": "说明文 · 春季六个节气介绍",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 5.766,
+      "role": "NARRATOR",
+      "text": "The 24 solar terms reflect the wisdom of our ancestors."
+    },
+    {
+      "start": 5.766,
+      "end": 11.076,
+      "role": "NARRATOR",
+      "text": "They help us understand how nature changes throughout the year."
+    },
+    {
+      "start": 11.076,
+      "end": 19.242,
+      "role": "NARRATOR",
+      "text": "Our ancestors observed nature and created the Chinese lunar calendar to guide farming and daily life."
+    },
+    {
+      "start": 19.242,
+      "end": 23.976,
+      "role": "NARRATOR",
+      "text": "There are several solar terms for the spring season."
+    },
+    {
+      "start": 23.976,
+      "end": 28.637999999999998,
+      "role": "NARRATOR",
+      "text": "They tell us about the coming of this beautiful season."
+    },
+    {
+      "start": 28.637999999999998,
+      "end": 31.595999999999997,
+      "role": "NARRATOR",
+      "text": "Start of Spring"
+    },
+    {
+      "start": 31.595999999999997,
+      "end": 38.25,
+      "role": "NARRATOR",
+      "text": "It usually falls around February 4 or 5 and marks the beginning of spring."
+    },
+    {
+      "start": 38.25,
+      "end": 46.488,
+      "role": "NARRATOR",
+      "text": "The weather starts to get warmer and we can see new plants grow and animals become active after a long winter."
+    },
+    {
+      "start": 46.488,
+      "end": 49.278,
+      "role": "NARRATOR",
+      "text": "Rain Water"
+    },
+    {
+      "start": 49.278,
+      "end": 59.028,
+      "role": "NARRATOR",
+      "text": "It arrives around February 19 or 20. It reminds us of the increase in rainfall as the weather gets warmer."
+    },
+    {
+      "start": 59.028,
+      "end": 63.114,
+      "role": "NARRATOR",
+      "text": "Jingzhe (Awakening of Insects)"
+    },
+    {
+      "start": 63.114,
+      "end": 68.136,
+      "role": "NARRATOR",
+      "text": "It usually takes place around March 5 or 6."
+    },
+    {
+      "start": 68.136,
+      "end": 73.47,
+      "role": "NARRATOR",
+      "text": "Jingzhe tells us that insects are coming out of hibernation."
+    },
+    {
+      "start": 73.47,
+      "end": 79.884,
+      "role": "NARRATOR",
+      "text": "We might hear more birds singing and see butterflies and bees buzzing around."
+    },
+    {
+      "start": 79.884,
+      "end": 83.13,
+      "role": "NARRATOR",
+      "text": "Spring Equinox"
+    },
+    {
+      "start": 83.13,
+      "end": 91.32,
+      "role": "NARRATOR",
+      "text": "It comes around March 20 or 21, when the length of the day is nearly equal to that of the night."
+    },
+    {
+      "start": 91.32,
+      "end": 94.99799999999999,
+      "role": "NARRATOR",
+      "text": "Qingming (Clear and Bright)"
+    },
+    {
+      "start": 94.99799999999999,
+      "end": 109.23599999999999,
+      "role": "NARRATOR",
+      "text": "It usually falls around April 4 or 5. Qingming is a time when people honour their ancestors. It’s also a time to enjoy outdoor activities and the beauty of spring."
+    },
+    {
+      "start": 109.23599999999999,
+      "end": 111.978,
+      "role": "NARRATOR",
+      "text": "Grain Rain"
+    },
+    {
+      "start": 111.978,
+      "end": 125.064,
+      "role": "NARRATOR",
+      "text": "It occurs around April 19 or 20. Farmers sow seeds during this time, and the rain nourishes the soil to make sure the farmers have a good harvest in the future."
+    },
+    {
+      "start": 125.064,
+      "end": 131.142,
+      "role": "NARRATOR",
+      "text": "These solar terms teach us how to follow the seasons and make the best of them."
+    },
+    {
+      "start": 131.142,
+      "end": 139.14,
+      "role": "NARRATOR",
+      "text": "They show us the relationship between humans and nature and call upon us to respect the world around us."
+    }
+  ],
+  "total": 139.14
+}

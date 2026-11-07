@@ -1,0 +1,82 @@
+{
+  "key": "U01_Lesson1",
+  "no": "Lesson 1",
+  "title": "Planting trees",
+  "title_zh": "植树",
+  "kind": "对话 · 刘老师与同学们讨论植树活动",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 5.382,
+      "role": "MS LIU",
+      "text": "Good morning, everyone! Who is on weather duty today?"
+    },
+    {
+      "start": 5.382,
+      "end": 21.732,
+      "role": "WANG MEI",
+      "text": "It’s me! Today is Monday, March 1. The temperature will reach 15°C by noon and drop to 2°C at night. Overall, it will be a warm, cloudy day."
+    },
+    {
+      "start": 21.732,
+      "end": 33.498,
+      "role": "MS LIU",
+      "text": "Well done, Wang Mei. The days are getting longer, and spring is coming. We have a school project on March 12. Can you guess what it is?"
+    },
+    {
+      "start": 33.498,
+      "end": 36.623999999999995,
+      "role": "LI MING",
+      "text": "Is it tree planting?"
+    },
+    {
+      "start": 36.623999999999995,
+      "end": 41.19,
+      "role": "MS LIU",
+      "text": "Good guess. Do you know how to plant trees?"
+    },
+    {
+      "start": 41.19,
+      "end": 50.436,
+      "role": "LI MING",
+      "text": "Yes. I learned to plant trees when I visited my uncle last spring. It was so much fun."
+    },
+    {
+      "start": 50.436,
+      "end": 54.594,
+      "role": "MS LIU",
+      "text": "Could you tell us the steps for planting trees?"
+    },
+    {
+      "start": 54.594,
+      "end": 71.424,
+      "role": "LI MING",
+      "text": "Sure. First, dig a large hole. Then, place the seedling inside the hole, and cover its roots with soil. Finally, press down the soil. Oh, don’t forget to water the tree."
+    },
+    {
+      "start": 71.424,
+      "end": 78.894,
+      "role": "MS LIU",
+      "text": "Excellent, Li Ming. Why do people plant trees? Do you have any ideas?"
+    },
+    {
+      "start": 78.894,
+      "end": 83.244,
+      "role": "SONG HUA",
+      "text": "Trees help protect the soil from rainfall."
+    },
+    {
+      "start": 83.244,
+      "end": 86.922,
+      "role": "LI LIN",
+      "text": "Trees prevent dust from spreading."
+    },
+    {
+      "start": 86.922,
+      "end": 97.704,
+      "role": "MS LIU",
+      "text": "Good points. Planting trees is also a wonderful way to learn more about nature. I believe you will have a great time with this project."
+    }
+  ],
+  "total": 97.704
+}

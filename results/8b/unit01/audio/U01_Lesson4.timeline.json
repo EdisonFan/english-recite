@@ -1,0 +1,124 @@
+{
+  "key": "U01_Lesson4",
+  "no": "Lesson 4",
+  "title": "Stories about spring",
+  "title_zh": "春天的故事",
+  "kind": "说明+书信 · 土拨鼠日文化小贴士与詹妮的回信",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.134,
+      "role": "NARRATOR",
+      "text": "Groundhog Day is on February 2. On that day, a small animal called groundhog comes out of its hole in the ground."
+    },
+    {
+      "start": 10.134,
+      "end": 16.644,
+      "role": "JENNY",
+      "text": "Dear Wang Mei, It isn’t snowing today, but there is still snow on the grass."
+    },
+    {
+      "start": 16.644,
+      "end": 21.378,
+      "role": "JENNY",
+      "text": "In Edmonton, the spring weather is a little wild."
+    },
+    {
+      "start": 21.378,
+      "end": 25.776,
+      "role": "JENNY",
+      "text": "It can be cold and snowy or warm and sunny."
+    },
+    {
+      "start": 25.776,
+      "end": 34.542,
+      "role": "JENNY",
+      "text": "The temperature can be as low as -15°C, but it can also reach 15°C."
+    },
+    {
+      "start": 34.542,
+      "end": 39.54,
+      "role": "JENNY",
+      "text": "We probably won’t see any flowers until May or June!"
+    },
+    {
+      "start": 39.54,
+      "end": 44.922,
+      "role": "JENNY",
+      "text": "After school today, we had so much fun playing outside."
+    },
+    {
+      "start": 44.922,
+      "end": 52.199999999999996,
+      "role": "JENNY",
+      "text": "We played “snow” soccer, but we had to wear jackets, jeans, and boots to stay warm."
+    },
+    {
+      "start": 52.199999999999996,
+      "end": 57.53399999999999,
+      "role": "JENNY",
+      "text": "When it gets warmer, we can play in our shorts and T-shirts."
+    },
+    {
+      "start": 57.53399999999999,
+      "end": 65.892,
+      "role": "JENNY",
+      "text": "I like spring because there are lots of activities to do, like cycling, having picnics, and hiking."
+    },
+    {
+      "start": 65.892,
+      "end": 72.13799999999999,
+      "role": "JENNY",
+      "text": "I like the Chinese name for winter jasmine. It’s interesting."
+    },
+    {
+      "start": 72.13799999999999,
+      "end": 78.312,
+      "role": "JENNY",
+      "text": "Here, we have Groundhog Day on February 2 for the coming of spring."
+    },
+    {
+      "start": 78.312,
+      "end": 81.89399999999999,
+      "role": "JENNY",
+      "text": "Do you know what happens on that day?"
+    },
+    {
+      "start": 81.89399999999999,
+      "end": 88.93199999999999,
+      "role": "JENNY",
+      "text": "Another fun part of spring is going to the sugar bush, a big tree farm in the countryside."
+    },
+    {
+      "start": 88.93199999999999,
+      "end": 92.17799999999998,
+      "role": "JENNY",
+      "text": "We make maple syrup."
+    },
+    {
+      "start": 92.17799999999998,
+      "end": 98.23199999999999,
+      "role": "JENNY",
+      "text": "We eat lots of tasty breakfast foods — all with maple syrup on them!"
+    },
+    {
+      "start": 98.23199999999999,
+      "end": 101.78999999999999,
+      "role": "JENNY",
+      "text": "I love spring activities."
+    },
+    {
+      "start": 101.78999999999999,
+      "end": 104.69999999999999,
+      "role": "JENNY",
+      "text": "Talk to you soon!"
+    },
+    {
+      "start": 104.69999999999999,
+      "end": 107.106,
+      "role": "JENNY",
+      "text": "Jenny"
+    }
+  ],
+  "total": 107.106
+}

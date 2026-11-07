@@ -1,0 +1,112 @@
+{
+  "key": "U01_Lesson3",
+  "no": "Lesson 3",
+  "title": "The Spring City",
+  "title_zh": "春城",
+  "kind": "叙述 · 第一人称介绍家乡昆明（春城）",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 6.462,
+      "role": "NARRATOR",
+      "text": "When we talk about spring, we think of a season of warm weather and fresh air."
+    },
+    {
+      "start": 6.462,
+      "end": 13.26,
+      "role": "NARRATOR",
+      "text": "We also think of new life, green plants, and budding trees all around us."
+    },
+    {
+      "start": 13.26,
+      "end": 18.018,
+      "role": "NARRATOR",
+      "text": "Spring is short in many places around the world."
+    },
+    {
+      "start": 18.018,
+      "end": 23.808,
+      "role": "NARRATOR",
+      "text": "But in my hometown, it feels like spring nearly all year round."
+    },
+    {
+      "start": 23.808,
+      "end": 28.662,
+      "role": "NARRATOR",
+      "text": "The weather here is neither too hot nor too cold."
+    },
+    {
+      "start": 28.662,
+      "end": 39.492,
+      "role": "NARRATOR",
+      "text": "The average temperature in winter is 15°C. In summer, the average temperature is 24°C."
+    },
+    {
+      "start": 39.492,
+      "end": 44.73,
+      "role": "NARRATOR",
+      "text": "While the sun is shining, the temperature remains pleasant."
+    },
+    {
+      "start": 44.73,
+      "end": 53.687999999999995,
+      "role": "NARRATOR",
+      "text": "The city gets about 2,250 hours of sunshine and about 1,000 millimetres of rain every year."
+    },
+    {
+      "start": 53.687999999999995,
+      "end": 61.565999999999995,
+      "role": "NARRATOR",
+      "text": "Because the weather is spring-like, you can find hundreds of beautiful flowers and trees all year round."
+    },
+    {
+      "start": 61.565999999999995,
+      "end": 66.49199999999999,
+      "role": "NARRATOR",
+      "text": "There are many famous scenic spots in my hometown."
+    },
+    {
+      "start": 66.49199999999999,
+      "end": 72.258,
+      "role": "NARRATOR",
+      "text": "The Stone Forest is a must-see for tourists from home and abroad."
+    },
+    {
+      "start": 72.258,
+      "end": 77.616,
+      "role": "NARRATOR",
+      "text": "There are many special rocks that look like tall stone trees."
+    },
+    {
+      "start": 77.616,
+      "end": 82.422,
+      "role": "NARRATOR",
+      "text": "The Dianchi Lake is the biggest in Yunnan Province."
+    },
+    {
+      "start": 82.422,
+      "end": 88.788,
+      "role": "NARRATOR",
+      "text": "You can enjoy the beauty of the area and go boating or take a walk by the water."
+    },
+    {
+      "start": 88.788,
+      "end": 96.282,
+      "role": "NARRATOR",
+      "text": "Can you guess the name of my hometown? Yes, it’s Kunming — the Spring City."
+    },
+    {
+      "start": 96.282,
+      "end": 99.696,
+      "role": "NARRATOR",
+      "text": "Welcome to my hometown."
+    },
+    {
+      "start": 99.696,
+      "end": 105.846,
+      "role": "NARRATOR",
+      "text": "When you visit, you will feel our warmth and friendliness, just like spring!"
+    }
+  ],
+  "total": 105.846
+}

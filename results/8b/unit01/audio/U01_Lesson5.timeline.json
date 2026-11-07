@@ -1,0 +1,100 @@
+{
+  "key": "U01_Lesson5",
+  "no": "Lesson 5",
+  "title": "Jeremy's observation diary",
+  "title_zh": "杰里米的观察日记",
+  "kind": "日记 · 杰里米的豌豆生长观察日记",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.278,
+      "role": "NARRATOR",
+      "text": "In the life skills class last week, we learned about agriculture and plant biology."
+    },
+    {
+      "start": 7.278,
+      "end": 13.788,
+      "role": "NARRATOR",
+      "text": "The teacher gave us some seeds so we could observe the growing process of a plant."
+    },
+    {
+      "start": 13.788,
+      "end": 21.618000000000002,
+      "role": "NARRATOR",
+      "text": "I picked some pea seeds and planted them in a small pot. I watered them every day."
+    },
+    {
+      "start": 21.618000000000002,
+      "end": 25.176000000000002,
+      "role": "NARRATOR",
+      "text": "I hope my peas grow quickly!"
+    },
+    {
+      "start": 25.176000000000002,
+      "end": 29.838,
+      "role": "NARRATOR",
+      "text": "Here are some of my observations on the peas’ growth:"
+    },
+    {
+      "start": 29.838,
+      "end": 37.572,
+      "role": "NARRATOR",
+      "text": "Date: March 3 Weather conditions: sunny, temperature around 18°C"
+    },
+    {
+      "start": 37.572,
+      "end": 45.594,
+      "role": "NARRATOR",
+      "text": "Observations: The pea seeds grew into buds. They look like the English letter “Y”."
+    },
+    {
+      "start": 45.594,
+      "end": 49.152,
+      "role": "NARRATOR",
+      "text": "My peas are growing quickly!"
+    },
+    {
+      "start": 49.152,
+      "end": 57.078,
+      "role": "NARRATOR",
+      "text": "Date: April 3 Weather conditions: rainy, temperature around 22°C"
+    },
+    {
+      "start": 57.078,
+      "end": 65.07600000000001,
+      "role": "NARRATOR",
+      "text": "Observations: The pea flowers are in full bloom. Some are pink and some are purple."
+    },
+    {
+      "start": 65.07600000000001,
+      "end": 70.674,
+      "role": "NARRATOR",
+      "text": "When the pea plants grow taller, I will give them a shelf to climb on."
+    },
+    {
+      "start": 70.674,
+      "end": 78.792,
+      "role": "NARRATOR",
+      "text": "Date: March 30 Weather conditions: cloudy, temperature around 19°C"
+    },
+    {
+      "start": 78.792,
+      "end": 85.23,
+      "role": "NARRATOR",
+      "text": "Observations: Now, there are long, thin stems and some leaves."
+    },
+    {
+      "start": 85.23,
+      "end": 89.796,
+      "role": "NARRATOR",
+      "text": "At the top of the stems are little flower buds!"
+    },
+    {
+      "start": 89.796,
+      "end": 96.35400000000001,
+      "role": "NARRATOR",
+      "text": "I put the pot in the yard. There, they can get some sunshine."
+    }
+  ],
+  "total": 96.35400000000001
+}
