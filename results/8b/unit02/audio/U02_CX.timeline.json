@@ -1,0 +1,76 @@
+{
+  "key": "U02_CX",
+  "no": "Unit cultures",
+  "title": "Being cybersafe",
+  "title_zh": "安全上网",
+  "kind": "说明文 · 个人信息、虚假信息与网络欺凌",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 14.406,
+      "role": "NARRATOR",
+      "text": "Technology can be good or bad. That’s why learning to be cybersafe is so important! Never give out private information online. Question the information you read."
+    },
+    {
+      "start": 14.406,
+      "end": 25.044,
+      "role": "NARRATOR",
+      "text": "Most of us have our names and photos on social media. But without the right privacy settings, they can be used by dangerous people."
+    },
+    {
+      "start": 25.044,
+      "end": 36.834,
+      "role": "NARRATOR",
+      "text": "Everything you post or send online could be taken and used against your will. And once it’s online, it’s nearly impossible to get rid of it completely!"
+    },
+    {
+      "start": 36.834,
+      "end": 48.288000000000004,
+      "role": "NARRATOR",
+      "text": "Also be careful of what others send you. If you click a link or open an attachment, it can be something dangerous for your computer, like a virus."
+    },
+    {
+      "start": 48.288000000000004,
+      "end": 57.75,
+      "role": "NARRATOR",
+      "text": "The internet era makes gathering information easy. But you must consider the source of the information you are reading."
+    },
+    {
+      "start": 57.75,
+      "end": 70.212,
+      "role": "NARRATOR",
+      "text": "Who published it, a stranger or an expert in the field? What website is it on, a blog or a government resource? Does it offer different views?"
+    },
+    {
+      "start": 70.212,
+      "end": 75.474,
+      "role": "NARRATOR",
+      "text": "Is it meant to inform you, or simply get a quick reaction?"
+    },
+    {
+      "start": 75.474,
+      "end": 81.0,
+      "role": "NARRATOR",
+      "text": "You probably know that cyberbullying is bullying, but online."
+    },
+    {
+      "start": 81.0,
+      "end": 92.022,
+      "role": "NARRATOR",
+      "text": "Sending hurtful messages, spreading lies about someone, sharing their private photos... these are easy to do, but they have a huge impact on the victim."
+    },
+    {
+      "start": 92.022,
+      "end": 104.364,
+      "role": "NARRATOR",
+      "text": "The best way to deal with cyberbullying is to ignore, block, and delete. Telling a trusted adult is also important, especially if someone is threatening you."
+    },
+    {
+      "start": 104.364,
+      "end": 117.138,
+      "role": "NARRATOR",
+      "text": "Be kind to others. Be careful with your information. Think critically about everything you see online. This will ensure you are cybersafe!"
+    }
+  ],
+  "total": 117.138
+}

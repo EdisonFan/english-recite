@@ -1,0 +1,70 @@
+{
+  "key": "U02_Lesson5",
+  "no": "Lesson 5",
+  "title": "Home safety",
+  "title_zh": "居家安全",
+  "kind": "说明文 · 厨房与浴室的居家安全提示",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.086,
+      "role": "NARRATOR",
+      "text": "Many serious accidents happen in people’s homes. The kitchen and the bathroom are the two most dangerous places in the house."
+    },
+    {
+      "start": 10.086,
+      "end": 22.14,
+      "role": "NARRATOR",
+      "text": "Can people prevent certain accidents? Yes. Many accidents happen because people are careless. So be careful!"
+    },
+    {
+      "start": 22.14,
+      "end": 27.114,
+      "role": "NARRATOR",
+      "text": "Be careful with fire and boiling water when you cook."
+    },
+    {
+      "start": 27.114,
+      "end": 34.872,
+      "role": "NARRATOR",
+      "text": "Have fire blankets, fire extinguishers, smoke alarms, and flashlights near the kitchen."
+    },
+    {
+      "start": 34.872,
+      "end": 45.15,
+      "role": "NARRATOR",
+      "text": "Always turn off the oven or stove after use. In case of a gas leak, do not use a cell phone or any electric item."
+    },
+    {
+      "start": 45.15,
+      "end": 56.196,
+      "role": "NARRATOR",
+      "text": "Immediately turn off the stove and quickly open a window. Move to a safe area to inform emergency services and the gas company."
+    },
+    {
+      "start": 56.196,
+      "end": 63.233999999999995,
+      "role": "NARRATOR",
+      "text": "Never use electricity in the shower or bathtub. It can shock you!"
+    },
+    {
+      "start": 63.233999999999995,
+      "end": 72.744,
+      "role": "NARRATOR",
+      "text": "Be sure to keep the bathroom floor dry after you take a shower or bath. It’s easy to slip and fall on a wet floor."
+    },
+    {
+      "start": 72.744,
+      "end": 84.846,
+      "role": "NARRATOR",
+      "text": "Turn on the cold water first when taking a bath. Then adjust the hot water to ensure a safe water temperature. Hot water can burn you."
+    },
+    {
+      "start": 84.846,
+      "end": 93.924,
+      "role": "NARRATOR",
+      "text": "Home safety focuses on preventing accidents and reacting well to dangers in order to protect the safety of the family."
+    }
+  ],
+  "total": 93.924
+}

@@ -1,0 +1,124 @@
+{
+  "key": "U02_Lesson1",
+  "no": "Lesson 1",
+  "title": "Be careful!",
+  "title_zh": "小心！",
+  "kind": "对话课本剧 · 装饰美术教室时 Danny 爬椅子挂星星摔下来",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 4.422000000000001,
+      "role": "NARRATOR",
+      "text": "The students are decorating the art classroom."
+    },
+    {
+      "start": 4.422000000000001,
+      "end": 14.772,
+      "role": "DANNY",
+      "text": "Look at this yellow star, Brian and Jenny! Isn’t it beautiful? I’m going to hang it from the ceiling over the desk."
+    },
+    {
+      "start": 14.772,
+      "end": 19.938000000000002,
+      "role": "BRIAN",
+      "text": "Here is the tape. I’ll get the ladder for you."
+    },
+    {
+      "start": 19.938000000000002,
+      "end": 25.200000000000003,
+      "role": "DANNY",
+      "text": "I don’t need a ladder. I think I’m tall enough."
+    },
+    {
+      "start": 25.200000000000003,
+      "end": 31.326000000000004,
+      "role": "NARRATOR",
+      "text": "Danny can’t reach the ceiling, so he climbs onto Mr Green’s chair."
+    },
+    {
+      "start": 31.326000000000004,
+      "end": 36.972,
+      "role": "DANNY",
+      "text": "Almost… Almost… Aaaaaaahhhh!"
+    },
+    {
+      "start": 36.972,
+      "end": 39.882000000000005,
+      "role": "NARRATOR",
+      "text": "Danny falls."
+    },
+    {
+      "start": 39.882000000000005,
+      "end": 43.032000000000004,
+      "role": "NARRATOR",
+      "text": "What was that noise?!"
+    },
+    {
+      "start": 43.032000000000004,
+      "end": 46.95,
+      "role": "NARRATOR",
+      "text": "He sees Danny lying on the floor."
+    },
+    {
+      "start": 46.95,
+      "end": 52.188,
+      "role": "NARRATOR",
+      "text": "Danny, are you okay? Are you hurt?"
+    },
+    {
+      "start": 52.188,
+      "end": 58.578,
+      "role": "DANNY",
+      "text": "Hmm… My tail is a little sore, but it’s not serious."
+    },
+    {
+      "start": 58.578,
+      "end": 64.70400000000001,
+      "role": "NARRATOR",
+      "text": "Then, they hear Brian cry for help, but his voice is very weak."
+    },
+    {
+      "start": 64.70400000000001,
+      "end": 68.98200000000001,
+      "role": "NARRATOR",
+      "text": "Brian? Where are you?"
+    },
+    {
+      "start": 68.98200000000001,
+      "end": 74.10000000000001,
+      "role": "BRIAN",
+      "text": "Help me, sir! I’m under Danny!"
+    },
+    {
+      "start": 74.10000000000001,
+      "end": 81.40200000000002,
+      "role": "DANNY",
+      "text": "Oh no! I’m really sorry! Are you okay, Brian?"
+    },
+    {
+      "start": 81.40200000000002,
+      "end": 91.08000000000001,
+      "role": "BRIAN",
+      "text": "No, I’m opposite of okay. I tried to catch you, but you landed on top of me. My arm hurts."
+    },
+    {
+      "start": 91.08000000000001,
+      "end": 94.42200000000001,
+      "role": "JENNY",
+      "text": "Should I call an ambulance?"
+    },
+    {
+      "start": 94.42200000000001,
+      "end": 100.81200000000001,
+      "role": "BRIAN",
+      "text": "No, that’s not necessary. I don’t think my arm is broken."
+    },
+    {
+      "start": 100.81200000000001,
+      "end": 111.71400000000001,
+      "role": "NARRATOR",
+      "text": "Jenny, please call Brian’s mother. Tell her we are taking Brian to the hospital. He should get an X-ray just in case."
+    }
+  ],
+  "total": 111.71400000000001
+}

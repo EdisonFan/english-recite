@@ -1,0 +1,70 @@
+{
+  "key": "U02_Lesson4",
+  "no": "Lesson 4",
+  "title": "An accident on the street",
+  "title_zh": "街上的一起事故",
+  "kind": "新闻报道 · 13 岁女孩过街追球被车撞伤",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 15.174,
+      "role": "NARRATOR",
+      "text": "NORTH TOWN, Alberta. Thirteen-year-old Ann Brown was hit by a car outside North Town Primary School at 15 Park Road. The accident happened at about 7:30 a.m."
+    },
+    {
+      "start": 15.174,
+      "end": 22.067999999999998,
+      "role": "NARRATOR",
+      "text": "She and her brother, James, were on their way to an early basketball practice."
+    },
+    {
+      "start": 22.067999999999998,
+      "end": 35.321999999999996,
+      "role": "NARRATOR",
+      "text": "“We were in a hurry,” James told the reporter. “We didn’t want to be late for practice. Ann’s basketball rolled onto the street. She raced to get it.”"
+    },
+    {
+      "start": 35.321999999999996,
+      "end": 46.248,
+      "role": "NARRATOR",
+      "text": "Mrs Andrews, a chemistry teacher from Green Wood School, was walking several steps behind the two students. She saw it happen."
+    },
+    {
+      "start": 46.248,
+      "end": 60.15,
+      "role": "NARRATOR",
+      "text": "“I don’t know whose fault it was,” Mrs Andrews said. “The girl didn’t see the car. And the street was icy — the car couldn’t stop in time. It was terrible.”"
+    },
+    {
+      "start": 60.15,
+      "end": 69.708,
+      "role": "NARRATOR",
+      "text": "Mrs Andrews said, “I shouted to the girl. I wanted to stop her from running after the ball, but she didn’t hear me.”"
+    },
+    {
+      "start": 69.708,
+      "end": 78.882,
+      "role": "NARRATOR",
+      "text": "After the accident, the car stopped, and the driver, Bill Morin, jumped out. He called an ambulance."
+    },
+    {
+      "start": 78.882,
+      "end": 93.33600000000001,
+      "role": "NARRATOR",
+      "text": "Mr Morin knows first aid. He did not move Ann. He stopped traffic on the road until the ambulance came. Then the ambulance took both students to the hospital."
+    },
+    {
+      "start": 93.33600000000001,
+      "end": 96.75000000000001,
+      "role": "NARRATOR",
+      "text": "Both kids were in shock."
+    },
+    {
+      "start": 96.75000000000001,
+      "end": 109.06800000000001,
+      "role": "NARRATOR",
+      "text": "Ann has a broken leg and a bad shoulder wound. She is recovering in the hospital. Doctors say she can expect to return to school in about a week."
+    }
+  ],
+  "total": 109.06800000000001
+}

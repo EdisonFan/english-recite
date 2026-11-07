@@ -1,0 +1,64 @@
+{
+  "key": "U02_Lesson3",
+  "no": "Lesson 3",
+  "title": "My helmet saved my life!",
+  "title_zh": "我的头盔救了我的命！",
+  "kind": "记叙文 · 女孩骑车摔倒，头盔替她挡下尖石",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 14.982,
+      "role": "NARRATOR",
+      "text": "It was a beautiful noon. I was riding my bicycle by the river, thinking about yesterday’s baseball game. I guess I rode over a hole in the road. All of a sudden, WHAM!"
+    },
+    {
+      "start": 14.982,
+      "end": 21.131999999999998,
+      "role": "NARRATOR",
+      "text": "I went down hard on my right side. That really hurt!"
+    },
+    {
+      "start": 21.131999999999998,
+      "end": 33.593999999999994,
+      "role": "NARRATOR",
+      "text": "My head hit the ground. I lay there for a few minutes. I tried to get up, but I couldn’t! “There’s something wrong with me,” I thought."
+    },
+    {
+      "start": 33.593999999999994,
+      "end": 45.839999999999996,
+      "role": "NARRATOR",
+      "text": "I felt so terrible that I lay down again. Then I saw blood on my shoe. My hand and knee were bleeding. I was in a lot of pain."
+    },
+    {
+      "start": 45.839999999999996,
+      "end": 61.68599999999999,
+      "role": "NARRATOR",
+      "text": "As I lay there, I took off my helmet. There was a sharp rock sticking out of it. It was pretty scary to look at. Thank goodness I wore my helmet! I shouted for help."
+    },
+    {
+      "start": 61.68599999999999,
+      "end": 70.93199999999999,
+      "role": "NARRATOR",
+      "text": "A driver stopped his truck and came to help me. He put my bike in the back of his truck and drove me to the hospital."
+    },
+    {
+      "start": 70.93199999999999,
+      "end": 82.64999999999999,
+      "role": "NARRATOR",
+      "text": "When my mother got to the hospital, she gave me a big hug and kiss. “You were wearing your helmet this time. How lucky you were!” she said."
+    },
+    {
+      "start": 82.64999999999999,
+      "end": 87.91199999999999,
+      "role": "NARRATOR",
+      "text": "She knew I was careless and did not always wear my helmet."
+    },
+    {
+      "start": 87.91199999999999,
+      "end": 94.85399999999998,
+      "role": "NARRATOR",
+      "text": "But I’ll never be careless again... My bicycle helmet saved my life!"
+    }
+  ],
+  "total": 94.85399999999998
+}

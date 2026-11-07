@@ -1,0 +1,64 @@
+{
+  "key": "U02_Lesson2",
+  "no": "Lesson 2",
+  "title": "Safety education",
+  "title_zh": "安全教育",
+  "kind": "日记 · Li Ming 记录全国安全教育日的消防演练与急救学习",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 8.886,
+      "role": "LI MING",
+      "text": "Today is National Safety Education Day. Our school organised activities to teach us about safety."
+    },
+    {
+      "start": 8.886,
+      "end": 20.723999999999997,
+      "role": "LI MING",
+      "text": "The first part was fire safety. What should people do in case of a fire emergency? A firefighter gave us a talk and showed us videos."
+    },
+    {
+      "start": 20.723999999999997,
+      "end": 28.721999999999998,
+      "role": "LI MING",
+      "text": "He said that if there is a fire, we should stay calm, find the nearest exit to go outside, and never use lifts."
+    },
+    {
+      "start": 28.721999999999998,
+      "end": 40.751999999999995,
+      "role": "LI MING",
+      "text": "We even had a fire drill! As soon as the fire alarm rang, all the students took action. We covered our mouths and noses with wet towels."
+    },
+    {
+      "start": 40.751999999999995,
+      "end": 48.221999999999994,
+      "role": "LI MING",
+      "text": "We walked down the stairs calmly and in order. Our teachers guided us outside."
+    },
+    {
+      "start": 48.221999999999994,
+      "end": 57.635999999999996,
+      "role": "LI MING",
+      "text": "After the drill, the firefighter taught us how to put out a fire with water or with a fire extinguisher. We did it!"
+    },
+    {
+      "start": 57.635999999999996,
+      "end": 70.386,
+      "role": "LI MING",
+      "text": "Later, we learned some first aid skills, like CPR and other basic life support training. We talked about online safety practices and where to find help in any emergency."
+    },
+    {
+      "start": 70.386,
+      "end": 76.776,
+      "role": "LI MING",
+      "text": "We discussed how to stay safe in a big crowd, and what to do to avoid drowning."
+    },
+    {
+      "start": 76.776,
+      "end": 85.038,
+      "role": "LI MING",
+      "text": "The safety education activities helped us understand how to stay safe and make good choices in different situations."
+    }
+  ],
+  "total": 85.038
+}
