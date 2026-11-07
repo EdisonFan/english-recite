@@ -1,0 +1,702 @@
+{
+  "unit": 1,
+  "scope": "按子句逐句对应",
+  "note": "中文译文按课文语境自译，课本原文无中文对照，仅供跟读理解参考",
+  "items": [
+    {
+      "no": 1,
+      "en": "Good morning, everyone!",
+      "zh": "大家早上好！"
+    },
+    {
+      "no": 2,
+      "en": "Who is on weather duty today?",
+      "zh": "今天谁值日报告天气？"
+    },
+    {
+      "no": 3,
+      "en": "It’s me!",
+      "zh": "是我！"
+    },
+    {
+      "no": 4,
+      "en": "Today is Monday, March 1.",
+      "zh": "今天是星期一，三月一号。"
+    },
+    {
+      "no": 5,
+      "en": "The temperature will reach 15°C by noon and drop to 2°C at night.",
+      "zh": "中午气温会升到15摄氏度，夜里降到2摄氏度。"
+    },
+    {
+      "no": 6,
+      "en": "Overall, it will be a warm, cloudy day.",
+      "zh": "总的来说，今天是温暖多云的一天。"
+    },
+    {
+      "no": 7,
+      "en": "Well done, Wang Mei.",
+      "zh": "说得真好，王梅。"
+    },
+    {
+      "no": 8,
+      "en": "The days are getting longer, and spring is coming.",
+      "zh": "白天越来越长，春天就要来了。"
+    },
+    {
+      "no": 9,
+      "en": "We have a school project on March 12.",
+      "zh": "三月十二日我们有一个学校活动。"
+    },
+    {
+      "no": 10,
+      "en": "Can you guess what it is?",
+      "zh": "你们能猜到是什么吗？"
+    },
+    {
+      "no": 11,
+      "en": "Is it tree planting?",
+      "zh": "是去植树吗？"
+    },
+    {
+      "no": 12,
+      "en": "Good guess.",
+      "zh": "猜得真准。"
+    },
+    {
+      "no": 13,
+      "en": "Do you know how to plant trees?",
+      "zh": "你们知道怎么种树吗？"
+    },
+    {
+      "no": 14,
+      "en": "Yes.",
+      "zh": "知道。"
+    },
+    {
+      "no": 15,
+      "en": "I learned to plant trees when I visited my uncle last spring.",
+      "zh": "去年春天我去舅舅家，学会了种树。"
+    },
+    {
+      "no": 16,
+      "en": "It was so much fun.",
+      "zh": "那可真好玩。"
+    },
+    {
+      "no": 17,
+      "en": "Could you tell us the steps for planting trees?",
+      "zh": "你能告诉我们植树的步骤吗？"
+    },
+    {
+      "no": 18,
+      "en": "Sure.",
+      "zh": "当然可以。"
+    },
+    {
+      "no": 19,
+      "en": "First, dig a large hole.",
+      "zh": "先挖一个大坑。"
+    },
+    {
+      "no": 20,
+      "en": "Then, place the seedling inside the hole, and cover its roots with soil.",
+      "zh": "然后把树苗放进坑里，用土盖住树根。"
+    },
+    {
+      "no": 21,
+      "en": "Finally, press down the soil.",
+      "zh": "最后把土压实。"
+    },
+    {
+      "no": 22,
+      "en": "Oh, don’t forget to water the tree.",
+      "zh": "哦，别忘了给树浇水。"
+    },
+    {
+      "no": 23,
+      "en": "Excellent, Li Ming.",
+      "zh": "讲得太好了，李明。"
+    },
+    {
+      "no": 24,
+      "en": "Why do people plant trees?",
+      "zh": "人们为什么要种树呢？"
+    },
+    {
+      "no": 25,
+      "en": "Do you have any ideas?",
+      "zh": "你们有什么想法吗？"
+    },
+    {
+      "no": 26,
+      "en": "Trees help protect the soil from rainfall.",
+      "zh": "树木能保护土壤不被雨水冲走。"
+    },
+    {
+      "no": 27,
+      "en": "Trees prevent dust from spreading.",
+      "zh": "树木能挡住灰尘，不让它到处飞扬。"
+    },
+    {
+      "no": 28,
+      "en": "Good points.",
+      "zh": "说得都有道理。"
+    },
+    {
+      "no": 29,
+      "en": "Planting trees is also a wonderful way to learn more about nature.",
+      "zh": "植树也是了解大自然的好办法。"
+    },
+    {
+      "no": 30,
+      "en": "I believe you will have a great time with this project.",
+      "zh": "我相信你们一定会在这个活动里玩得很开心。"
+    },
+    {
+      "no": 31,
+      "en": "Dear Jenny, Today is March 6.",
+      "zh": "亲爱的詹妮，今天是三月六日。"
+    },
+    {
+      "no": 32,
+      "en": "Jingzhe falls on this day this year.",
+      "zh": "今年惊蛰正好就在今天。"
+    },
+    {
+      "no": 33,
+      "en": "Do you know what Jingzhe is?",
+      "zh": "你知道惊蛰是什么吗？"
+    },
+    {
+      "no": 34,
+      "en": "It is one of China’s 24 solar terms, and it means “awakening of insects”.",
+      "zh": "它是中国二十四节气之一，意思是万物复苏、虫儿苏醒。"
+    },
+    {
+      "no": 35,
+      "en": "The spring thunder wakes insects up from their sleep.",
+      "zh": "春雷把昆虫从冬眠中唤醒。"
+    },
+    {
+      "no": 36,
+      "en": "Then nature begins to come back to life.",
+      "zh": "接着大自然就开始复苏了。"
+    },
+    {
+      "no": 37,
+      "en": "Spring is in the air.",
+      "zh": "春天已经到来。"
+    },
+    {
+      "no": 38,
+      "en": "This morning, the temperature was 10°C in my city.",
+      "zh": "今天早上，我市气温是10摄氏度。"
+    },
+    {
+      "no": 39,
+      "en": "It reached 15°C this afternoon.",
+      "zh": "下午升到了15摄氏度。"
+    },
+    {
+      "no": 40,
+      "en": "It was quite warm.",
+      "zh": "挺暖和的。"
+    },
+    {
+      "no": 41,
+      "en": "I don’t need my heavy winter coat or boots now!",
+      "zh": "我现在不用穿厚重的冬衣和靴子啦！"
+    },
+    {
+      "no": 42,
+      "en": "On my way to school, I saw some winter jasmine blossoming.",
+      "zh": "上学路上，我看见迎春花开了。"
+    },
+    {
+      "no": 43,
+      "en": "People believe the blossom of this flower always tells the coming of spring, so we call winter jasmine “the welcoming-spring flower”.",
+      "zh": "人们觉得这种花开就意味着春天来了，所以叫它迎春花。"
+    },
+    {
+      "no": 44,
+      "en": "I like spring.",
+      "zh": "我喜欢春天。"
+    },
+    {
+      "no": 45,
+      "en": "It is the best season for going out.",
+      "zh": "它是最适合出去玩的季节。"
+    },
+    {
+      "no": 46,
+      "en": "We are going to be more active, like insects!",
+      "zh": "我们也要像虫子一样活跃起来啦！"
+    },
+    {
+      "no": 47,
+      "en": "We will form a music band.",
+      "zh": "我们要组建一个乐队。"
+    },
+    {
+      "no": 48,
+      "en": "There is going to be a basketball game next week.",
+      "zh": "下周还有一场篮球赛。"
+    },
+    {
+      "no": 49,
+      "en": "My class is also planning a field trip.",
+      "zh": "我们班也在计划一次户外郊游。"
+    },
+    {
+      "no": 50,
+      "en": "We will plant trees.",
+      "zh": "我们要去种树。"
+    },
+    {
+      "no": 51,
+      "en": "I can’t wait!",
+      "zh": "我等不及啦！"
+    },
+    {
+      "no": 52,
+      "en": "What’s the weather like in Canada?",
+      "zh": "加拿大的天气怎么样？"
+    },
+    {
+      "no": 53,
+      "en": "What type of classic spring activities do you do?",
+      "zh": "你们春天会做哪些经典的活动？"
+    },
+    {
+      "no": 54,
+      "en": "Wang Mei",
+      "zh": "王梅"
+    },
+    {
+      "no": 55,
+      "en": "When we talk about spring, we think of a season of warm weather and fresh air.",
+      "zh": "说起春天，我们想到的是温暖的天气和清新的空气。"
+    },
+    {
+      "no": 56,
+      "en": "We also think of new life, green plants, and budding trees all around us.",
+      "zh": "还有新的生命、绿色的植物，以及周围发芽的树木。"
+    },
+    {
+      "no": 57,
+      "en": "Spring is short in many places around the world.",
+      "zh": "春天在世界许多地方都很短暂。"
+    },
+    {
+      "no": 58,
+      "en": "But in my hometown, it feels like spring nearly all year round.",
+      "zh": "但在我的家乡，几乎一年到头都像春天。"
+    },
+    {
+      "no": 59,
+      "en": "The weather here is neither too hot nor too cold.",
+      "zh": "这里的天气既不太热也不太冷。"
+    },
+    {
+      "no": 60,
+      "en": "The average temperature in winter is 15°C.",
+      "zh": "冬天平均气温是15摄氏度。"
+    },
+    {
+      "no": 61,
+      "en": "In summer, the average temperature is 24°C.",
+      "zh": "夏天平均气温是24摄氏度。"
+    },
+    {
+      "no": 62,
+      "en": "While the sun is shining, the temperature remains pleasant.",
+      "zh": "阳光照耀时，气温一直很宜人。"
+    },
+    {
+      "no": 63,
+      "en": "The city gets about 2,250 hours of sunshine and about 1,000 millimetres of rain every year.",
+      "zh": "这座城市每年约有2250小时日照，约1000毫米降水。"
+    },
+    {
+      "no": 64,
+      "en": "Because the weather is spring-like, you can find hundreds of beautiful flowers and trees all year round.",
+      "zh": "因为气候像春天，一年四季都能看到成百上千的美丽花草树木。"
+    },
+    {
+      "no": 65,
+      "en": "There are many famous scenic spots in my hometown.",
+      "zh": "我的家乡有许多著名的景点。"
+    },
+    {
+      "no": 66,
+      "en": "The Stone Forest is a must-see for tourists from home and abroad.",
+      "zh": "石林是国内外游客必看的地方。"
+    },
+    {
+      "no": 67,
+      "en": "There are many special rocks that look like tall stone trees.",
+      "zh": "那里有许多奇特的岩石，像高高的石树。"
+    },
+    {
+      "no": 68,
+      "en": "The Dianchi Lake is the biggest in Yunnan Province.",
+      "zh": "滇池是云南省最大的湖泊。"
+    },
+    {
+      "no": 69,
+      "en": "You can enjoy the beauty of the area and go boating or take a walk by the water.",
+      "zh": "你可以欣赏美景，也可以划船或在湖边散步。"
+    },
+    {
+      "no": 70,
+      "en": "Can you guess the name of my hometown?",
+      "zh": "你能猜出我家乡的名字吗？"
+    },
+    {
+      "no": 71,
+      "en": "Yes, it’s Kunming — the Spring City.",
+      "zh": "没错，就是昆明——春城。"
+    },
+    {
+      "no": 72,
+      "en": "Welcome to my hometown.",
+      "zh": "欢迎来到我的家乡。"
+    },
+    {
+      "no": 73,
+      "en": "When you visit, you will feel our warmth and friendliness, just like spring!",
+      "zh": "你来了一定会感受到我们像春天一样的热情和友好！"
+    },
+    {
+      "no": 74,
+      "en": "Groundhog Day is on February 2.",
+      "zh": "土拨鼠日在二月二日。"
+    },
+    {
+      "no": 75,
+      "en": "On that day, a small animal called groundhog comes out of its hole in the ground.",
+      "zh": "那一天，一种叫土拨鼠的小动物会从地下的洞里钻出来。"
+    },
+    {
+      "no": 76,
+      "en": "Dear Wang Mei, It isn’t snowing today, but there is still snow on the grass.",
+      "zh": "亲爱的王梅，今天没下雪，但草地上还有积雪。"
+    },
+    {
+      "no": 77,
+      "en": "In Edmonton, the spring weather is a little wild.",
+      "zh": "在埃德蒙顿，春天的天气有点变化无常。"
+    },
+    {
+      "no": 78,
+      "en": "It can be cold and snowy or warm and sunny.",
+      "zh": "可能又冷又雪，也可能温暖晴朗。"
+    },
+    {
+      "no": 79,
+      "en": "The temperature can be as low as -15°C, but it can also reach 15°C.",
+      "zh": "气温最低能到零下15摄氏度，也可能升到15摄氏度。"
+    },
+    {
+      "no": 80,
+      "en": "We probably won’t see any flowers until May or June!",
+      "zh": "我们可能要到五月或六月才能看到花呢！"
+    },
+    {
+      "no": 81,
+      "en": "After school today, we had so much fun playing outside.",
+      "zh": "今天放学后，我们在外面玩得可开心了。"
+    },
+    {
+      "no": 82,
+      "en": "We played “snow” soccer, but we had to wear jackets, jeans, and boots to stay warm.",
+      "zh": "我们踢了雪地足球，得穿上夹克、牛仔裤和靴子保暖。"
+    },
+    {
+      "no": 83,
+      "en": "When it gets warmer, we can play in our shorts and T-shirts.",
+      "zh": "等天气暖和了，我们就能穿短裤T恤去玩了。"
+    },
+    {
+      "no": 84,
+      "en": "I like spring because there are lots of activities to do, like cycling, having picnics, and hiking.",
+      "zh": "我喜欢春天，因为有好多活动可以玩，像骑车、野餐和徒步。"
+    },
+    {
+      "no": 85,
+      "en": "I like the Chinese name for winter jasmine.",
+      "zh": "我喜欢迎春花的中文名字。"
+    },
+    {
+      "no": 86,
+      "en": "It’s interesting.",
+      "zh": "挺有意思的。"
+    },
+    {
+      "no": 87,
+      "en": "Here, we have Groundhog Day on February 2 for the coming of spring.",
+      "zh": "我们这儿二月二有土拨鼠日，迎接春天到来。"
+    },
+    {
+      "no": 88,
+      "en": "Do you know what happens on that day?",
+      "zh": "你知道那天会发生什么吗？"
+    },
+    {
+      "no": 89,
+      "en": "Another fun part of spring is going to the sugar bush, a big tree farm in the countryside.",
+      "zh": "春天另一件好玩的事，是去乡下的糖树林，那是一个大农场。"
+    },
+    {
+      "no": 90,
+      "en": "We make maple syrup.",
+      "zh": "我们制作枫糖浆。"
+    },
+    {
+      "no": 91,
+      "en": "We eat lots of tasty breakfast foods — all with maple syrup on them!",
+      "zh": "我们吃很多好吃的早餐，全都浇上枫糖浆！"
+    },
+    {
+      "no": 92,
+      "en": "I love spring activities.",
+      "zh": "我爱春天的各种活动。"
+    },
+    {
+      "no": 93,
+      "en": "Talk to you soon!",
+      "zh": "回头再聊！"
+    },
+    {
+      "no": 94,
+      "en": "Jenny",
+      "zh": "詹妮"
+    },
+    {
+      "no": 95,
+      "en": "In the life skills class last week, we learned about agriculture and plant biology.",
+      "zh": "上周生活技能课，我们学习了农业和植物学。"
+    },
+    {
+      "no": 96,
+      "en": "The teacher gave us some seeds so we could observe the growing process of a plant.",
+      "zh": "老师发给我们一些种子，让我们观察植物的生长过程。"
+    },
+    {
+      "no": 97,
+      "en": "I picked some pea seeds and planted them in a small pot.",
+      "zh": "我挑了些豌豆种子，种在小花盆里。"
+    },
+    {
+      "no": 98,
+      "en": "I watered them every day.",
+      "zh": "我每天给它们浇水。"
+    },
+    {
+      "no": 99,
+      "en": "I hope my peas grow quickly!",
+      "zh": "希望我的豌豆快快长大！"
+    },
+    {
+      "no": 100,
+      "en": "Here are some of my observations on the peas’ growth:",
+      "zh": "以下是我对豌豆生长的一些观察："
+    },
+    {
+      "no": 101,
+      "en": "Date: March 3 Weather conditions: sunny, temperature around 18°C",
+      "zh": "日期：三月三日 天气：晴，气温约18摄氏度"
+    },
+    {
+      "no": 102,
+      "en": "Observations: The pea seeds grew into buds.",
+      "zh": "观察：豌豆种子发芽了。"
+    },
+    {
+      "no": 103,
+      "en": "They look like the English letter “Y”.",
+      "zh": "它们长得像英文字母 Y。"
+    },
+    {
+      "no": 104,
+      "en": "My peas are growing quickly!",
+      "zh": "我的豌豆长得真快！"
+    },
+    {
+      "no": 105,
+      "en": "Date: April 3 Weather conditions: rainy, temperature around 22°C",
+      "zh": "日期：四月三日 天气：雨，气温约22摄氏度"
+    },
+    {
+      "no": 106,
+      "en": "Observations: The pea flowers are in full bloom.",
+      "zh": "观察：豌豆花全开了。"
+    },
+    {
+      "no": 107,
+      "en": "Some are pink and some are purple.",
+      "zh": "有的粉，有的紫。"
+    },
+    {
+      "no": 108,
+      "en": "When the pea plants grow taller, I will give them a shelf to climb on.",
+      "zh": "等豌豆长高了，我给它们搭个架子爬。"
+    },
+    {
+      "no": 109,
+      "en": "Date: March 30 Weather conditions: cloudy, temperature around 19°C",
+      "zh": "日期：三月三十日 天气：多云，气温约19摄氏度"
+    },
+    {
+      "no": 110,
+      "en": "Observations: Now, there are long, thin stems and some leaves.",
+      "zh": "观察：现在有了细长的茎和一些叶子。"
+    },
+    {
+      "no": 111,
+      "en": "At the top of the stems are little flower buds!",
+      "zh": "茎的顶上还冒出了小花苞！"
+    },
+    {
+      "no": 112,
+      "en": "I put the pot in the yard.",
+      "zh": "我把花盆放到了院子里。"
+    },
+    {
+      "no": 113,
+      "en": "There, they can get some sunshine.",
+      "zh": "那儿能让它们晒到太阳。"
+    },
+    {
+      "no": 114,
+      "en": "The 24 solar terms reflect the wisdom of our ancestors.",
+      "zh": "二十四节气体现了祖先的智慧。"
+    },
+    {
+      "no": 115,
+      "en": "They help us understand how nature changes throughout the year.",
+      "zh": "它们帮我们了解大自然一年里的变化。"
+    },
+    {
+      "no": 116,
+      "en": "Our ancestors observed nature and created the Chinese lunar calendar to guide farming and daily life.",
+      "zh": "祖先观察自然，创制了农历，指导农耕和日常生活。"
+    },
+    {
+      "no": 117,
+      "en": "There are several solar terms for the spring season.",
+      "zh": "春季有好几个节气。"
+    },
+    {
+      "no": 118,
+      "en": "They tell us about the coming of this beautiful season.",
+      "zh": "它们告诉我们这个美好季节的到来。"
+    },
+    {
+      "no": 119,
+      "en": "Start of Spring",
+      "zh": "立春"
+    },
+    {
+      "no": 120,
+      "en": "It usually falls around February 4 or 5 and marks the beginning of spring.",
+      "zh": "它通常在二月四五日，标志着春天开始。"
+    },
+    {
+      "no": 121,
+      "en": "The weather starts to get warmer and we can see new plants grow and animals become active after a long winter.",
+      "zh": "天气开始转暖，我们能看到植物发芽、动物在漫长冬天后活跃起来。"
+    },
+    {
+      "no": 122,
+      "en": "Rain Water",
+      "zh": "雨水"
+    },
+    {
+      "no": 123,
+      "en": "It arrives around February 19 or 20.",
+      "zh": "它在二月十九或二十日前后到来。"
+    },
+    {
+      "no": 124,
+      "en": "It reminds us of the increase in rainfall as the weather gets warmer.",
+      "zh": "它提醒我们，天气转暖，雨水增多。"
+    },
+    {
+      "no": 125,
+      "en": "Jingzhe (Awakening of Insects)",
+      "zh": "惊蛰（虫儿苏醒）"
+    },
+    {
+      "no": 126,
+      "en": "It usually takes place around March 5 or 6.",
+      "zh": "它通常在三月五六日。"
+    },
+    {
+      "no": 127,
+      "en": "Jingzhe tells us that insects are coming out of hibernation.",
+      "zh": "惊蛰告诉我们，昆虫正从冬眠中苏醒。"
+    },
+    {
+      "no": 128,
+      "en": "We might hear more birds singing and see butterflies and bees buzzing around.",
+      "zh": "我们可能会听到更多鸟鸣，看到蝴蝶蜜蜂飞来飞去。"
+    },
+    {
+      "no": 129,
+      "en": "Spring Equinox",
+      "zh": "春分"
+    },
+    {
+      "no": 130,
+      "en": "It comes around March 20 or 21, when the length of the day is nearly equal to that of the night.",
+      "zh": "它在三月二十或二十一日，这天昼长几乎和夜长相等。"
+    },
+    {
+      "no": 131,
+      "en": "Qingming (Clear and Bright)",
+      "zh": "清明（气清景明）"
+    },
+    {
+      "no": 132,
+      "en": "It usually falls around April 4 or 5.",
+      "zh": "它通常在四月四五日。"
+    },
+    {
+      "no": 133,
+      "en": "Qingming is a time when people honour their ancestors.",
+      "zh": "清明是人们祭奠祖先的时节。"
+    },
+    {
+      "no": 134,
+      "en": "It’s also a time to enjoy outdoor activities and the beauty of spring.",
+      "zh": "也是外出游玩、欣赏春景的好时候。"
+    },
+    {
+      "no": 135,
+      "en": "Grain Rain",
+      "zh": "谷雨"
+    },
+    {
+      "no": 136,
+      "en": "It occurs around April 19 or 20.",
+      "zh": "它在四月十九或二十日前后。"
+    },
+    {
+      "no": 137,
+      "en": "Farmers sow seeds during this time, and the rain nourishes the soil to make sure the farmers have a good harvest in the future.",
+      "zh": "农民这时播种，雨水滋润土地，好让将来有个好收成。"
+    },
+    {
+      "no": 138,
+      "en": "These solar terms teach us how to follow the seasons and make the best of them.",
+      "zh": "这些节气教我们如何顺应时令，充分利用它们。"
+    },
+    {
+      "no": 139,
+      "en": "They show us the relationship between humans and nature and call upon us to respect the world around us.",
+      "zh": "它们展示了人与自然的关系，也呼吁我们尊重周围的世界。"
+    }
+  ]
+}
