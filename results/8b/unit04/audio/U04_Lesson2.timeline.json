@@ -1,0 +1,64 @@
+{
+  "key": "U04_Lesson2",
+  "no": "Lesson 2",
+  "title": "Traffic laws help!",
+  "title_zh": "交通法规有用！",
+  "kind": "说明文 · 司机、行人与骑车人应当遵守的交通规则",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 11.166,
+      "role": "NARRATOR",
+      "text": "Traffic laws are used to regulate the behaviour of drivers, pedestrians, and cyclists. Here are some key points about traffic laws."
+    },
+    {
+      "start": 11.166,
+      "end": 22.428,
+      "role": "NARRATOR",
+      "text": "Drivers must follow traffic laws on the street. As a driver, you must therefore pay attention to traffic lights and other signals on the road."
+    },
+    {
+      "start": 22.428,
+      "end": 33.738,
+      "role": "NARRATOR",
+      "text": "When you are planning to change lanes or make a turn, use your car’s turn signals. Every driver and passenger in the car should wear a seat belt."
+    },
+    {
+      "start": 33.738,
+      "end": 39.6,
+      "role": "NARRATOR",
+      "text": "It can protect you and others in case of sudden stops or accidents."
+    },
+    {
+      "start": 39.6,
+      "end": 51.894000000000005,
+      "role": "NARRATOR",
+      "text": "As pedestrians, you should walk on the zebra crossings when crossing the street. You are only allowed to go when there is a green light and you must stop at red lights."
+    },
+    {
+      "start": 51.894000000000005,
+      "end": 56.43600000000001,
+      "role": "NARRATOR",
+      "text": "When you’re crossing the road, don’t check your phone."
+    },
+    {
+      "start": 56.43600000000001,
+      "end": 66.61800000000001,
+      "role": "NARRATOR",
+      "text": "When you are cycling on the road, keep to the right or left according to traffic laws. Always wear a helmet when you ride an e-bike."
+    },
+    {
+      "start": 66.61800000000001,
+      "end": 78.74400000000001,
+      "role": "NARRATOR",
+      "text": "If you fall or get hit, the helmet will protect your head. When making a turn or a stop, use suitable hand signals to let others know what you are going to do."
+    },
+    {
+      "start": 78.74400000000001,
+      "end": 84.05400000000002,
+      "role": "NARRATOR",
+      "text": "These laws can help keep us safe and prevent accidents."
+    }
+  ],
+  "total": 84.05400000000002
+}

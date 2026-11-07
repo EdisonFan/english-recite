@@ -1,0 +1,76 @@
+{
+  "key": "U04_Lesson5",
+  "no": "Lesson 5",
+  "title": "Public rules",
+  "title_zh": "公共规则",
+  "kind": "说明文 · 插队、传谣、乱扔垃圾三种违反公共规则的行为",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 13.134,
+      "role": "NARRATOR",
+      "text": "Following public rules and regulations is an important part of living in a society. What happens when people don’t follow public rules? Here are some cases."
+    },
+    {
+      "start": 13.134,
+      "end": 16.908,
+      "role": "NARRATOR",
+      "text": "Case 1: Cutting in line"
+    },
+    {
+      "start": 16.908,
+      "end": 27.330000000000002,
+      "role": "NARRATOR",
+      "text": "Cutting in line is often considered an annoying behaviour that creates a sense of impatience. It breaks social fairness and is rude."
+    },
+    {
+      "start": 27.330000000000002,
+      "end": 31.872,
+      "role": "NARRATOR",
+      "text": "It can lead to arguments and even fights."
+    },
+    {
+      "start": 31.872,
+      "end": 35.79,
+      "role": "NARRATOR",
+      "text": "Case 2: Spreading rumours"
+    },
+    {
+      "start": 35.79,
+      "end": 48.66,
+      "role": "NARRATOR",
+      "text": "Have you ever met someone who spreads rumours? Whether in person or on the internet, spreading false or negative information is disrespectful to others or even illegal."
+    },
+    {
+      "start": 48.66,
+      "end": 60.233999999999995,
+      "role": "NARRATOR",
+      "text": "This behaviour can damage other’s reputation. We should never spread rumours without finding out the truth. It only causes trouble."
+    },
+    {
+      "start": 60.233999999999995,
+      "end": 63.696,
+      "role": "NARRATOR",
+      "text": "Case 3: Littering"
+    },
+    {
+      "start": 63.696,
+      "end": 74.262,
+      "role": "NARRATOR",
+      "text": "Littering is a very bad behaviour. When people litter, not only the environment but also the health and safety of others are affected."
+    },
+    {
+      "start": 74.262,
+      "end": 82.356,
+      "role": "NARRATOR",
+      "text": "It is everyone’s responsibility to protect the planet. Don’t be the one to make a mess!"
+    },
+    {
+      "start": 82.356,
+      "end": 93.378,
+      "role": "NARRATOR",
+      "text": "Following public rules protects the people and the world around us. It’s important for us to understand and keep the rules of our society."
+    }
+  ],
+  "total": 93.378
+}

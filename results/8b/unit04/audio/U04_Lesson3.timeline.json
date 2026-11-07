@@ -1,0 +1,70 @@
+{
+  "key": "U04_Lesson3",
+  "no": "Lesson 3",
+  "title": "Spoken and unspoken rules",
+  "title_zh": "成文与不成文的规则",
+  "kind": "说明文 · 口头规则与不成文规则的区别",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.638,
+      "role": "NARRATOR",
+      "text": "Spoken rules are said or written somewhere. You might find spoken rules in school, public buildings, at home, or on the road."
+    },
+    {
+      "start": 10.638,
+      "end": 23.292,
+      "role": "NARRATOR",
+      "text": "Think of school rules. Are you allowed to run around and yell in the hallways? Are you allowed to insult others and cheat on tests? No!"
+    },
+    {
+      "start": 23.292,
+      "end": 36.45,
+      "role": "NARRATOR",
+      "text": "Think of rules in a public place, like a library or a park. Can you talk loudly in a library? Can you climb on a park statue? No!"
+    },
+    {
+      "start": 36.45,
+      "end": 43.344,
+      "role": "NARRATOR",
+      "text": "At home, your parents might have clear rules like “no throwing basketballs in the house”."
+    },
+    {
+      "start": 43.344,
+      "end": 52.014,
+      "role": "NARRATOR",
+      "text": "And on the road, you are required to follow traffic rules. That can keep yourself and others safe."
+    },
+    {
+      "start": 52.014,
+      "end": 61.788000000000004,
+      "role": "NARRATOR",
+      "text": "Unspoken rules are mostly to do with respecting others. This type of rule is different between countries and cultures!"
+    },
+    {
+      "start": 61.788000000000004,
+      "end": 67.05,
+      "role": "NARRATOR",
+      "text": "You should recognise and follow the rules in your own country."
+    },
+    {
+      "start": 67.05,
+      "end": 74.78399999999999,
+      "role": "NARRATOR",
+      "text": "When you plan to visit another country, you should find out the differences to avoid being disrespectful."
+    },
+    {
+      "start": 74.78399999999999,
+      "end": 87.36599999999999,
+      "role": "NARRATOR",
+      "text": "For example, in some western countries, people don’t stand too close during a conversation. But, in many other countries, closeness is considered normal."
+    },
+    {
+      "start": 87.36599999999999,
+      "end": 98.67599999999999,
+      "role": "NARRATOR",
+      "text": "In some places, keeping more distance is seen as rude. All these ways are acceptable. It depends on where in the world you are!"
+    }
+  ],
+  "total": 98.67599999999999
+}

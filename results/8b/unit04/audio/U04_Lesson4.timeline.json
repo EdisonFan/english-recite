@@ -1,0 +1,88 @@
+{
+  "key": "U04_Lesson4",
+  "no": "Lesson 4",
+  "title": "Personal boundaries",
+  "title_zh": "个人边界",
+  "kind": "对话 · Danny 拉 Jenny 的头发，Mr Dino 讲解个人边界",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.39,
+      "role": "JENNY",
+      "text": "“Stop it!” says Jenny, stepping away from Danny. “I have asked you to stop pulling my hair three times already!”"
+    },
+    {
+      "start": 9.39,
+      "end": 13.14,
+      "role": "DANNY",
+      "text": "“I’m just playing,” laughs Danny."
+    },
+    {
+      "start": 13.14,
+      "end": 26.058,
+      "role": "NARRATOR",
+      "text": "Just then, Mr Dino walks over. He asks Jenny if everything is okay. Jenny shakes her head and looks away, hiding her hair under her hood."
+    },
+    {
+      "start": 26.058,
+      "end": 34.152,
+      "role": "NARRATOR",
+      "text": "“Danny, your friend is setting a boundary. You need to respect it!” warns Mr Dino."
+    },
+    {
+      "start": 34.152,
+      "end": 37.494,
+      "role": "DANNY",
+      "text": "“A what?” says Danny."
+    },
+    {
+      "start": 37.494,
+      "end": 49.956,
+      "role": "NARRATOR",
+      "text": "“A boundary,” says Mr Dino. He goes on to explain, “A boundary is a rule we set for ourselves. It helps us feel safe and respected."
+    },
+    {
+      "start": 49.956,
+      "end": 59.082,
+      "role": "NARRATOR",
+      "text": "Do you remember when Uncle Dino wanted to give you a hug, but you didn’t want one? You told him, ‘Not this time.’"
+    },
+    {
+      "start": 59.082,
+      "end": 65.496,
+      "role": "NARRATOR",
+      "text": "You set a personal boundary. Jenny is doing the same thing.”"
+    },
+    {
+      "start": 65.496,
+      "end": 73.326,
+      "role": "NARRATOR",
+      "text": "Mr Dino adds, “Listening to others’ boundaries shows respect and makes them feel they can trust you."
+    },
+    {
+      "start": 73.326,
+      "end": 78.588,
+      "role": "NARRATOR",
+      "text": "Boundaries teach you to notice when someone might be dangerous.”"
+    },
+    {
+      "start": 78.588,
+      "end": 82.77,
+      "role": "DANNY",
+      "text": "Danny nods and says, “I get it.”"
+    },
+    {
+      "start": 82.77,
+      "end": 91.896,
+      "role": "DANNY",
+      "text": "Then, he turns to Jenny, “I was not paying attention to your feelings. I am so sorry for what I did!”"
+    },
+    {
+      "start": 91.896,
+      "end": 98.718,
+      "role": "JENNY",
+      "text": "“That’s okay, Danny,” smiles Jenny. “Just keep working on it!”"
+    }
+  ],
+  "total": 98.718
+}

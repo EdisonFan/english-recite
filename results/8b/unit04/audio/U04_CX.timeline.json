@@ -1,0 +1,88 @@
+{
+  "key": "U04_CX",
+  "no": "Unit cultures",
+  "title": "Funny international laws",
+  "title_zh": "有趣的国际法规",
+  "kind": "说明文 · 意大利、哈萨克斯坦、旧金山和法国的奇特法规",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 6.726,
+      "role": "NARRATOR",
+      "text": "You may want to remember these strange laws next time you’re travelling to avoid fines!"
+    },
+    {
+      "start": 6.726,
+      "end": 10.812,
+      "role": "NARRATOR",
+      "text": "Don’t eat on church steps in Italy."
+    },
+    {
+      "start": 10.812000000000001,
+      "end": 22.386000000000003,
+      "role": "NARRATOR",
+      "text": "Be careful where you enjoy a relaxing lunch or drink in Italy. It’s an offense in Florence to eat or drink on church steps or within a church yard."
+    },
+    {
+      "start": 22.386000000000003,
+      "end": 31.824000000000005,
+      "role": "NARRATOR",
+      "text": "The same law applies to eating near public buildings or institutions. Find other places to avoid the fine."
+    },
+    {
+      "start": 31.824000000000005,
+      "end": 35.81400000000001,
+      "role": "NARRATOR",
+      "text": "Watch your camera in Kazakhstan."
+    },
+    {
+      "start": 35.81400000000001,
+      "end": 45.108000000000004,
+      "role": "NARRATOR",
+      "text": "Want to take a picture of your family in the airport before you board the plane? In Kazakhstan, it’s against the law."
+    },
+    {
+      "start": 45.108000000000004,
+      "end": 54.858000000000004,
+      "role": "NARRATOR",
+      "text": "Photographing in and around airports is not allowed, and taking pictures of military and official buildings is not allowed either."
+    },
+    {
+      "start": 54.858000000000004,
+      "end": 60.120000000000005,
+      "role": "NARRATOR",
+      "text": "Feed the pigeons and you’ll break the law in San Francisco."
+    },
+    {
+      "start": 60.120000000000005,
+      "end": 71.262,
+      "role": "NARRATOR",
+      "text": "You’re not allowed to feed pigeons on the streets of San Francisco. The city doesn’t like the birds because they spread diseases and damage properties."
+    },
+    {
+      "start": 71.262,
+      "end": 78.156,
+      "role": "NARRATOR",
+      "text": "If you’re seen giving food to San Francisco’s pigeons, you could be punished with a fine."
+    },
+    {
+      "start": 78.156,
+      "end": 81.93,
+      "role": "NARRATOR",
+      "text": "Pack a breathalyzer in France."
+    },
+    {
+      "start": 81.93,
+      "end": 92.4,
+      "role": "NARRATOR",
+      "text": "In France, drivers must carry a small breathalyzer in their vehicle. If you’re caught without one in your car, you may be fined."
+    },
+    {
+      "start": 92.4,
+      "end": 99.366,
+      "role": "NARRATOR",
+      "text": "So next time you are in France, don’t forget to have a breathalyzer in the car with you."
+    }
+  ],
+  "total": 99.366
+}
