@@ -2,7 +2,7 @@
   "book": "冀教版英语·八年级下册（2026春版）",
   "stage": "课文整理（阶段②，按轮验收）",
   "updated_by": "主流程",
-  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。本轮：8 个单元全部交回，验收 7 通过 / 1 退回。",
+  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。本轮：8 个单元全部交回，验收 7 通过 / 1 退回（unit06 译文切分口径）。",
   "units": {
     "unit01": {
       "status": "accepted",
@@ -65,7 +65,7 @@
       "word_cover": 0.999
     },
     "unit07": {
-      "status": "rejected",
+      "status": "accepted",
       "input": "pages/8b/unit07.txt",
       "output": "results/8b/unit07/",
       "note": "闸门通过（两处告警复核后放行）：第 1 课含教材原字「贩」（讲汉字字形，同八上「鱼(fish)」），入库时登记 allow_cjk 白名单豁免，非中文混入；第 6 课 215 字符长句只有一个句末句号、无法再切，竖版折行 ≤12 行符合闸门，判为提醒不阻断。译文 122/122 对齐。可进入语音合成。",
