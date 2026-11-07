@@ -8,7 +8,8 @@
 1. tasks/8b/video/视频渲染_任务包.md —— 环境、输出契约、铁律，务必读完
 2. tasks/8b/video/渲染_unit01.py —— 主流程同一份渲染实现，原样运行，不要改
 3. tasks/8b/video/data_unit01.json —— 预生成的 6 课元信息 + 逐课子句/译文
-4. tasks/8b/video/fonts/ —— 自带 3 个字体，不用装系统字体
+4. tasks/8b/video/fonts/ —— 自带 3 个字体（共 6.4 MB），不用装系统字体；
+   请用 git clone / git pull 拉取，别用 GitHub REST 单文件下载接口（>1MB 会返回空内容）
 5. results/8b/unit01/audio/ —— 已验收的 6× MP3 + 6× timeline.json（只读）
 
 【环境】
