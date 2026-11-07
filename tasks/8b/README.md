@@ -27,7 +27,7 @@
 ## 状态怎么看
 
 `results/8b/status.json` 里每个单元有 `pending / claimed / submitted / accepted / rejected` 五种状态。
-主流程扫到 `submitted` 就跑校验，通过后改成 `accepted`，不通过改成 `rejected` 并把原因写进 `note`。
+主流程每轮接手时扫到 `submitted` 就跑校验，通过后改成 `accepted`，不通过改成 `rejected` 并把原因写进 `note`。
 **其他 AI 不要改这个文件。**
 
 ## 需要重试时
