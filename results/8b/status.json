@@ -16,7 +16,9 @@
       "audio": "accepted",
       "audio_submitted": true,
       "audio_verdict": "accepted",
-      "audio_note": "主流程加严验收通过：6 课 / 98 朗读单元 / 642.8s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 98/98 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。"
+      "audio_note": "主流程加严验收通过：6 课 / 98 朗读单元 / 642.8s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 98/98 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
+      "video": "ready",
+      "video_submitted": false
     },
     "unit02": {
       "status": "accepted",
@@ -30,7 +32,9 @@
       "audio": "accepted",
       "audio_submitted": true,
       "audio_verdict": "accepted",
-      "audio_note": "主流程加严验收通过：6 课 / 68 朗读单元 / 612.0s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 68/68 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。"
+      "audio_note": "主流程加严验收通过：6 课 / 68 朗读单元 / 612.0s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 68/68 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit03": {
       "status": "accepted",
@@ -43,7 +47,9 @@
       "word_cover": 0.998,
       "audio": "ready",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit04": {
       "status": "accepted",
@@ -56,7 +62,9 @@
       "word_cover": 0.998,
       "audio": "ready",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit05": {
       "status": "accepted",
@@ -69,7 +77,9 @@
       "word_cover": 0.999,
       "audio": "ready",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit06": {
       "status": "rejected",
@@ -82,7 +92,9 @@
       "word_cover": 0.999,
       "audio": "blocked",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit07": {
       "status": "accepted",
@@ -95,7 +107,9 @@
       "word_cover": 0.997,
       "audio": "ready",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     },
     "unit08": {
       "status": "accepted",
@@ -108,7 +122,9 @@
       "word_cover": 0.999,
       "audio": "ready",
       "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）"
+      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "video": "blocked",
+      "video_submitted": false
     }
   },
   "contract": "v2 · tasks/8b/数据契约.md（切分正则 / allow_cjk / 长句折行 / 唯一闸门）",
@@ -124,5 +140,15 @@
     "output_pattern": "results/8b/unitNN/audio/（每单元 6 课 × 2 = 12 个文件）",
     "engine": "edge-tts==7.3.1 · rate=-10% · 16k 单声道 · 句间 0.75s · loudnorm=I=-17:TP=-1.5:LRA=11",
     "note": "阶段④音频产物由主流程验收；unit01/unit02 已通过（166/166 句静音契约达标），其余 6 个单元待交回。最终 MP3 为 48000 Hz 单声道（loudnorm 重采样），非 16000，属正常。"
+  },
+  "video_stage": {
+    "stage": "⑥ 视频渲染（本次只开放 unit01 做试验）",
+    "task_package": "tasks/8b/video/视频渲染_任务包.md",
+    "renderer": "tasks/8b/video/渲染_unit01.py",
+    "input": "tasks/8b/video/data_unit01.json + results/8b/unitNN/audio/",
+    "output_pattern": "results/8b/unitNN/video/（6 个子目录 × 3 文件 = 18 个）",
+    "spec": "1080x1920 / 24fps / H.264+AAC / 与原 timeline.total 对齐 / 全帧解码 0 错误",
+    "deps": "Python≥3.9 + Pillow + ffmpeg(libass,libx264,aac)；字体随包自带，无需系统字体",
+    "note": "unit01 音频已验收通过，可开跑。其余单元音频未交回，video 一律 blocked。产物由主流程验收后搬入 冀教版/冀教版八年级英语下册(2026春版)/，一课一 commit。"
   }
 }

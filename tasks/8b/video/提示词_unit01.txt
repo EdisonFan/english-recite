@@ -1,0 +1,47 @@
+请到 GitHub 仓库 EdisonFan/english-recite（main 分支）完成【阶段⑥：视频渲染】，只做 unit01 六个课。
+
+【为什么分出来】
+音频合成 2 分钟跑完全册，视频渲染一课要 1～1.7 分钟（1080×1920 逐帧压字幕），
+全册约 1 小时。你的机器可能比主流程快，这一步最值得并行。本次只做 unit01，跑通再谈其余单元。
+
+【读】
+1. tasks/8b/video/视频渲染_任务包.md —— 环境、输出契约、铁律，务必读完
+2. tasks/8b/video/渲染_unit01.py —— 主流程同一份渲染实现，原样运行，不要改
+3. tasks/8b/video/data_unit01.json —— 预生成的 6 课元信息 + 逐课子句/译文
+4. tasks/8b/video/fonts/ —— 自带 3 个字体，不用装系统字体
+5. results/8b/unit01/audio/ —— 已验收的 6× MP3 + 6× timeline.json（只读）
+
+【环境】
+Python ≥3.9；pip install -r tasks/8b/video/requirements.txt
+ffmpeg / ffprobe 必须带 libass、libx264、aac。先跑自检脚本查环境，
+缺 libass 会导致字幕整个不显示且不报错，别跳过这步。
+
+【做】（仓库根目录）
+1. python tasks/8b/video/渲染_unit01.py
+   （想先试一课：加 --only U01_Lesson1）
+2. python tasks/8b/video/自检.py unit01     ← 必须全绿
+3. git add results/8b/unit01/video/ && git commit && git push
+
+预计 8～12 分钟，产物约 35～45 MB。
+
+【写】
+只写 results/8b/unit01/video/ 下 6 个子目录 × 3 个文件 = 18 个：
+   U01_Lesson1/视频.mp4  音频.mp3  封面.png
+   U01_Lesson2/视频.mp4  音频.mp3  封面.png
+   U01_Lesson3/视频.mp4  音频.mp3  封面.png
+   U01_Lesson4/视频.mp4  音频.mp3  封面.png
+   U01_Lesson5/视频.mp4  音频.mp3  封面.png
+   U01_CX/视频.mp4       音频.mp3  封面.png
+
+【铁律】
+- 只写这 18 个文件，不碰仓库任何其他文件
+- 视频须为 1080×1920 / 24fps / H.264+AAC / 时长 ≈ timeline.total（±1s）/ 全帧解码 0 错误
+- 音频.mp3 必须原样复制 results/8b/unit01/audio/ 里对应那份，sha256 一致，不得重编码
+- 封面.png 须为 1080×1920 PNG，主流程同款
+- 不改渲染器、自检脚本、data_unit01.json、字体，不改任何版式参数（字号/分页/颜色/编码器）
+- 不提交脚本、日志、_8b_video_tmp/、临时 ASS、说明文字
+- 提交前先 git pull --rebase origin main；冲突只保留自己 video/ 的 18 个文件
+- 需要能 clone + push 该仓库；只有读权限就把 18 个文件回传给分发方
+
+【完成】自检全绿后提交，只回复一句「unit01 视频已提交」。
+若环境缺 libass / libx264 装不上，直接回复说明缺什么，不要交半成品。
