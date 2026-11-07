@@ -322,7 +322,11 @@
         },
         {
           "role": "NARRATOR",
-          "text": "In ancient Europe, around the 6th or 5th century BCE, money coins came into use. Unlike the Chinese, Europeans used precious metals such as gold and silver for their coins."
+          "text": "In ancient Europe, around the 6th or 5th century BCE, money coins came into use."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Unlike the Chinese, Europeans used precious metals such as gold and silver for their coins."
         },
         {
           "role": "NARRATOR",
