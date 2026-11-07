@@ -1,0 +1,76 @@
+{
+  "key": "U03_Lesson4",
+  "no": "Lesson 4",
+  "title": "Never giving up",
+  "title_zh": "永不言弃",
+  "kind": "记叙文 · 球迷讲述中国女排精神对自己的影响",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 5.094,
+      "role": "NARRATOR",
+      "text": "I’m a huge fan of the Chinese women’s volleyball team."
+    },
+    {
+      "start": 5.094,
+      "end": 14.34,
+      "role": "NARRATOR",
+      "text": "I have watched nearly all of their games and have often found myself cheering or shedding tears with the players during these matches."
+    },
+    {
+      "start": 14.34,
+      "end": 22.434,
+      "role": "NARRATOR",
+      "text": "Throughout the years, I have seen this team win many championships and bring glory and pride to our nation."
+    },
+    {
+      "start": 22.434,
+      "end": 31.632,
+      "role": "NARRATOR",
+      "text": "What makes the Chinese women’s volleyball team special? It is their determination, teamwork, and spirit."
+    },
+    {
+      "start": 31.632,
+      "end": 41.046,
+      "role": "NARRATOR",
+      "text": "No matter how tough things get, they never give up. When a player misses a shot, the teammates don’t blame her."
+    },
+    {
+      "start": 41.046,
+      "end": 52.332,
+      "role": "NARRATOR",
+      "text": "Instead, they come together and offer words of encouragement. They support each other and create a positive and exciting atmosphere on the court."
+    },
+    {
+      "start": 52.332,
+      "end": 64.26599999999999,
+      "role": "NARRATOR",
+      "text": "Whether they win or lose, they stay united as a team. The coach, Lang Ping, once said, “Volleyball is not just a job; it is our whole life.”"
+    },
+    {
+      "start": 64.266,
+      "end": 68.54400000000001,
+      "role": "NARRATOR",
+      "text": "And the team members truly live by that."
+    },
+    {
+      "start": 68.54400000000001,
+      "end": 80.57400000000001,
+      "role": "NARRATOR",
+      "text": "The team’s spirit has had a strong influence on me. When I come across difficulty or challenge, their never-give-up spirit always motivates me to keep trying."
+    },
+    {
+      "start": 80.57400000000001,
+      "end": 88.93200000000002,
+      "role": "NARRATOR",
+      "text": "The team has taught me to do my best in everything. I have also learned the value of teamwork from them."
+    },
+    {
+      "start": 88.93200000000002,
+      "end": 95.22600000000001,
+      "role": "NARRATOR",
+      "text": "Working with others and supporting each other can lead to amazing achievements."
+    }
+  ],
+  "total": 95.22600000000001
+}

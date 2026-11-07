@@ -1,0 +1,88 @@
+{
+  "key": "U03_Lesson3",
+  "no": "Lesson 3",
+  "title": "Dream team",
+  "title_zh": "梦之队",
+  "kind": "说明文 · 梦之队的含义与各国的梦之队",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.558,
+      "role": "NARRATOR",
+      "text": "At the 1992 Olympics, the US basketball team won the gold medal. People called it the dream team."
+    },
+    {
+      "start": 9.558,
+      "end": 15.155999999999999,
+      "role": "NARRATOR",
+      "text": "Nowadays a dream team refers to the greatest team in its field."
+    },
+    {
+      "start": 15.155999999999999,
+      "end": 20.465999999999998,
+      "role": "NARRATOR",
+      "text": "There have been many dream teams throughout the history of sports."
+    },
+    {
+      "start": 20.465999999999998,
+      "end": 26.855999999999998,
+      "role": "NARRATOR",
+      "text": "Canada’s dream team plays on ice — it’s the country’s ice hockey team."
+    },
+    {
+      "start": 26.855999999999998,
+      "end": 32.45399999999999,
+      "role": "NARRATOR",
+      "text": "For Brazil, it might be the men’s volleyball or soccer team."
+    },
+    {
+      "start": 32.454,
+      "end": 39.276,
+      "role": "NARRATOR",
+      "text": "What is China’s dream team? Many people would think of the diving team."
+    },
+    {
+      "start": 39.276,
+      "end": 49.794000000000004,
+      "role": "NARRATOR",
+      "text": "China also has dream teams in ping-pong and weight lifting. Time after time, these teams have won gold medals for China."
+    },
+    {
+      "start": 49.794000000000004,
+      "end": 55.48800000000001,
+      "role": "NARRATOR",
+      "text": "However, there is more to a dream team than winning gold medals."
+    },
+    {
+      "start": 55.48800000000001,
+      "end": 63.05400000000001,
+      "role": "NARRATOR",
+      "text": "A dream team has not only the best players and the best coach, but also the best team spirit."
+    },
+    {
+      "start": 63.05400000000001,
+      "end": 68.50800000000001,
+      "role": "NARRATOR",
+      "text": "All of the players must work hard and cooperate with one another."
+    },
+    {
+      "start": 68.50800000000001,
+      "end": 78.71400000000001,
+      "role": "NARRATOR",
+      "text": "By working together, they show their courage and their drive. They never give up. That’s what makes a dream team!"
+    },
+    {
+      "start": 78.71400000000001,
+      "end": 86.32800000000002,
+      "role": "NARRATOR",
+      "text": "The spirit of a dream team influences lots of people everywhere, not only in their home nation."
+    },
+    {
+      "start": 86.32800000000002,
+      "end": 90.96600000000002,
+      "role": "NARRATOR",
+      "text": "People admire and feel proud of their dream team."
+    }
+  ],
+  "total": 90.96600000000002
+}

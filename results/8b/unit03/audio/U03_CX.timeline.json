@@ -1,0 +1,82 @@
+{
+  "key": "U03_CX",
+  "no": "Unit cultures",
+  "title": "The Olympic Games",
+  "title_zh": "奥运会",
+  "kind": "说明文 · 奥运会的历史、举办城市与旗帜格言",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 11.094,
+      "role": "NARRATOR",
+      "text": "The Olympic Games were an ancient athletic festival in Greece. Among the games held throughout Greece, the Olympic Games were the most famous."
+    },
+    {
+      "start": 11.094,
+      "end": 14.82,
+      "role": "NARRATOR",
+      "text": "They were held every four years."
+    },
+    {
+      "start": 14.82,
+      "end": 29.418,
+      "role": "NARRATOR",
+      "text": "The modern Olympic Games became popular in the late 19th century. In 1892, at a meeting in Paris, Pierre de Coubertin put forward the idea of holding Olympic Games again."
+    },
+    {
+      "start": 29.418,
+      "end": 36.792,
+      "role": "NARRATOR",
+      "text": "In 1894, the International Olympic Committee (IOC) was founded."
+    },
+    {
+      "start": 36.792,
+      "end": 43.062,
+      "role": "NARRATOR",
+      "text": "Modern Olympic Games include the Summer Olympics and the Winter Olympics."
+    },
+    {
+      "start": 43.062,
+      "end": 55.884,
+      "role": "NARRATOR",
+      "text": "The first modern Olympic Games were held in Athens, Greece, in 1896, while the first Winter Olympics were held in Chamonix, France, in 1924."
+    },
+    {
+      "start": 55.884,
+      "end": 64.818,
+      "role": "NARRATOR",
+      "text": "Since 1994, the Olympic Games have alternated between a summer and a winter edition every two years."
+    },
+    {
+      "start": 64.818,
+      "end": 75.55199999999999,
+      "role": "NARRATOR",
+      "text": "In 2008, Beijing became the first Chinese city to host the Games. Do you remember the slogan “One World, One Dream”?"
+    },
+    {
+      "start": 75.55199999999999,
+      "end": 85.30199999999999,
+      "role": "NARRATOR",
+      "text": "The song You and Me touched many people’s hearts. In 2022, Beijing hosted the Winter Olympic Games."
+    },
+    {
+      "start": 85.30199999999999,
+      "end": 92.26799999999999,
+      "role": "NARRATOR",
+      "text": "It became the first city in the world to host both the Summer and the Winter Olympic Games."
+    },
+    {
+      "start": 92.26799999999999,
+      "end": 101.34599999999999,
+      "role": "NARRATOR",
+      "text": "The Olympic flag has a white background with five interlaced rings in blue, yellow, black, green, and red."
+    },
+    {
+      "start": 101.34599999999999,
+      "end": 111.984,
+      "role": "NARRATOR",
+      "text": "These rings symbolise the unity of the continents. The motto of the Olympic Games is “Faster, Higher, Stronger — Together”."
+    }
+  ],
+  "total": 111.984
+}

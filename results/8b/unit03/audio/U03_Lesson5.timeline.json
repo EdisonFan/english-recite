@@ -1,0 +1,64 @@
+{
+  "key": "U03_Lesson5",
+  "no": "Lesson 5",
+  "title": "Classroom Olympics",
+  "title_zh": "教室奥运会",
+  "kind": "电子邮件 · Jenny 向王梅介绍班级教室奥运会",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 12.174,
+      "role": "JENNY",
+      "text": "We had our own classroom Olympics this week! Our class had five different events — jump rope, long jump, sit-ups, push-ups, and “ping-pong pass”."
+    },
+    {
+      "start": 12.174,
+      "end": 17.028,
+      "role": "JENNY",
+      "text": "Everyone competed in each event, one by one."
+    },
+    {
+      "start": 17.028,
+      "end": 28.625999999999998,
+      "role": "JENNY",
+      "text": "The events were fun! Kim won first place in the jump rope event. She jumped 178 times in one minute without stopping."
+    },
+    {
+      "start": 28.625999999999998,
+      "end": 36.839999999999996,
+      "role": "JENNY",
+      "text": "Lisa won second place in the long jump. She jumped very far, but Kim jumped farther."
+    },
+    {
+      "start": 36.839999999999996,
+      "end": 48.581999999999994,
+      "role": "JENNY",
+      "text": "My favourite event was “ping-pong pass”. Each student had to balance a ping-pong ball with chopsticks and move it from one basket to another without dropping it."
+    },
+    {
+      "start": 48.581999999999994,
+      "end": 57.971999999999994,
+      "role": "JENNY",
+      "text": "We used a stopwatch to see who was the fastest. You know what? I can use chopsticks very well."
+    },
+    {
+      "start": 57.971999999999994,
+      "end": 64.386,
+      "role": "JENNY",
+      "text": "Tom did his best, but his ping-pong ball kept falling off his chopsticks."
+    },
+    {
+      "start": 64.386,
+      "end": 72.86399999999999,
+      "role": "JENNY",
+      "text": "What were the results? I won the race! David was only two seconds slower than me."
+    },
+    {
+      "start": 72.86399999999999,
+      "end": 82.18199999999999,
+      "role": "JENNY",
+      "text": "It’s really enjoyable to do sports with friends! I like classroom Olympics. What about you?"
+    }
+  ],
+  "total": 82.18199999999999
+}

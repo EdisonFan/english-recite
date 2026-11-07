@@ -1,0 +1,100 @@
+{
+  "key": "U03_Lesson1",
+  "no": "Lesson 1",
+  "title": "What’s your favourite sport?",
+  "title_zh": "你最喜欢什么运动？",
+  "kind": "对话 · 李明与宋华在操场上聊各自最喜欢的运动",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 5.622,
+      "role": "NARRATOR",
+      "text": "Li Ming and Song Hua are talking about sports on the playground."
+    },
+    {
+      "start": 5.622,
+      "end": 9.852,
+      "role": "LI MING",
+      "text": "What’s your favourite sport, Song Hua?"
+    },
+    {
+      "start": 9.852,
+      "end": 16.482,
+      "role": "SONG HUA",
+      "text": "Hmm... I like basketball, but I think swimming is my favourite."
+    },
+    {
+      "start": 16.482,
+      "end": 20.208,
+      "role": "SONG HUA",
+      "text": "I feel free when I’m in the water."
+    },
+    {
+      "start": 20.208,
+      "end": 27.534,
+      "role": "SONG HUA",
+      "text": "I started learning to swim at the age of five, and I still go to the pool every Saturday evening."
+    },
+    {
+      "start": 27.534,
+      "end": 33.516,
+      "role": "LI MING",
+      "text": "That sounds great! What are some benefits of swimming?"
+    },
+    {
+      "start": 33.516,
+      "end": 40.794,
+      "role": "SONG HUA",
+      "text": "Swimming helps me stay in shape, improves my endurance, and reduces my stress."
+    },
+    {
+      "start": 40.794,
+      "end": 45.239999999999995,
+      "role": "SONG HUA",
+      "text": "After swimming, I always feel refreshed."
+    },
+    {
+      "start": 45.239999999999995,
+      "end": 51.36599999999999,
+      "role": "SONG HUA",
+      "text": "How about you, Li Ming? What’s your favourite sport?"
+    },
+    {
+      "start": 51.36599999999999,
+      "end": 54.94799999999999,
+      "role": "LI MING",
+      "text": "For me, it’s ping-pong."
+    },
+    {
+      "start": 54.94799999999999,
+      "end": 60.065999999999995,
+      "role": "LI MING",
+      "text": "It improves my motor skills and my hand-eye coordination."
+    },
+    {
+      "start": 60.065999999999995,
+      "end": 66.288,
+      "role": "LI MING",
+      "text": "I practice it at the sports centre on weekends, and I have made some friends there."
+    },
+    {
+      "start": 66.288,
+      "end": 71.094,
+      "role": "LI MING",
+      "text": "We all love ping-pong and have a lot of fun together."
+    },
+    {
+      "start": 71.094,
+      "end": 80.076,
+      "role": "SONG HUA",
+      "text": "Sports help us improve our physical abilities, learn new skills, overcome challenges, and build confidence."
+    },
+    {
+      "start": 80.076,
+      "end": 89.65799999999999,
+      "role": "LI MING",
+      "text": "Well said! Look! There is a basketball game going on. Let’s go and cheer them!"
+    }
+  ],
+  "total": 89.65799999999999
+}

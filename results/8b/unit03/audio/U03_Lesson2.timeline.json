@@ -1,0 +1,76 @@
+{
+  "key": "U03_Lesson2",
+  "no": "Lesson 2",
+  "title": "National sport",
+  "title_zh": "国球",
+  "kind": "说明文 · 乒乓球为什么是中国的国球",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 12.27,
+      "role": "NARRATOR",
+      "text": "Ping-pong, also known as table tennis, holds a special place in Chinese people’s hearts. It shows our love for sports and the spirit of never giving up."
+    },
+    {
+      "start": 12.27,
+      "end": 19.451999999999998,
+      "role": "NARRATOR",
+      "text": "It inspires young athletes and brings joy and a feeling of community to every player."
+    },
+    {
+      "start": 19.451999999999998,
+      "end": 28.362,
+      "role": "NARRATOR",
+      "text": "Ping-pong has deep historical roots in China. The game became popular in the early 20th century."
+    },
+    {
+      "start": 28.362,
+      "end": 36.912,
+      "role": "NARRATOR",
+      "text": "Now, people of all ages play this sport in gyms, parks, community centres, and even at home."
+    },
+    {
+      "start": 36.912,
+      "end": 44.67,
+      "role": "NARRATOR",
+      "text": "Ping-pong is a fast-paced sport. It can improve your overall physical fitness."
+    },
+    {
+      "start": 44.67,
+      "end": 57.396,
+      "role": "NARRATOR",
+      "text": "Ping-pong uses both the left and right sides of the brain. So it can also improve your memory and problem-solving skills. What a fun national sport!"
+    },
+    {
+      "start": 57.396,
+      "end": 66.09,
+      "role": "NARRATOR",
+      "text": "Since ping-pong entered the Olympics in 1988, the Chinese ping-pong team has won many gold medals."
+    },
+    {
+      "start": 66.09,
+      "end": 75.336,
+      "role": "NARRATOR",
+      "text": "The team has also had many great victories in major ping-pong events, such as the World Championship and the World Cup."
+    },
+    {
+      "start": 75.336,
+      "end": 82.038,
+      "role": "NARRATOR",
+      "text": "The achievements of Chinese players on the global stage have inspired many people."
+    },
+    {
+      "start": 82.038,
+      "end": 87.396,
+      "role": "NARRATOR",
+      "text": "Ping-pong has already become an important part of our culture."
+    },
+    {
+      "start": 87.396,
+      "end": 98.538,
+      "role": "NARRATOR",
+      "text": "The game serves as exercise and as a way for people to connect with others. Don’t wait! Go play ping-pong with your friends."
+    }
+  ],
+  "total": 98.538
+}
