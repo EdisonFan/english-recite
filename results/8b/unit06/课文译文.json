@@ -1,0 +1,737 @@
+{
+  "unit": 6,
+  "scope": "按子句逐句对应",
+  "note": "中文译文按课文语境自译，课本原文无中文对照，仅供跟读理解参考",
+  "items": [
+    {
+      "no": 1,
+      "en": "Li Ming and Jenny are chatting online.",
+      "zh": "李明和詹妮正在网上聊天。"
+    },
+    {
+      "no": 2,
+      "en": "Hey, Li Ming.",
+      "zh": "嘿，李明。"
+    },
+    {
+      "no": 3,
+      "en": "We’re learning about different types of literature in our English class this week.",
+      "zh": "这周英语课我们在学不同的文学体裁。"
+    },
+    {
+      "no": 4,
+      "en": "So far, we have read fables and fairy tales.",
+      "zh": "到目前我们读了寓言和童话。"
+    },
+    {
+      "no": 5,
+      "en": "Oh, fables!",
+      "zh": "哦，寓言！"
+    },
+    {
+      "no": 6,
+      "en": "I really enjoy them.",
+      "zh": "我特别喜欢。"
+    },
+    {
+      "no": 7,
+      "en": "They’re short but meaningful.",
+      "zh": "篇幅短，可意味深长。"
+    },
+    {
+      "no": 8,
+      "en": "Exactly.",
+      "zh": "没错。"
+    },
+    {
+      "no": 9,
+      "en": "I think fables are rich in morals.",
+      "zh": "我觉得寓言里道理特别多。"
+    },
+    {
+      "no": 10,
+      "en": "One of my favourites is The Fox and the Grapes.",
+      "zh": "我最喜欢的一篇是《狐狸与葡萄》。"
+    },
+    {
+      "no": 11,
+      "en": "Have you heard of it?",
+      "zh": "你听说过吗？"
+    },
+    {
+      "no": 12,
+      "en": "Yes!",
+      "zh": "听过！"
+    },
+    {
+      "no": 13,
+      "en": "It’s a good one.",
+      "zh": "那篇很棒。"
+    },
+    {
+      "no": 14,
+      "en": "I also like science fiction.",
+      "zh": "我还喜欢科幻小说。"
+    },
+    {
+      "no": 15,
+      "en": "Have you ever read the novel Twenty Thousand Leagues Under the Sea?",
+      "zh": "你读过《海底两万里》吗？"
+    },
+    {
+      "no": 16,
+      "en": "I’m just a quarter of the way into it.",
+      "zh": "我才读到四分之一。"
+    },
+    {
+      "no": 17,
+      "en": "Yes, I love it.",
+      "zh": "读过，我可喜欢了。"
+    },
+    {
+      "no": 18,
+      "en": "Jules G. Verne takes us on an exciting underwater adventure full of discoveries.",
+      "zh": "儒勒·凡尔纳带我们经历一场充满发现的海底冒险。"
+    },
+    {
+      "no": 19,
+      "en": "Yesterday, I just finished reading The Gift of the Magi by O. Henry.",
+      "zh": "昨天我刚读完欧·亨利的《麦琪的礼物》。"
+    },
+    {
+      "no": 20,
+      "en": "Ah, I am familiar with that short story too.",
+      "zh": "啊，那篇短篇我也熟。"
+    },
+    {
+      "no": 21,
+      "en": "In my Chinese class, we’re reading ancient Chinese poems by great poets like Li Bai and Du Fu.",
+      "zh": "语文课上我们在读李白、杜甫这些大诗人的古诗。"
+    },
+    {
+      "no": 22,
+      "en": "They wrote hundreds of amazing poems.",
+      "zh": "他们写了几百首了不起的诗。"
+    },
+    {
+      "no": 23,
+      "en": "That sounds fascinating!",
+      "zh": "听起来真有意思！"
+    },
+    {
+      "no": 24,
+      "en": "I remember Brian is interested in writing poems.",
+      "zh": "我记得布莱恩对写诗挺感兴趣。"
+    },
+    {
+      "no": 25,
+      "en": "Perhaps you could discuss poetry with him one day.",
+      "zh": "改天你们可以聊聊诗歌。"
+    },
+    {
+      "no": 26,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "no": 27,
+      "en": "I hope he enjoys Chinese poems and finds inspiration in them.",
+      "zh": "希望他喜欢中国诗，还能从中找到灵感。"
+    },
+    {
+      "no": 28,
+      "en": "I bet he does!",
+      "zh": "我敢打赌他肯定喜欢！"
+    },
+    {
+      "no": 29,
+      "en": "Literature has so much to offer, and it can open new worlds for us.",
+      "zh": "文学能给我们太多东西，还能打开一个个新世界。"
+    },
+    {
+      "no": 30,
+      "en": "Let’s continue learning and exploring its wonders together!",
+      "zh": "咱们一起继续学、一起探索它的奇妙吧！"
+    },
+    {
+      "no": 31,
+      "en": "Long ago, there was a kind and honest woodcutter.",
+      "zh": "很久以前，有一位善良又诚实的樵夫。"
+    },
+    {
+      "no": 32,
+      "en": "One day, when he was cutting wood beside a lake, he lost his axe in the water.",
+      "zh": "一天，他在湖边砍柴时，把斧头掉进了水里。"
+    },
+    {
+      "no": 33,
+      "en": "The water was deep, and he could not get his axe back.",
+      "zh": "水很深，他捞不回斧头。"
+    },
+    {
+      "no": 34,
+      "en": "He had only one axe, and he needed it to make a living.",
+      "zh": "他只有这一把斧头，还得靠它养家糊口。"
+    },
+    {
+      "no": 35,
+      "en": "He sat down and began to cry.",
+      "zh": "他坐下来哭了起来。"
+    },
+    {
+      "no": 36,
+      "en": "As he cried, a fairy appeared.",
+      "zh": "正哭着，一位仙女出现了。"
+    },
+    {
+      "no": 37,
+      "en": "She asked the man what was wrong.",
+      "zh": "她问他出了什么事。"
+    },
+    {
+      "no": 38,
+      "en": "She listened to the woodcutter and felt sorry for him.",
+      "zh": "她听完樵夫的话，很同情他。"
+    },
+    {
+      "no": 39,
+      "en": "But what could she do to help?",
+      "zh": "可她能怎么帮呢？"
+    },
+    {
+      "no": 40,
+      "en": "Suddenly, she came up with a great idea.",
+      "zh": "忽然，她想出个好主意。"
+    },
+    {
+      "no": 41,
+      "en": "The fairy jumped into the lake and brought back a golden axe.",
+      "zh": "仙女跳进湖里，捞上来一把金斧头。"
+    },
+    {
+      "no": 42,
+      "en": "“Is this the axe you lost?” asked the good fairy.",
+      "zh": "「这是你丢的那把斧头吗？」好心的仙女问。"
+    },
+    {
+      "no": 43,
+      "en": "The man looked at the golden axe and shook his head.",
+      "zh": "那人看了看金斧头，摇摇头。"
+    },
+    {
+      "no": 44,
+      "en": "He told the fairy it wasn’t his.",
+      "zh": "他告诉仙女那不是他的。"
+    },
+    {
+      "no": 45,
+      "en": "The fairy jumped into the water again and brought back a silver axe.",
+      "zh": "仙女又跳进水里，捞上来一把银斧头。"
+    },
+    {
+      "no": 46,
+      "en": "Once again, the man said that none of the axes were his.",
+      "zh": "那人还是说，这些斧头都不是他的。"
+    },
+    {
+      "no": 47,
+      "en": "The fairy went down a third time and returned with the woodcutter’s old axe.",
+      "zh": "仙女第三次下水，带回了樵夫那把旧斧头。"
+    },
+    {
+      "no": 48,
+      "en": "“That’s the right one!” said the woodcutter.",
+      "zh": "「就是这把！」樵夫说。"
+    },
+    {
+      "no": 49,
+      "en": "The fairy was so happy with the woodcutter’s honesty that she gave him the other two axes as a present.",
+      "zh": "仙女被樵夫的诚实打动，把另外两把斧头也送给了他。"
+    },
+    {
+      "no": 50,
+      "en": "Honesty truly is the best policy.",
+      "zh": "诚实真的是上上策。"
+    },
+    {
+      "no": 51,
+      "en": "Once upon a time, there was a big, beautiful garden in front of a large, empty house.",
+      "zh": "从前，一座空荡荡的大房子前，有一座又大又漂亮的花园。"
+    },
+    {
+      "no": 52,
+      "en": "Its grass was soft and green.",
+      "zh": "草儿又软又绿。"
+    },
+    {
+      "no": 53,
+      "en": "Its trees were filled with singing birds.",
+      "zh": "树上满是唱歌的鸟儿。"
+    },
+    {
+      "no": 54,
+      "en": "Every afternoon after school, children would play in the garden.",
+      "zh": "每天下午放学后，孩子们都会来花园里玩。"
+    },
+    {
+      "no": 55,
+      "en": "They ran in the grass and climbed the trees.",
+      "zh": "他们在草地上跑，爬上树。"
+    },
+    {
+      "no": 56,
+      "en": "They loved to listen to the singing of the birds.",
+      "zh": "他们爱听鸟儿唱歌。"
+    },
+    {
+      "no": 57,
+      "en": "They felt that they were in a wonderland.",
+      "zh": "觉得自己像在仙境里。"
+    },
+    {
+      "no": 58,
+      "en": "One day, the children were playing in the garden when a giant appeared.",
+      "zh": "一天，孩子们正在花园里玩，一个巨人出现了。"
+    },
+    {
+      "no": 59,
+      "en": "“What are you doing here?”",
+      "zh": "「你们在这儿干什么？」"
+    },
+    {
+      "no": 60,
+      "en": "The giant got mad and yelled in a deep voice.",
+      "zh": "巨人发了火，扯着低沉的嗓子吼道。"
+    },
+    {
+      "no": 61,
+      "en": "“This is my garden!",
+      "zh": "「这是我的花园！"
+    },
+    {
+      "no": 62,
+      "en": "You must leave immediately!”",
+      "zh": "你们马上给我走！」"
+    },
+    {
+      "no": 63,
+      "en": "The children were frightened and ran away.",
+      "zh": "孩子们吓坏了，跑走了。"
+    },
+    {
+      "no": 64,
+      "en": "The next day, the giant built a high wall around his garden and put up a notice: DO NOT ENTER!",
+      "zh": "第二天，巨人在花园四周砌起高墙，还立了块牌子：禁止入内！"
+    },
+    {
+      "no": 65,
+      "en": "The poor children dared not come again.",
+      "zh": "可怜的孩子们再也不敢来了。"
+    },
+    {
+      "no": 66,
+      "en": "The giant was always in his house, watching.",
+      "zh": "巨人总待在屋里，望着外面。"
+    },
+    {
+      "no": 67,
+      "en": "Summer turned to fall and fall turned to winter.",
+      "zh": "夏去秋来，秋去冬来。"
+    },
+    {
+      "no": 68,
+      "en": "When spring came, the giant noticed that flowers blossomed and birds began to sing across the land.",
+      "zh": "春天来了，巨人发现别处花儿都开了，鸟儿也开始歌唱。"
+    },
+    {
+      "no": 69,
+      "en": "But in his garden, it was still winter.",
+      "zh": "可他的花园里，还是冬天。"
+    },
+    {
+      "no": 70,
+      "en": "The green grass was covered with snow and the cold winds kept the birds away.",
+      "zh": "绿草盖着雪，寒风把鸟儿挡在外面。"
+    },
+    {
+      "no": 71,
+      "en": "“I don’t understand why spring is so late coming to my garden this year,” said the giant.",
+      "zh": "「真不懂，今年春天怎么迟迟不来我的花园，」巨人说。"
+    },
+    {
+      "no": 72,
+      "en": "He felt sad when he looked through the window at his frozen, white garden.",
+      "zh": "望着窗外冰封雪白的花园，他心里难过。"
+    },
+    {
+      "no": 73,
+      "en": "One morning when the giant was lying awake in his bed, he heard lovely music coming through the window.",
+      "zh": "一天早上，巨人醒着躺在床上，听见窗外传来好听的乐声。"
+    },
+    {
+      "no": 74,
+      "en": "He thought it must be the king’s musicians passing by.",
+      "zh": "他以为是国王的乐师路过。"
+    },
+    {
+      "no": 75,
+      "en": "“Perhaps spring has come at last,” he said when he jumped out of bed and looked outside.",
+      "zh": "「也许春天终于来了，」他跳下床往外看时说。"
+    },
+    {
+      "no": 76,
+      "en": "This week in class, we learned to write stories and poems.",
+      "zh": "这周课上，我们学了写故事和写诗。"
+    },
+    {
+      "no": 77,
+      "en": "We read different kinds of poems, fables, and fairy tales.",
+      "zh": "我们读了各种诗、寓言和童话。"
+    },
+    {
+      "no": 78,
+      "en": "I think poems are more interesting than stories because they use creative forms and a small number of words to express strong feelings.",
+      "zh": "我觉得诗比故事更有意思，因为它用新颖的形式、很少的词，就能表达强烈的感情。"
+    },
+    {
+      "no": 79,
+      "en": "During our class, we read a beautiful Chinese poem called Thoughts on a Tranquil Night by the poet Li Bai.",
+      "zh": "课上我们读了一首很美的中国诗，李白写的《静夜思》。"
+    },
+    {
+      "no": 80,
+      "en": "This poem is about missing home and it painted clear pictures in my mind.",
+      "zh": "这首诗写的是想家，在我脑海里画出了清清楚楚的画面。"
+    },
+    {
+      "no": 81,
+      "en": "Here’s the poem:",
+      "zh": "诗是这样的："
+    },
+    {
+      "no": 82,
+      "en": "Before my bed a pool of light —",
+      "zh": "床前一片月光——"
+    },
+    {
+      "no": 83,
+      "en": "Or can it be hoar-frost on the ground?",
+      "zh": "难道是地上落了霜？"
+    },
+    {
+      "no": 84,
+      "en": "Looking up, I find the moon bright;",
+      "zh": "抬头看，月亮真亮；"
+    },
+    {
+      "no": 85,
+      "en": "Bowing, in homesickness I’m drowned.",
+      "zh": "一低头，思乡之情把我淹没。"
+    },
+    {
+      "no": 86,
+      "en": "After learning about this special poem, my teacher encouraged us to try writing our own poems.",
+      "zh": "学完这首特别的诗，老师鼓励我们也试着自己写。"
+    },
+    {
+      "no": 87,
+      "en": "At first, I tried to write about my favourite spot by the lake, but it was challenging.",
+      "zh": "起先我想写湖边最爱的地方，可太难了。"
+    },
+    {
+      "no": 88,
+      "en": "Instead, I wrote a poem about the months.",
+      "zh": "于是我写了一首关于月份的小诗。"
+    },
+    {
+      "no": 89,
+      "en": "Here it is:",
+      "zh": "在这儿："
+    },
+    {
+      "no": 90,
+      "en": "In April, come he will,",
+      "zh": "四月，他会来，"
+    },
+    {
+      "no": 91,
+      "en": "In May, sing all day,",
+      "zh": "五月，唱一整天，"
+    },
+    {
+      "no": 92,
+      "en": "In June, change his tune,",
+      "zh": "六月，换了调子，"
+    },
+    {
+      "no": 93,
+      "en": "In July, prepare to fly,",
+      "zh": "七月，准备起飞，"
+    },
+    {
+      "no": 94,
+      "en": "In August, go he must!",
+      "zh": "八月，他非走不可！"
+    },
+    {
+      "no": 95,
+      "en": "Writing poems can be challenging, and you should weigh your words, but it’s also lots of fun.",
+      "zh": "写诗是有难度，得字字掂量，可也特别好玩。"
+    },
+    {
+      "no": 96,
+      "en": "I enjoy expressing my thoughts and feelings through words.",
+      "zh": "我喜欢用文字说出自己的想法和心情。"
+    },
+    {
+      "no": 97,
+      "en": "I can’t wait to learn more about poetry in our next class!",
+      "zh": "下节课真想多学点诗歌！"
+    },
+    {
+      "no": 98,
+      "en": "A young man’s uncle leaves him one thousand dollars in his will.",
+      "zh": "一位年轻人的叔叔在遗嘱里留给他一千美元。"
+    },
+    {
+      "no": 99,
+      "en": "What will the young man do with it?",
+      "zh": "他会怎么花这笔钱呢？"
+    },
+    {
+      "no": 100,
+      "en": "In Tolman’s office, Mr Tolman, a lawyer, has just finished reading Gillian’s uncle’s will.",
+      "zh": "托尔曼律师的办公室里，他刚念完吉莉安叔叔的遗嘱。"
+    },
+    {
+      "no": 101,
+      "en": "Well, there you are.",
+      "zh": "喏，就是这些。"
+    },
+    {
+      "no": 102,
+      "en": "Your uncle wrote his will two months before he died, and now I’ve read it to you.",
+      "zh": "你叔叔去世前两个月立下遗嘱，我刚念给你听了。"
+    },
+    {
+      "no": 103,
+      "en": "What do you think?",
+      "zh": "你怎么想？"
+    },
+    {
+      "no": 104,
+      "en": "(Laughing) It’s not going to be easy to spend a thousand dollars.",
+      "zh": "（笑着）花掉一千美元可不容易啊。"
+    },
+    {
+      "no": 105,
+      "en": "After spending this cash, you must tell me in writing how you spent it.",
+      "zh": "花完这笔钱，你得书面告诉我怎么花的。"
+    },
+    {
+      "no": 106,
+      "en": "Will you do that?",
+      "zh": "你能做到吗？"
+    },
+    {
+      "no": 107,
+      "en": "Yes, I’ll do it.",
+      "zh": "好，我会的。"
+    },
+    {
+      "no": 108,
+      "en": "(Giving Gillian a packet) Here’s the money, one thousand dollars.",
+      "zh": "（递给吉莉安一个纸包）钱在这儿，一千美元。"
+    },
+    {
+      "no": 109,
+      "en": "Gillian knows that the uncle’s caretaker, Miss Hayden, got just ten dollars.",
+      "zh": "吉莉安知道，照顾叔叔的海登小姐只得到十美元。"
+    },
+    {
+      "no": 110,
+      "en": "Compared to that, a thousand is a lot.",
+      "zh": "跟那比起来，一千可太多了。"
+    },
+    {
+      "no": 111,
+      "en": "How should Gillian spend his money?",
+      "zh": "这钱该怎么花呢？"
+    },
+    {
+      "no": 112,
+      "en": "He asks several friends, but doesn’t find the answer.",
+      "zh": "他问了几个朋友，也没找到答案。"
+    },
+    {
+      "no": 113,
+      "en": "Finally, he decides to return to his uncle’s house.",
+      "zh": "最后，他决定回叔叔家去。"
+    },
+    {
+      "no": 114,
+      "en": "In the living room, Miss Hayden is sitting at a table, writing letters.",
+      "zh": "客厅里，海登小姐正坐在桌边写信。"
+    },
+    {
+      "no": 115,
+      "en": "She looks up when Gillian comes in.",
+      "zh": "吉莉安进来时，她抬起头。"
+    },
+    {
+      "no": 116,
+      "en": "I’ve just come from Tolman’s.",
+      "zh": "我刚从托尔曼那儿来。"
+    },
+    {
+      "no": 117,
+      "en": "He found a mistake in the will.",
+      "zh": "他发现遗嘱里有个错误。"
+    },
+    {
+      "no": 118,
+      "en": "He did?",
+      "zh": "是吗？"
+    },
+    {
+      "no": 119,
+      "en": "My dear old uncle left you a thousand dollars, not ten.",
+      "zh": "我亲爱的老叔叔留给你的是一千美元，不是十块。"
+    },
+    {
+      "no": 120,
+      "en": "Tolman asked me to bring it to you.",
+      "zh": "托尔曼让我把钱带给你。"
+    },
+    {
+      "no": 121,
+      "en": "Here it is.",
+      "zh": "给，在这儿。"
+    },
+    {
+      "no": 122,
+      "en": "(He puts the packet of money on the table.)",
+      "zh": "（他把那包钱放在桌上。）"
+    },
+    {
+      "no": 123,
+      "en": "(Excited) Oh my!",
+      "zh": "（激动地）哎呀！"
+    },
+    {
+      "no": 124,
+      "en": "Wow!",
+      "zh": "哇！"
+    },
+    {
+      "no": 125,
+      "en": "(Smiling) Can I write a note?",
+      "zh": "（微笑着）我能写张便条吗？"
+    },
+    {
+      "no": 126,
+      "en": "Of course.",
+      "zh": "当然可以。"
+    },
+    {
+      "no": 127,
+      "en": "(She gives him a pen and some paper, and leaves. Gillian writes a short note, and then reads it.)",
+      "zh": "（她给他笔和纸，就出去了。吉莉安写了张短便条，然后念了出来。）"
+    },
+    {
+      "no": 128,
+      "en": "“Paid to the best and dearest woman in the world, one thousand dollars.",
+      "zh": "「付给世上最好、最亲的人，一千美元。"
+    },
+    {
+      "no": 129,
+      "en": "I hope she will be happy forever.”",
+      "zh": "愿她永远幸福。」"
+    },
+    {
+      "no": 130,
+      "en": "During the Warring States Period, the King of Zhao got an invaluable piece of jade, He Shi Bi.",
+      "zh": "战国时期，赵王得到一块无价之宝——和氏璧。"
+    },
+    {
+      "no": 131,
+      "en": "When the King of Qin heard of this, he offered Zhao fifteen cities for the smooth, bright jade.",
+      "zh": "秦王听说后，愿意拿十五座城换这块光润的美玉。"
+    },
+    {
+      "no": 132,
+      "en": "The King of Zhao feared he might get nothing in return.",
+      "zh": "赵王怕什么也换不回来。"
+    },
+    {
+      "no": 133,
+      "en": "Yet if he refused, Qin might attack Zhao.",
+      "zh": "可要是拒绝，秦国又可能来打赵国。"
+    },
+    {
+      "no": 134,
+      "en": "Lin Xiangru, who was brave and intelligent, was sent to Qin with the jade.",
+      "zh": "勇敢机智的蔺相如被派带着玉出使秦国。"
+    },
+    {
+      "no": 135,
+      "en": "The King of Qin was pleased when he saw the jade, but he did not mention the cities at all.",
+      "zh": "秦王见到玉很高兴，却只字不提城池的事。"
+    },
+    {
+      "no": 136,
+      "en": "Lin said, “Your Majesty, there is a tiny flaw on the jade.",
+      "zh": "蔺相如说：「大王，这玉上有个小瑕疵。"
+    },
+    {
+      "no": 137,
+      "en": "Could I show it to you?”",
+      "zh": "能指给您看吗？」"
+    },
+    {
+      "no": 138,
+      "en": "The king handed the jade back to Lin.",
+      "zh": "秦王把玉递回给蔺相如。"
+    },
+    {
+      "no": 139,
+      "en": "As soon as Lin got the jade, he stepped back to the pillars in the palace, shouting, “You have no intention of giving us those cities, so I’ve taken back the jade.",
+      "zh": "一拿到玉，蔺相如就退到宫殿的柱子旁，高声说：「您根本没打算给城，所以我把玉收回来了。"
+    },
+    {
+      "no": 140,
+      "en": "If you use force against me, I’ll smash my head and the jade against this pillar.”",
+      "zh": "您要动强，我就把头和玉一起撞碎在这根柱子上。」"
+    },
+    {
+      "no": 141,
+      "en": "To save the jade, the King of Qin apologized, and then showed Lin the cities on the map.",
+      "zh": "为了保住玉，秦王道了歉，又在地图上指给他看那几座城。"
+    },
+    {
+      "no": 142,
+      "en": "But Lin did not believe he would turn them over.",
+      "zh": "可蔺相如不信他真会交出城池。"
+    },
+    {
+      "no": 143,
+      "en": "He ordered one of his men to secretly take the jade back to Zhao.",
+      "zh": "他让一名手下悄悄把玉送回赵国。"
+    },
+    {
+      "no": 144,
+      "en": "He himself would stay to face the King of Qin.",
+      "zh": "自己则留下来面对秦王。"
+    },
+    {
+      "no": 145,
+      "en": "Although the King of Qin was furious, he had no better choice but to set Lin free.",
+      "zh": "秦王虽然大怒，也只好放了蔺相如。"
+    },
+    {
+      "no": 146,
+      "en": "Lin Xiangru and the jade returned to Zhao safely.",
+      "zh": "蔺相如与和氏璧都平安回到了赵国。"
+    }
+  ]
+}

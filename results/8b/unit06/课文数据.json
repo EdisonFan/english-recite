@@ -1,0 +1,358 @@
+{
+  "unit": 6,
+  "unit_title": "I love literature!",
+  "lessons": [
+    {
+      "no": "Lesson 1",
+      "title": "Exploring literature",
+      "title_zh": "探索文学",
+      "kind": "对话 · Li Ming 与 Jenny 线上聊文学体裁和读过的作品",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Li Ming and Jenny are chatting online."
+        },
+        {
+          "role": "JENNY",
+          "text": "Hey, Li Ming. We’re learning about different types of literature in our English class this week. So far, we have read fables and fairy tales."
+        },
+        {
+          "role": "LI MING",
+          "text": "Oh, fables! I really enjoy them. They’re short but meaningful."
+        },
+        {
+          "role": "JENNY",
+          "text": "Exactly. I think fables are rich in morals. One of my favourites is The Fox and the Grapes. Have you heard of it?"
+        },
+        {
+          "role": "LI MING",
+          "text": "Yes! It’s a good one. I also like science fiction. Have you ever read the novel Twenty Thousand Leagues Under the Sea? I’m just a quarter of the way into it."
+        },
+        {
+          "role": "JENNY",
+          "text": "Yes, I love it. Jules G. Verne takes us on an exciting underwater adventure full of discoveries. Yesterday, I just finished reading The Gift of the Magi by O. Henry."
+        },
+        {
+          "role": "LI MING",
+          "text": "Ah, I am familiar with that short story too. In my Chinese class, we’re reading ancient Chinese poems by great poets like Li Bai and Du Fu."
+        },
+        {
+          "role": "LI MING",
+          "text": "They wrote hundreds of amazing poems."
+        },
+        {
+          "role": "JENNY",
+          "text": "That sounds fascinating! I remember Brian is interested in writing poems. Perhaps you could discuss poetry with him one day."
+        },
+        {
+          "role": "LI MING",
+          "text": "Really? I hope he enjoys Chinese poems and finds inspiration in them."
+        },
+        {
+          "role": "JENNY",
+          "text": "I bet he does! Literature has so much to offer, and it can open new worlds for us. Let’s continue learning and exploring its wonders together!"
+        }
+      ]
+    },
+    {
+      "no": "Lesson 2",
+      "title": "The woodcutter fable",
+      "title_zh": "樵夫的寓言",
+      "kind": "寓言 · 诚实的樵夫与仙女的三把斧头",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Long ago, there was a kind and honest woodcutter. One day, when he was cutting wood beside a lake, he lost his axe in the water."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The water was deep, and he could not get his axe back. He had only one axe, and he needed it to make a living."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He sat down and began to cry. As he cried, a fairy appeared. She asked the man what was wrong. She listened to the woodcutter and felt sorry for him."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "But what could she do to help? Suddenly, she came up with a great idea. The fairy jumped into the lake and brought back a golden axe."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“Is this the axe you lost?” asked the good fairy. The man looked at the golden axe and shook his head. He told the fairy it wasn’t his."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The fairy jumped into the water again and brought back a silver axe. Once again, the man said that none of the axes were his."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The fairy went down a third time and returned with the woodcutter’s old axe. “That’s the right one!” said the woodcutter."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The fairy was so happy with the woodcutter’s honesty that she gave him the other two axes as a present."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Honesty truly is the best policy."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 3",
+      "title": "The Giant",
+      "title_zh": "巨人",
+      "kind": "童话 · 巨人筑墙赶走孩子，花园里春天迟迟不来",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Once upon a time, there was a big, beautiful garden in front of a large, empty house. Its grass was soft and green. Its trees were filled with singing birds."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Every afternoon after school, children would play in the garden. They ran in the grass and climbed the trees. They loved to listen to the singing of the birds."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They felt that they were in a wonderland."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "One day, the children were playing in the garden when a giant appeared. “What are you doing here?” The giant got mad and yelled in a deep voice. “This is my garden!"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You must leave immediately!” The children were frightened and ran away."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The next day, the giant built a high wall around his garden and put up a notice: DO NOT ENTER! The poor children dared not come again."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The giant was always in his house, watching."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Summer turned to fall and fall turned to winter. When spring came, the giant noticed that flowers blossomed and birds began to sing across the land."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "But in his garden, it was still winter. The green grass was covered with snow and the cold winds kept the birds away."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“I don’t understand why spring is so late coming to my garden this year,” said the giant. He felt sad when he looked through the window at his frozen, white garden."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "One morning when the giant was lying awake in his bed, he heard lovely music coming through the window. He thought it must be the king’s musicians passing by."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“Perhaps spring has come at last,” he said when he jumped out of bed and looked outside."
+        }
+      ]
+    },
+    {
+      "no": "Lesson 4",
+      "title": "Writing a poem",
+      "title_zh": "写一首诗",
+      "kind": "日记 · Brian 记录课堂学写诗，抄录《静夜思》英译与自写的月份小诗",
+      "lines": [
+        {
+          "role": "BRIAN",
+          "text": "This week in class, we learned to write stories and poems. We read different kinds of poems, fables, and fairy tales."
+        },
+        {
+          "role": "BRIAN",
+          "text": "I think poems are more interesting than stories because they use creative forms and a small number of words to express strong feelings."
+        },
+        {
+          "role": "BRIAN",
+          "text": "During our class, we read a beautiful Chinese poem called Thoughts on a Tranquil Night by the poet Li Bai."
+        },
+        {
+          "role": "BRIAN",
+          "text": "This poem is about missing home and it painted clear pictures in my mind. Here’s the poem:"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Before my bed a pool of light —"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Or can it be hoar-frost on the ground?"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Looking up, I find the moon bright;"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Bowing, in homesickness I’m drowned."
+        },
+        {
+          "role": "BRIAN",
+          "text": "After learning about this special poem, my teacher encouraged us to try writing our own poems."
+        },
+        {
+          "role": "BRIAN",
+          "text": "At first, I tried to write about my favourite spot by the lake, but it was challenging. Instead, I wrote a poem about the months. Here it is:"
+        },
+        {
+          "role": "BRIAN",
+          "text": "In April, come he will,"
+        },
+        {
+          "role": "BRIAN",
+          "text": "In May, sing all day,"
+        },
+        {
+          "role": "BRIAN",
+          "text": "In June, change his tune,"
+        },
+        {
+          "role": "BRIAN",
+          "text": "In July, prepare to fly,"
+        },
+        {
+          "role": "BRIAN",
+          "text": "In August, go he must!"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Writing poems can be challenging, and you should weigh your words, but it’s also lots of fun. I enjoy expressing my thoughts and feelings through words."
+        },
+        {
+          "role": "BRIAN",
+          "text": "I can’t wait to learn more about poetry in our next class!"
+        }
+      ]
+    },
+    {
+      "no": "Lesson 5",
+      "title": "One thousand dollars",
+      "title_zh": "一千美元",
+      "kind": "剧本 · Gillian 把叔叔留下的一千美元转赠给 Miss Hayden",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "A young man’s uncle leaves him one thousand dollars in his will. What will the young man do with it?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In Tolman’s office, Mr Tolman, a lawyer, has just finished reading Gillian’s uncle’s will."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Well, there you are. Your uncle wrote his will two months before he died, and now I’ve read it to you. What do you think?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "(Laughing) It’s not going to be easy to spend a thousand dollars."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "After spending this cash, you must tell me in writing how you spent it. Will you do that?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Yes, I’ll do it."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "(Giving Gillian a packet) Here’s the money, one thousand dollars."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Gillian knows that the uncle’s caretaker, Miss Hayden, got just ten dollars. Compared to that, a thousand is a lot. How should Gillian spend his money?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He asks several friends, but doesn’t find the answer. Finally, he decides to return to his uncle’s house."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In the living room, Miss Hayden is sitting at a table, writing letters. She looks up when Gillian comes in."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "I’ve just come from Tolman’s. He found a mistake in the will."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He did?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "My dear old uncle left you a thousand dollars, not ten. Tolman asked me to bring it to you. Here it is. (He puts the packet of money on the table.)"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "(Excited) Oh my! Wow!"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "(Smiling) Can I write a note?"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Of course. (She gives him a pen and some paper, and leaves. Gillian writes a short note, and then reads it.)"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“Paid to the best and dearest woman in the world, one thousand dollars. I hope she will be happy forever.”"
+        }
+      ]
+    },
+    {
+      "no": "Unit cultures",
+      "title": "Return the jade intact to Zhao",
+      "title_zh": "完璧归赵",
+      "kind": "历史故事 · 蔺相如使秦，护送和氏璧平安归赵",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "During the Warring States Period, the King of Zhao got an invaluable piece of jade, He Shi Bi."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When the King of Qin heard of this, he offered Zhao fifteen cities for the smooth, bright jade. The King of Zhao feared he might get nothing in return."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Yet if he refused, Qin might attack Zhao. Lin Xiangru, who was brave and intelligent, was sent to Qin with the jade."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The King of Qin was pleased when he saw the jade, but he did not mention the cities at all. Lin said, “Your Majesty, there is a tiny flaw on the jade."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Could I show it to you?” The king handed the jade back to Lin."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "As soon as Lin got the jade, he stepped back to the pillars in the palace, shouting, “You have no intention of giving us those cities, so I’ve taken back the jade."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you use force against me, I’ll smash my head and the jade against this pillar.”"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "To save the jade, the King of Qin apologized, and then showed Lin the cities on the map. But Lin did not believe he would turn them over."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He ordered one of his men to secretly take the jade back to Zhao. He himself would stay to face the King of Qin."
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Although the King of Qin was furious, he had no better choice but to set Lin free. Lin Xiangru and the jade returned to Zhao safely."
+        }
+      ]
+    }
+  ]
+}
