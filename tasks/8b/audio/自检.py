@@ -45,14 +45,17 @@ def main():
                 errs.append("%s 缺文件 %s" % (key, os.path.basename(p)))
         if not (os.path.isfile(mp3) and os.path.isfile(tl)):
             continue
-        if os.path.getsize(mp3) < 100 * 1024:
-            errs.append("%s MP3 仅 %.1f KB，疑似空音频" % (key, os.path.getsize(mp3) / 1024))
         ok, dur, tail = probe(mp3)
         if not ok:
             errs.append("%s MP3 不可解码/无音频流 %s" % (key, tail))
             continue
         if dur < 20:
             errs.append("%s MP3 时长 %.1fs < 20s" % (key, dur))
+        # 真实语音约 6–9 KB/s；纯静音或空音频会掉到 1 KB/s 左右。
+        min_bytes = max(60 * 1024, int(dur * 2500))
+        if os.path.getsize(mp3) < min_bytes:
+            errs.append("%s MP3 仅 %.1f KB（%.1fs 至少需 %.1f KB），疑似静音/空音频" % (
+                key, os.path.getsize(mp3) / 1024, dur, min_bytes / 1024))
         try:
             t = json.load(open(tl, encoding="utf-8"))
         except Exception as e:
@@ -85,7 +88,8 @@ def main():
         if abs(total - dur) > 1.0:
             errs.append("%s total %.2fs 与 MP3 %.2fs 差 >1s（检查 0.75s 句间静音是否拼进去）" % (key, total, dur))
         print("   %-16s %2d 条  %6.2fs  MP3 %6.2fs  %s" % (
-            key, len(rows), total, dur, "OK" if not any(key in e for e in errs) else "FAIL"))
+            key, len(rows), total, dur,
+            "OK" if not any(e.startswith(key + " ") for e in errs) else "FAIL"))
     extra = [f for f in os.listdir(out) if os.path.isfile(os.path.join(out, f)) and f not in all_files] if os.path.isdir(out) else []
     if extra:
         warns.append("目录里有多余文件：%s" % extra[:8])
