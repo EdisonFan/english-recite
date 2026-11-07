@@ -1,6 +1,6 @@
 {
   "book": "冀教版英语·八年级下册（2026春版）",
-  "stage": "课文整理（阶段②，可并行）",
+  "stage": "课文整理（阶段②，按轮验收）",
   "updated_by": "主流程",
   "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。",
   "units": {
@@ -11,16 +11,16 @@
       "note": ""
     },
     "unit02": {
-      "status": "pending",
+      "status": "accepted",
       "input": "pages/8b/unit02.txt",
       "output": "results/8b/unit02/",
-      "note": ""
+      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 89–100%、词覆盖 1.00、译文 147/147 对齐、无练习题残留。可进入语音合成。"
     },
     "unit03": {
-      "status": "pending",
+      "status": "rejected",
       "input": "pages/8b/unit03.txt",
       "output": "results/8b/unit03/",
-      "note": ""
+      "note": "课文数据与教材基准全过；仅译文 items 第 3 条把两个子句合并，导致 110/111 且后续 108 处错位。详见 REJECT.md，改完重交 3 个 JSON。"
     },
     "unit04": {
       "status": "pending",
