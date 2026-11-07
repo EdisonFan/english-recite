@@ -2,7 +2,7 @@
   "book": "冀教版英语·八年级下册（2026春版）",
   "stage": "课文整理（阶段②，按轮验收）",
   "updated_by": "主流程",
-  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。本轮：8 个单元全部交回，验收 7 通过 / 1 退回（unit06 译文切分口径）。",
+  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。本轮：8 个单元全部交回，按契约 v2 闸门复核 7 通过 / 1 退回（unit06 译文切分口径）。audio=ready 的 7 个单元可进入阶段④语音合成分包。",
   "units": {
     "unit01": {
       "status": "accepted",
@@ -12,8 +12,7 @@
       "clauses": 139,
       "translation_items": 139,
       "pdf_hit": 0.98,
-      "word_cover": 0.998,
-      "audio": "ready"
+      "word_cover": 0.998
     },
     "unit02": {
       "status": "accepted",
@@ -23,8 +22,7 @@
       "clauses": 147,
       "translation_items": 147,
       "pdf_hit": 0.926,
-      "word_cover": 0.998,
-      "audio": "ready"
+      "word_cover": 0.998
     },
     "unit03": {
       "status": "accepted",
@@ -34,8 +32,7 @@
       "clauses": 111,
       "translation_items": 111,
       "pdf_hit": 0.901,
-      "word_cover": 0.998,
-      "audio": "ready"
+      "word_cover": 0.998
     },
     "unit04": {
       "status": "accepted",
@@ -45,8 +42,7 @@
       "clauses": 118,
       "translation_items": 118,
       "pdf_hit": 0.941,
-      "word_cover": 0.998,
-      "audio": "ready"
+      "word_cover": 0.998
     },
     "unit05": {
       "status": "accepted",
@@ -56,30 +52,27 @@
       "clauses": 103,
       "translation_items": 103,
       "pdf_hit": 0.968,
-      "word_cover": 0.999,
-      "audio": "ready"
+      "word_cover": 0.999
     },
     "unit06": {
       "status": "rejected",
       "input": "pages/8b/unit06.txt",
       "output": "results/8b/unit06/",
-      "note": "仅译文字句切分口径不符，其余全过（canonical 一致、PDF 逐句 92.1%、词覆盖 0.999、无练习题残留——初检「listen to」系主流程正则误报，已撤销）。译文 146 条，按当前渲染器正则应为 144 条，详见 REJECT.md。改完重交 3 个 JSON。",
+      "note": "按契约 v2 第 4 节：译文英文文字完整，但按 SENT 正则应为 144 条、现为 146 条，切分口径不符。其余全过（canonical 一致、PDF 92.1%、词覆盖 0.999、无练习题残留——旧正则误报已撤销）。见 REJECT.md 附的 144 条期望清单，只改课文译文.json 重交。",
       "clauses": 144,
       "translation_items": 146,
       "pdf_hit": 0.921,
-      "word_cover": 0.999,
-      "audio": "blocked"
+      "word_cover": 0.999
     },
     "unit07": {
       "status": "accepted",
       "input": "pages/8b/unit07.txt",
       "output": "results/8b/unit07/",
-      "note": "闸门通过（两处告警复核后放行）：第 1 课含教材原字「贩」（讲汉字字形，同八上「鱼(fish)」），入库时登记 allow_cjk 白名单豁免，非中文混入；第 6 课 215 字符长句只有一个句末句号、无法再切，竖版折行 ≤12 行符合闸门，判为提醒不阻断。译文 122/122 对齐。可进入语音合成。",
+      "note": "契约 v2 闸门自动放行：6 课 canonical 一致、PDF 91.9%、词覆盖 0.997、译文 122/122 对齐。第 1 课教材原字「贩」按 5.1 豁免（inferred 已声明）；第 6 课 215 字符单句切不动、渲染器折行 6 行 ≤12，按 5.3 放行。入库渲染时登记 allow_cjk 白名单。可进入语音合成。",
       "clauses": 122,
       "translation_items": 122,
       "pdf_hit": 0.919,
-      "word_cover": 0.997,
-      "audio": "ready"
+      "word_cover": 0.997
     },
     "unit08": {
       "status": "accepted",
@@ -89,17 +82,12 @@
       "clauses": 99,
       "translation_items": 99,
       "pdf_hit": 0.949,
-      "word_cover": 0.999,
-      "audio": "ready"
+      "word_cover": 0.999
     }
   },
-  "audio_stage": {
-    "stage": "④ 语音合成（可分发出去）",
-    "task_package": "tasks/8b/audio/音频合成_任务包.md",
-    "worker": "tasks/8b/audio/worker.py",
-    "input_pattern": "tasks/8b/audio/data_unitNN.json",
-    "output_pattern": "results/8b/unitNN/audio/（每单元 6 课 × 2 = 12 个文件）",
-    "engine": "edge-tts==7.3.1 · rate=-10% · 16k 单声道 · 句间 0.75s · loudnorm=I=-17:TP=-1.5:LRA=11",
-    "note": "仅课文整理 accepted 的单元可开工；unit06 待译文切分修复，标记 blocked。主流程扫到合格音频后跑渲染⑥。"
+  "contract": "v2 · tasks/8b/数据契约.md（切分正则 / allow_cjk / 长句折行 / 唯一闸门）",
+  "selfcheck": {
+    "课文整理": "tasks/8b/自检_课文整理.py",
+    "语音合成": "tasks/8b/audio/自检.py"
   }
 }
