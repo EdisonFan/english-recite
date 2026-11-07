@@ -1,0 +1,76 @@
+{
+  "key": "U08_Lesson4",
+  "no": "Lesson 4",
+  "title": "Natural disasters are dangerous!",
+  "title_zh": "自然灾害很危险！",
+  "kind": "说明文 · 台风、野火与洪水的危害",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 8.766,
+      "role": "NARRATOR",
+      "text": "Typhoons are strong storms with powerful winds. They usually occur in the Western North Pacific."
+    },
+    {
+      "start": 8.766,
+      "end": 19.908,
+      "role": "NARRATOR",
+      "text": "Typhoons form when warm water from the ocean meets special wind patterns. Typhoons can bring heavy rain and help cool down hot summers."
+    },
+    {
+      "start": 19.908,
+      "end": 33.282000000000004,
+      "role": "NARRATOR",
+      "text": "However, they can be very dangerous and cause a lot of damage. During a typhoon, wind speeds can reach up to 252 kilometres per hour or even higher."
+    },
+    {
+      "start": 33.282000000000004,
+      "end": 40.224000000000004,
+      "role": "NARRATOR",
+      "text": "This can lead to trees falling, buildings getting damaged, and some areas flooding."
+    },
+    {
+      "start": 40.224000000000004,
+      "end": 49.638000000000005,
+      "role": "NARRATOR",
+      "text": "Wildfires are big, out-of-control fires. They happen in natural places like forests and grasslands."
+    },
+    {
+      "start": 49.638000000000005,
+      "end": 59.196000000000005,
+      "role": "NARRATOR",
+      "text": "They can badly hurt animals, plants, and the environment. They are also dangerous to people living nearby."
+    },
+    {
+      "start": 59.196000000000005,
+      "end": 69.69,
+      "role": "NARRATOR",
+      "text": "In 2023, Canada experienced many big forest fires, affecting an area of over 60,000 square kilometres."
+    },
+    {
+      "start": 69.69,
+      "end": 79.24799999999999,
+      "role": "NARRATOR",
+      "text": "Floods are huge amounts of water covering an area. They happen when there’s too much rain or when rivers overflow."
+    },
+    {
+      "start": 79.24799999999999,
+      "end": 85.782,
+      "role": "NARRATOR",
+      "text": "Floods can hurt a lot of people and destroy farms, buildings, and roads."
+    },
+    {
+      "start": 85.782,
+      "end": 99.588,
+      "role": "NARRATOR",
+      "text": "In China, one of the biggest floods was the 1998 Changjiang River flood. The PLA troops fought against this terrible flood and protected millions of people from drowning."
+    },
+    {
+      "start": 99.588,
+      "end": 104.826,
+      "role": "NARRATOR",
+      "text": "They successfully kept major cities like Wuhan safe."
+    }
+  ],
+  "total": 104.826
+}

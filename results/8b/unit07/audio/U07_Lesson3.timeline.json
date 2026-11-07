@@ -1,0 +1,94 @@
+{
+  "key": "U07_Lesson3",
+  "no": "Lesson 3",
+  "title": "Money talks",
+  "title_zh": "金钱的作用",
+  "kind": "对话 · 刘老师与同学们讨论金钱的作用与价值",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 4.638,
+      "role": "MS LIU",
+      "text": "Can anyone tell me what money is and why we use it?"
+    },
+    {
+      "start": 4.638,
+      "end": 8.844,
+      "role": "LI MING",
+      "text": "Money is something we use to buy things."
+    },
+    {
+      "start": 8.844,
+      "end": 12.834,
+      "role": "WANG MEI",
+      "text": "It’s also something we get through work."
+    },
+    {
+      "start": 12.834,
+      "end": 21.216,
+      "role": "MS LIU",
+      "text": "That’s right! Money is a medium of exchange. It means we can trade it for goods and services."
+    },
+    {
+      "start": 21.216,
+      "end": 28.542,
+      "role": "MS LIU",
+      "text": "Just imagine how difficult life would be without money. Do you think money is important?"
+    },
+    {
+      "start": 28.542,
+      "end": 38.508,
+      "role": "LI LIN",
+      "text": "Yes, it helps us buy the things we need, like food and clothes. Without money, it would be hard to afford those things."
+    },
+    {
+      "start": 38.508,
+      "end": 46.746,
+      "role": "WANG MEI",
+      "text": "Exactly. Money also helps us achieve our goals, like going to college or travelling."
+    },
+    {
+      "start": 46.746,
+      "end": 52.344,
+      "role": "SONG HUA",
+      "text": "And it allows us to help others and make a positive difference in the world."
+    },
+    {
+      "start": 52.344,
+      "end": 62.19,
+      "role": "MS LIU",
+      "text": "I agree with everyone. However, there are many things that are even more valuable than money. Can you give me some examples?"
+    },
+    {
+      "start": 62.19,
+      "end": 66.492,
+      "role": "LI LIN",
+      "text": "Good health, happiness, and love."
+    },
+    {
+      "start": 66.49199999999999,
+      "end": 69.68999999999998,
+      "role": "WANG MEI",
+      "text": "Family and knowledge."
+    },
+    {
+      "start": 69.68999999999998,
+      "end": 72.74399999999999,
+      "role": "LI MING",
+      "text": "Peace and friendship."
+    },
+    {
+      "start": 72.74399999999999,
+      "end": 81.82199999999999,
+      "role": "MS LIU",
+      "text": "Excellent. While money is important, it cannot buy everything. Use money wisely and responsibly."
+    },
+    {
+      "start": 81.82199999999999,
+      "end": 86.74799999999999,
+      "role": "MS LIU",
+      "text": "Always be grateful for what you have and share what you can."
+    }
+  ],
+  "total": 86.74799999999999
+}

@@ -1,0 +1,112 @@
+{
+  "key": "U06_Lesson5",
+  "no": "Lesson 5",
+  "title": "One thousand dollars",
+  "title_zh": "一千美元",
+  "kind": "剧本 · Gillian 把叔叔留下的一千美元转赠给 Miss Hayden",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 8.238,
+      "role": "NARRATOR",
+      "text": "A young man’s uncle leaves him one thousand dollars in his will. What will the young man do with it?"
+    },
+    {
+      "start": 8.238,
+      "end": 16.116,
+      "role": "NARRATOR",
+      "text": "In Tolman’s office, Mr Tolman, a lawyer, has just finished reading Gillian’s uncle’s will."
+    },
+    {
+      "start": 16.116,
+      "end": 26.706,
+      "role": "NARRATOR",
+      "text": "Well, there you are. Your uncle wrote his will two months before he died, and now I’ve read it to you. What do you think?"
+    },
+    {
+      "start": 26.706,
+      "end": 32.424,
+      "role": "NARRATOR",
+      "text": "(Laughing) It’s not going to be easy to spend a thousand dollars."
+    },
+    {
+      "start": 32.424,
+      "end": 40.494,
+      "role": "NARRATOR",
+      "text": "After spending this cash, you must tell me in writing how you spent it. Will you do that?"
+    },
+    {
+      "start": 40.494,
+      "end": 43.74,
+      "role": "NARRATOR",
+      "text": "Yes, I’ll do it."
+    },
+    {
+      "start": 43.74,
+      "end": 49.602000000000004,
+      "role": "NARRATOR",
+      "text": "(Giving Gillian a packet) Here’s the money, one thousand dollars."
+    },
+    {
+      "start": 49.602000000000004,
+      "end": 62.952000000000005,
+      "role": "NARRATOR",
+      "text": "Gillian knows that the uncle’s caretaker, Miss Hayden, got just ten dollars. Compared to that, a thousand is a lot. How should Gillian spend his money?"
+    },
+    {
+      "start": 62.952000000000005,
+      "end": 72.39,
+      "role": "NARRATOR",
+      "text": "He asks several friends, but doesn’t find the answer. Finally, he decides to return to his uncle’s house."
+    },
+    {
+      "start": 72.39,
+      "end": 81.636,
+      "role": "NARRATOR",
+      "text": "In the living room, Miss Hayden is sitting at a table, writing letters. She looks up when Gillian comes in."
+    },
+    {
+      "start": 81.636,
+      "end": 87.92999999999999,
+      "role": "NARRATOR",
+      "text": "I’ve just come from Tolman’s. He found a mistake in the will."
+    },
+    {
+      "start": 87.92999999999999,
+      "end": 90.55199999999999,
+      "role": "NARRATOR",
+      "text": "He did?"
+    },
+    {
+      "start": 90.55199999999999,
+      "end": 104.28599999999999,
+      "role": "NARRATOR",
+      "text": "My dear old uncle left you a thousand dollars, not ten. Tolman asked me to bring it to you. Here it is. (He puts the packet of money on the table.)"
+    },
+    {
+      "start": 104.28599999999999,
+      "end": 109.23599999999999,
+      "role": "NARRATOR",
+      "text": "(Excited) Oh my! Wow!"
+    },
+    {
+      "start": 109.23599999999999,
+      "end": 113.082,
+      "role": "NARRATOR",
+      "text": "(Smiling) Can I write a note?"
+    },
+    {
+      "start": 113.082,
+      "end": 123.52799999999999,
+      "role": "NARRATOR",
+      "text": "Of course. (She gives him a pen and some paper, and leaves. Gillian writes a short note, and then reads it.)"
+    },
+    {
+      "start": 123.52799999999999,
+      "end": 132.486,
+      "role": "NARRATOR",
+      "text": "“Paid to the best and dearest woman in the world, one thousand dollars. I hope she will be happy forever.”"
+    }
+  ],
+  "total": 132.486
+}

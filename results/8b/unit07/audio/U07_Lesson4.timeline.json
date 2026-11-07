@@ -1,0 +1,82 @@
+{
+  "key": "U07_Lesson4",
+  "no": "Lesson 4",
+  "title": "Needs or wants?",
+  "title_zh": "需要还是想要？",
+  "kind": "记叙文 · Emma 在妈妈引导下分清需要与想要",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 12.582,
+      "role": "NARRATOR",
+      "text": "Emma was excited when she heard about a big sale at a store near her home. Everything was 20% off, and she wanted to go shopping with her mum, Mrs Carson."
+    },
+    {
+      "start": 12.582,
+      "end": 24.732,
+      "role": "NARRATOR",
+      "text": "Mrs Carson asked Emma what she wanted to buy, but Emma wasn’t sure yet. She saw a pretty cotton dress, a nice blouse, and some cool shoes."
+    },
+    {
+      "start": 24.732,
+      "end": 30.834,
+      "role": "NARRATOR",
+      "text": "However, her mum reminded her that she already had enough clothes."
+    },
+    {
+      "start": 30.834,
+      "end": 39.647999999999996,
+      "role": "NARRATOR",
+      "text": "“You already have so many blouses, Emma. I don’t think you need any more,” Mrs Carson said."
+    },
+    {
+      "start": 39.647999999999996,
+      "end": 47.622,
+      "role": "NARRATOR",
+      "text": "Disappointed, Emma thought for a moment and said, “They used to be very expensive, but now they’re cheap...”"
+    },
+    {
+      "start": 47.622,
+      "end": 56.94,
+      "role": "NARRATOR",
+      "text": "Mrs Carson smiled and explained, “It’s not just about the price, Emma. We should spend money wisely."
+    },
+    {
+      "start": 56.94,
+      "end": 62.489999999999995,
+      "role": "NARRATOR",
+      "text": "Before buying something, we should consider our needs and wants.”"
+    },
+    {
+      "start": 62.489999999999995,
+      "end": 69.43199999999999,
+      "role": "NARRATOR",
+      "text": "Curious to learn more, Emma asked, “What do you mean by needs and wants, Mum?”"
+    },
+    {
+      "start": 69.43199999999999,
+      "end": 78.48599999999999,
+      "role": "NARRATOR",
+      "text": "Patiently, Mrs Carson explained, “Needs are things that we must have, like food, clothes, and a safe home."
+    },
+    {
+      "start": 78.48599999999999,
+      "end": 88.49999999999999,
+      "role": "NARRATOR",
+      "text": "Wants, on the other hand, are things that we desire but can live without. It’s important to make smart choices with our money.”"
+    },
+    {
+      "start": 88.49999999999999,
+      "end": 94.52999999999999,
+      "role": "NARRATOR",
+      "text": "Emma started to realise how important it was to manage money wisely."
+    },
+    {
+      "start": 94.52999999999999,
+      "end": 102.6,
+      "role": "NARRATOR",
+      "text": "By understanding the difference between needs and wants, she knew that she could make better decisions about money."
+    }
+  ],
+  "total": 102.6
+}

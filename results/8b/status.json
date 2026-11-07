@@ -18,7 +18,8 @@
       "audio_verdict": "accepted",
       "audio_note": "主流程加严验收通过：6 课 / 98 朗读单元 / 642.8s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 98/98 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
       "video": "ready",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "分包（已验收）"
     },
     "unit02": {
       "status": "accepted",
@@ -34,7 +35,8 @@
       "audio_verdict": "accepted",
       "audio_note": "主流程加严验收通过：6 课 / 68 朗读单元 / 612.0s；自检 PASS、双源逐字一致、total 与 MP3 偏差 ≤0.042s、句末 0.75s 静音 68/68 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "分包（已验收）"
     },
     "unit03": {
       "status": "accepted",
@@ -45,11 +47,12 @@
       "translation_items": 111,
       "pdf_hit": 0.901,
       "word_cover": 0.998,
-      "audio": "ready",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程加严验收通过：6 课 / 71 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 71/71 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "分包（本轮验收）"
     },
     "unit04": {
       "status": "accepted",
@@ -60,11 +63,12 @@
       "translation_items": 118,
       "pdf_hit": 0.941,
       "word_cover": 0.998,
-      "audio": "ready",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程加严验收通过：6 课 / 68 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 68/68 命中、响度 -17 LUFS 指纹一致。可直接进渲染⑥。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "分包（本轮验收）"
     },
     "unit05": {
       "status": "accepted",
@@ -75,11 +79,12 @@
       "translation_items": 103,
       "pdf_hit": 0.968,
       "word_cover": 0.999,
-      "audio": "ready",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程自生成并加严验收通过：6 课 / 62 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 62/62 命中、响度 -17 LUFS 指纹一致。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）"
     },
     "unit06": {
       "status": "rejected",
@@ -90,11 +95,12 @@
       "translation_items": 146,
       "pdf_hit": 0.921,
       "word_cover": 0.999,
-      "audio": "blocked",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程自生成并加严验收通过：6 课 / 76 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 76/76 命中、响度 -17 LUFS 指纹一致。 注：音频只用课文数据 lines，不受本单元译文 144/146 切分退回影响；课文整理 status 仍为 rejected，渲染⑥前须先修译文。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）"
     },
     "unit07": {
       "status": "accepted",
@@ -105,11 +111,12 @@
       "translation_items": 122,
       "pdf_hit": 0.919,
       "word_cover": 0.997,
-      "audio": "ready",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程自生成并加严验收通过：6 课 / 74 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 74/74 命中、响度 -17 LUFS 指纹一致。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）"
     },
     "unit08": {
       "status": "accepted",
@@ -120,11 +127,12 @@
       "translation_items": 99,
       "pdf_hit": 0.949,
       "word_cover": 0.999,
-      "audio": "ready",
-      "audio_submitted": false,
-      "audio_note": "音频产物尚未交回（audio/ 目录为空）",
+      "audio": "accepted",
+      "audio_submitted": true,
+      "audio_note": "主流程自生成并加严验收通过：6 课 / 59 朗读单元；自检 PASS、双源逐字一致、句末 0.75s 静音 59/59 命中、响度 -17 LUFS 指纹一致。",
       "video": "blocked",
-      "video_submitted": false
+      "video_submitted": false,
+      "audio_source": "主流程 GitHub Actions（直连受限，走中转仓库跑原样 worker.py）"
     }
   },
   "contract": "v2 · tasks/8b/数据契约.md（切分正则 / allow_cjk / 长句折行 / 唯一闸门）",
@@ -139,7 +147,7 @@
     "input_pattern": "tasks/8b/audio/data_unitNN.json",
     "output_pattern": "results/8b/unitNN/audio/（每单元 6 课 × 2 = 12 个文件）",
     "engine": "edge-tts==7.3.1 · rate=-10% · 16k 单声道 · 句间 0.75s · loudnorm=I=-17:TP=-1.5:LRA=11",
-    "note": "阶段④音频产物由主流程验收；unit01/unit02 已通过（166/166 句静音契约达标），其余 6 个单元待交回。最终 MP3 为 48000 Hz 单声道（loudnorm 重采样），非 16000，属正常。"
+    "note": "阶段④ 八下 8 单元音频全部齐备并验收通过：unit01-04 由分包交回，unit05-08 由主流程用 GitHub Actions 跑原样 worker.py 生成（沙盒直连微软端点被代理拦截）。共 48 课 / 576 朗读单元。最终 MP3 为 48000 Hz 单声道（loudnorm 重采样），属正常。"
   },
   "video_stage": {
     "stage": "⑥ 视频渲染（本次只开放 unit01 做试验）",
@@ -149,6 +157,6 @@
     "output_pattern": "results/8b/unitNN/video/（6 个子目录 × 3 文件 = 18 个）",
     "spec": "1080x1920 / 24fps / H.264+AAC / 与原 timeline.total 对齐 / 全帧解码 0 错误",
     "deps": "Python≥3.9 + Pillow + ffmpeg(libass,libx264,aac)；字体随包自带，无需系统字体",
-    "note": "unit01 音频已验收通过，可开跑。其余单元音频未交回，video 一律 blocked。产物由主流程验收后搬入 冀教版/冀教版八年级英语下册(2026春版)/，一课一 commit。"
+    "note": "音频已全部齐备，但阶段⑥本次仍只开放 unit01 六课做分包试跑；其余 7 单元 video=blocked，等 unit01 试跑结果再决定是否开放。unit06 另需先修译文 144/146 切分。"
   }
 }

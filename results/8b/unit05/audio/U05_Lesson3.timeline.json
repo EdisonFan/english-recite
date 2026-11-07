@@ -1,0 +1,82 @@
+{
+  "key": "U05_Lesson3",
+  "no": "Lesson 3",
+  "title": "Computers and the internet",
+  "title_zh": "电脑与互联网",
+  "kind": "对话 · 珍妮和妈妈聊电脑与互联网给学习带来的变化",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.086,
+      "role": "NARRATOR",
+      "text": "Jenny wants to do her homework on the computer. But her mum is using it."
+    },
+    {
+      "start": 7.086,
+      "end": 11.412,
+      "role": "JENNY",
+      "text": "Mum, is it okay if I use the computer now?"
+    },
+    {
+      "start": 11.412,
+      "end": 21.306,
+      "role": "NARRATOR",
+      "text": "Okay. I just finished my work, so it’s all yours. Jenny, you’re so lucky to have a computer."
+    },
+    {
+      "start": 21.306,
+      "end": 30.024,
+      "role": "JENNY",
+      "text": "Yes, I am. As it’s connected to the internet, it has made study and research much easier."
+    },
+    {
+      "start": 30.024,
+      "end": 43.782,
+      "role": "NARRATOR",
+      "text": "This technology helps students a lot with their homework. But when I was a student, computers were not widely used. And the internet was not as convenient as it is now."
+    },
+    {
+      "start": 43.782,
+      "end": 49.763999999999996,
+      "role": "NARRATOR",
+      "text": "I couldn’t imagine having such a convenient tool for getting the job done."
+    },
+    {
+      "start": 49.763999999999996,
+      "end": 54.114,
+      "role": "JENNY",
+      "text": "Mum, how was homework done in those days?"
+    },
+    {
+      "start": 54.114,
+      "end": 64.24799999999999,
+      "role": "NARRATOR",
+      "text": "Well, everything was written by hand on paper. When I didn’t know how to spell a word, I had to look it up in a printed dictionary."
+    },
+    {
+      "start": 64.24799999999999,
+      "end": 69.70199999999998,
+      "role": "NARRATOR",
+      "text": "When I needed to do any research, I had to go to the library."
+    },
+    {
+      "start": 69.70199999999998,
+      "end": 79.04399999999998,
+      "role": "JENNY",
+      "text": "But now with the internet we can simply search for everything online. And there’s always new technology, like AI."
+    },
+    {
+      "start": 79.04399999999998,
+      "end": 91.16999999999999,
+      "role": "NARRATOR",
+      "text": "Yes, and you can easily find definitions and examples for any word. The internet and the computer are amazing inventions with many applications."
+    },
+    {
+      "start": 91.16999999999999,
+      "end": 95.03999999999999,
+      "role": "JENNY",
+      "text": "I agree with you on that, Mum."
+    }
+  ],
+  "total": 95.03999999999999
+}

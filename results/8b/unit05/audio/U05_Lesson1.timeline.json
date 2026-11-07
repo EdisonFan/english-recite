@@ -1,0 +1,58 @@
+{
+  "key": "U05_Lesson1",
+  "no": "Lesson 1",
+  "title": "Inventions are great!",
+  "title_zh": "发明真了不起！",
+  "kind": "对话 · 刘老师与同学们讨论最重要的发明",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.678,
+      "role": "MS LIU",
+      "text": "Today, let’s discuss inventions and their roles in shaping our world. Which invention do you think is the most important?"
+    },
+    {
+      "start": 9.678,
+      "end": 16.956,
+      "role": "LI MING",
+      "text": "I believe the invention of paper has greatly influenced the development of human civilization."
+    },
+    {
+      "start": 16.956,
+      "end": 24.689999999999998,
+      "role": "SONG HUA",
+      "text": "How about the telephone? It allows people to communicate with each other easily and quickly."
+    },
+    {
+      "start": 24.689999999999998,
+      "end": 31.631999999999998,
+      "role": "WANG MEI",
+      "text": "The light bulb is also an important invention. It lights up the world."
+    },
+    {
+      "start": 31.631999999999998,
+      "end": 39.51,
+      "role": "LI LIN",
+      "text": "I think washing machines are helpful inventions, and both electric and gas-powered cars are cool."
+    },
+    {
+      "start": 39.51,
+      "end": 46.452,
+      "role": "MS LIU",
+      "text": "These are all very good examples! Are there any other inventions coming to your mind?"
+    },
+    {
+      "start": 46.452,
+      "end": 53.418,
+      "role": "WANG MEI",
+      "text": "Computers are very important. People can do so much on a computer."
+    },
+    {
+      "start": 53.418,
+      "end": 63.96,
+      "role": "LI MING",
+      "text": "And don’t forget about the internet! It connects people from all over the world and provides us with information, knowledge, and entertainment."
+    }
+  ],
+  "total": 63.96
+}

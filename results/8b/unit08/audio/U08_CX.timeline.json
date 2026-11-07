@@ -1,0 +1,70 @@
+{
+  "key": "U08_CX",
+  "no": "Unit cultures",
+  "title": "Measures to prevent floods",
+  "title_zh": "防洪措施",
+  "kind": "说明文 · 中国三峡大坝与英国泰晤士河防洪闸",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.542,
+      "role": "NARRATOR",
+      "text": "Floods are common natural disasters. They can cause serious damage to homes and crops, and pose a threat to human lives."
+    },
+    {
+      "start": 10.542,
+      "end": 17.988,
+      "role": "NARRATOR",
+      "text": "Many countries take all kinds of measures to prevent floods based on their specific conditions."
+    },
+    {
+      "start": 17.988,
+      "end": 24.282,
+      "role": "NARRATOR",
+      "text": "The Three Gorges Dam plays a crucial role in preventing floods in China."
+    },
+    {
+      "start": 24.282,
+      "end": 32.208,
+      "role": "NARRATOR",
+      "text": "This dam is located on the Changjiang River and helps control the flow of water during heavy rains."
+    },
+    {
+      "start": 32.208,
+      "end": 39.39,
+      "role": "NARRATOR",
+      "text": "The dam acts as a barrier to hold back excess water and releases it slowly and safely."
+    },
+    {
+      "start": 39.39,
+      "end": 45.396,
+      "role": "NARRATOR",
+      "text": "This makes sure that the areas nearby are protected from the floods."
+    },
+    {
+      "start": 45.396,
+      "end": 50.946,
+      "role": "NARRATOR",
+      "text": "By controlling the water levels, the dam keeps people safe."
+    },
+    {
+      "start": 50.946,
+      "end": 56.711999999999996,
+      "role": "NARRATOR",
+      "text": "The Thames Barrier is an important flood defense system in the UK."
+    },
+    {
+      "start": 56.711999999999996,
+      "end": 65.35799999999999,
+      "role": "NARRATOR",
+      "text": "It is located on the River Thames with huge gates that can be raised during high tides to protect London from flooding."
+    },
+    {
+      "start": 65.358,
+      "end": 75.20400000000001,
+      "role": "NARRATOR",
+      "text": "The barrier has successfully prevented many floods since its completion in 1982, safeguarding the city and its people."
+    }
+  ],
+  "total": 75.20400000000001
+}

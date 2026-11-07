@@ -1,0 +1,76 @@
+{
+  "key": "U05_Lesson5",
+  "no": "Lesson 5",
+  "title": "Refrigerator timeline",
+  "title_zh": "冰箱发展时间线",
+  "kind": "时间线说明文 · 从古代冰藏到节能冰箱的发展",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.486,
+      "role": "NARRATOR",
+      "text": "Ancient times: Ancient China, Greece, and Rome used ice or snow to preserve food by freezing or chilling it."
+    },
+    {
+      "start": 9.486,
+      "end": 16.068,
+      "role": "NARRATOR",
+      "text": "1600s: Icehouses were used to preserve food all year-round."
+    },
+    {
+      "start": 16.068,
+      "end": 23.418,
+      "role": "NARRATOR",
+      "text": "1748: William Cullen did an experiment on artificial refrigeration."
+    },
+    {
+      "start": 23.418,
+      "end": 30.0,
+      "role": "NARRATOR",
+      "text": "1805: Oliver Evans designed the first refrigeration machine."
+    },
+    {
+      "start": 30.0,
+      "end": 38.814,
+      "role": "NARRATOR",
+      "text": "1890s: Iceboxes became popular. They were smaller icehouses meant for home use."
+    },
+    {
+      "start": 38.814,
+      "end": 46.26,
+      "role": "NARRATOR",
+      "text": "1913: Fred W. Wolf invented the first home electric refrigerator."
+    },
+    {
+      "start": 46.26,
+      "end": 52.314,
+      "role": "NARRATOR",
+      "text": "1918: Mass production of home refrigerators began."
+    },
+    {
+      "start": 52.314,
+      "end": 58.536,
+      "role": "NARRATOR",
+      "text": "1920s: Refrigerators became popular in some countries."
+    },
+    {
+      "start": 58.536,
+      "end": 63.606,
+      "role": "NARRATOR",
+      "text": "1940s: Freezer compartments were added."
+    },
+    {
+      "start": 63.606,
+      "end": 68.628,
+      "role": "NARRATOR",
+      "text": "1980s: Water dispensers were added."
+    },
+    {
+      "start": 68.628,
+      "end": 74.61,
+      "role": "NARRATOR",
+      "text": "1996: Refrigerators became more energy-saving."
+    }
+  ],
+  "total": 74.61
+}

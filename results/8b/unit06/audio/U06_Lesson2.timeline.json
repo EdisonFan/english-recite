@@ -1,0 +1,64 @@
+{
+  "key": "U06_Lesson2",
+  "no": "Lesson 2",
+  "title": "The woodcutter fable",
+  "title_zh": "樵夫的寓言",
+  "kind": "寓言 · 诚实的樵夫与仙女的三把斧头",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.518,
+      "role": "NARRATOR",
+      "text": "Long ago, there was a kind and honest woodcutter. One day, when he was cutting wood beside a lake, he lost his axe in the water."
+    },
+    {
+      "start": 10.518,
+      "end": 19.764000000000003,
+      "role": "NARRATOR",
+      "text": "The water was deep, and he could not get his axe back. He had only one axe, and he needed it to make a living."
+    },
+    {
+      "start": 19.764000000000003,
+      "end": 33.57,
+      "role": "NARRATOR",
+      "text": "He sat down and began to cry. As he cried, a fairy appeared. She asked the man what was wrong. She listened to the woodcutter and felt sorry for him."
+    },
+    {
+      "start": 33.57,
+      "end": 45.144,
+      "role": "NARRATOR",
+      "text": "But what could she do to help? Suddenly, she came up with a great idea. The fairy jumped into the lake and brought back a golden axe."
+    },
+    {
+      "start": 45.144,
+      "end": 56.694,
+      "role": "NARRATOR",
+      "text": "“Is this the axe you lost?” asked the good fairy. The man looked at the golden axe and shook his head. He told the fairy it wasn’t his."
+    },
+    {
+      "start": 56.694,
+      "end": 67.044,
+      "role": "NARRATOR",
+      "text": "The fairy jumped into the water again and brought back a silver axe. Once again, the man said that none of the axes were his."
+    },
+    {
+      "start": 67.044,
+      "end": 76.554,
+      "role": "NARRATOR",
+      "text": "The fairy went down a third time and returned with the woodcutter’s old axe. “That’s the right one!” said the woodcutter."
+    },
+    {
+      "start": 76.554,
+      "end": 84.384,
+      "role": "NARRATOR",
+      "text": "The fairy was so happy with the woodcutter’s honesty that she gave him the other two axes as a present."
+    },
+    {
+      "start": 84.384,
+      "end": 88.566,
+      "role": "NARRATOR",
+      "text": "Honesty truly is the best policy."
+    }
+  ],
+  "total": 88.566
+}

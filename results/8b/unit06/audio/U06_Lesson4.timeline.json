@@ -1,0 +1,112 @@
+{
+  "key": "U06_Lesson4",
+  "no": "Lesson 4",
+  "title": "Writing a poem",
+  "title_zh": "写一首诗",
+  "kind": "日记 · Brian 记录课堂学写诗，抄录《静夜思》英译与自写的月份小诗",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.95,
+      "role": "BRIAN",
+      "text": "This week in class, we learned to write stories and poems. We read different kinds of poems, fables, and fairy tales."
+    },
+    {
+      "start": 10.95,
+      "end": 20.412,
+      "role": "BRIAN",
+      "text": "I think poems are more interesting than stories because they use creative forms and a small number of words to express strong feelings."
+    },
+    {
+      "start": 20.412,
+      "end": 28.77,
+      "role": "BRIAN",
+      "text": "During our class, we read a beautiful Chinese poem called Thoughts on a Tranquil Night by the poet Li Bai."
+    },
+    {
+      "start": 28.77,
+      "end": 36.647999999999996,
+      "role": "BRIAN",
+      "text": "This poem is about missing home and it painted clear pictures in my mind. Here’s the poem:"
+    },
+    {
+      "start": 36.647999999999996,
+      "end": 40.30199999999999,
+      "role": "BRIAN",
+      "text": "Before my bed a pool of light —"
+    },
+    {
+      "start": 40.30199999999999,
+      "end": 44.19599999999999,
+      "role": "BRIAN",
+      "text": "Or can it be hoar-frost on the ground?"
+    },
+    {
+      "start": 44.19599999999999,
+      "end": 48.23399999999999,
+      "role": "BRIAN",
+      "text": "Looking up, I find the moon bright;"
+    },
+    {
+      "start": 48.233999999999995,
+      "end": 52.51199999999999,
+      "role": "BRIAN",
+      "text": "Bowing, in homesickness I’m drowned."
+    },
+    {
+      "start": 52.51199999999999,
+      "end": 59.95799999999999,
+      "role": "BRIAN",
+      "text": "After learning about this special poem, my teacher encouraged us to try writing our own poems."
+    },
+    {
+      "start": 59.95799999999999,
+      "end": 72.34799999999998,
+      "role": "BRIAN",
+      "text": "At first, I tried to write about my favourite spot by the lake, but it was challenging. Instead, I wrote a poem about the months. Here it is:"
+    },
+    {
+      "start": 72.34799999999998,
+      "end": 76.00199999999998,
+      "role": "BRIAN",
+      "text": "In April, come he will,"
+    },
+    {
+      "start": 76.00199999999998,
+      "end": 79.70399999999998,
+      "role": "BRIAN",
+      "text": "In May, sing all day,"
+    },
+    {
+      "start": 79.70399999999998,
+      "end": 83.69399999999997,
+      "role": "BRIAN",
+      "text": "In June, change his tune,"
+    },
+    {
+      "start": 83.69399999999997,
+      "end": 87.73199999999997,
+      "role": "BRIAN",
+      "text": "In July, prepare to fly,"
+    },
+    {
+      "start": 87.73199999999997,
+      "end": 91.31399999999996,
+      "role": "BRIAN",
+      "text": "In August, go he must!"
+    },
+    {
+      "start": 91.31399999999996,
+      "end": 103.12799999999996,
+      "role": "BRIAN",
+      "text": "Writing poems can be challenging, and you should weigh your words, but it’s also lots of fun. I enjoy expressing my thoughts and feelings through words."
+    },
+    {
+      "start": 103.12799999999996,
+      "end": 108.58199999999995,
+      "role": "BRIAN",
+      "text": "I can’t wait to learn more about poetry in our next class!"
+    }
+  ],
+  "total": 108.58199999999995
+}

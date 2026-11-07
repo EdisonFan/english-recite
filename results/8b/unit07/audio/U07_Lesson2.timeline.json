@@ -1,0 +1,76 @@
+{
+  "key": "U07_Lesson2",
+  "no": "Lesson 2",
+  "title": "What do you do with money?",
+  "title_zh": "你会怎么用钱？",
+  "kind": "记叙文 · 马旭捐出一生积蓄回报家乡的故事",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.062,
+      "role": "NARRATOR",
+      "text": "What do you do with your money? Everyone makes their own choices. Here’s a great example of what to do with money."
+    },
+    {
+      "start": 10.062,
+      "end": 20.195999999999998,
+      "role": "NARRATOR",
+      "text": "Ma Xu realised another dream at age 86 by donating 10 million yuan of her life savings to her hometown, Mulan County."
+    },
+    {
+      "start": 20.195999999999998,
+      "end": 27.017999999999997,
+      "role": "NARRATOR",
+      "text": "The donation was made up of earnings from scientific research and patent transfers."
+    },
+    {
+      "start": 27.017999999999997,
+      "end": 36.864,
+      "role": "NARRATOR",
+      "text": "Ma was born in a doctor’s family in Mulan County. She joined the PLA as a doctor in 1947."
+    },
+    {
+      "start": 36.864,
+      "end": 45.821999999999996,
+      "role": "NARRATOR",
+      "text": "After many years of hard learning and training, she became China’s first female paratrooper in 1961."
+    },
+    {
+      "start": 45.821999999999996,
+      "end": 56.099999999999994,
+      "role": "NARRATOR",
+      "text": "Ma and her husband put their hearts into research. They have gotten two invention patents and published more than 100 papers."
+    },
+    {
+      "start": 56.099999999999994,
+      "end": 62.297999999999995,
+      "role": "NARRATOR",
+      "text": "Ma has also developed many traditional Chinese medical prescriptions."
+    },
+    {
+      "start": 62.297999999999995,
+      "end": 74.904,
+      "role": "NARRATOR",
+      "text": "Now, they live a very simple life in a small house in Wuhan. They still use the same hard bed from the 1970s and their sofas are over 50 years old."
+    },
+    {
+      "start": 74.904,
+      "end": 88.734,
+      "role": "NARRATOR",
+      "text": "They usually wear their military uniforms. Ma misses her hometown very much. In 2018, they decided to donate all their savings to Mulan County."
+    },
+    {
+      "start": 88.734,
+      "end": 98.556,
+      "role": "NARRATOR",
+      "text": "Ma believes that better education can change lives. She is happy to help teenagers in her hometown with her savings."
+    },
+    {
+      "start": 98.556,
+      "end": 107.03399999999999,
+      "role": "NARRATOR",
+      "text": "True happiness can be found not in material things, but in the ability to make a difference in the lives of others."
+    }
+  ],
+  "total": 107.03399999999999
+}

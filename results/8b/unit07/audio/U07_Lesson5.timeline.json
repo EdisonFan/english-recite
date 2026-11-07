@@ -1,0 +1,76 @@
+{
+  "key": "U07_Lesson5",
+  "no": "Lesson 5",
+  "title": "Managing your money",
+  "title_zh": "管理你的钱",
+  "kind": "记叙文 · 三个孩子用不同方式管理零花钱",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.254,
+      "role": "NARRATOR",
+      "text": "Mary and her cousins would go every month for a big family meal at their grandparents’ house."
+    },
+    {
+      "start": 7.254,
+      "end": 14.34,
+      "role": "NARRATOR",
+      "text": "Their grandfather often gave them a few coins, saying, “You can buy yourself something.”"
+    },
+    {
+      "start": 14.34,
+      "end": 18.738,
+      "role": "NARRATOR",
+      "text": "Then all of them ran off to spend the money."
+    },
+    {
+      "start": 18.738,
+      "end": 28.488,
+      "role": "NARRATOR",
+      "text": "The grandparents, aunts, uncles, and parents thought this was not good — the children would never learn to manage their pocket money."
+    },
+    {
+      "start": 28.488,
+      "end": 36.99,
+      "role": "NARRATOR",
+      "text": "So they decided to have a test. They wanted to see what the children could get with the coins within a year."
+    },
+    {
+      "start": 36.989999999999995,
+      "end": 42.53999999999999,
+      "role": "NARRATOR",
+      "text": "Tom, the smallest kid, spent all his money on sweets."
+    },
+    {
+      "start": 42.53999999999999,
+      "end": 53.081999999999994,
+      "role": "NARRATOR",
+      "text": "Jim was strong-willed. He wanted to win the test. He saved every cent. He was the clear winner."
+    },
+    {
+      "start": 53.081999999999994,
+      "end": 65.63999999999999,
+      "role": "NARRATOR",
+      "text": "Then there was Mary. She loved the violin, but the family couldn’t pay for her violin lessons. So Mary went to her neighbour, a violinist."
+    },
+    {
+      "start": 65.63999999999999,
+      "end": 78.19799999999998,
+      "role": "NARRATOR",
+      "text": "Mary offered him all the coins, asking the violinist to teach her how to play. It wasn’t much money, but seeing Mary’s excitement, the violinist agreed."
+    },
+    {
+      "start": 78.19799999999998,
+      "end": 90.77999999999997,
+      "role": "NARRATOR",
+      "text": "He taught her happily for months. Later, the two played together in the park. They were very successful, and Mary was able to buy her own violin."
+    },
+    {
+      "start": 90.77999999999997,
+      "end": 96.20999999999998,
+      "role": "NARRATOR",
+      "text": "Years later, Mary became a very famous violinist."
+    }
+  ],
+  "total": 96.20999999999998
+}

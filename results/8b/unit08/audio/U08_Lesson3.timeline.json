@@ -1,0 +1,76 @@
+{
+  "key": "U08_Lesson3",
+  "no": "Lesson 3",
+  "title": "Secondary disasters",
+  "title_zh": "次生灾害",
+  "kind": "说明文 · 以日本福岛地震为例说明次生灾害",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 10.038,
+      "role": "NARRATOR",
+      "text": "Disasters are terrible. Sometimes, secondary disasters are even more dangerous because they create more damages."
+    },
+    {
+      "start": 10.038,
+      "end": 19.98,
+      "role": "NARRATOR",
+      "text": "Secondary disasters include landslides, fires, floods, and so on. Here is a serious example."
+    },
+    {
+      "start": 19.98,
+      "end": 33.69,
+      "role": "NARRATOR",
+      "text": "On March 11, 2011, the largest earthquake ever recorded in Japan caused great destruction. Tsunami waves hit the coastal area less than half an hour later."
+    },
+    {
+      "start": 33.69,
+      "end": 43.848,
+      "role": "NARRATOR",
+      "text": "They also destroyed the Fukushima Daiichi nuclear power plant. In the following days, explosions rocked the plant."
+    },
+    {
+      "start": 43.848,
+      "end": 55.182,
+      "role": "NARRATOR",
+      "text": "More than 150,000 people had to leave the area. Lots of radioactivity got into the ocean and came down from the atmosphere."
+    },
+    {
+      "start": 55.182,
+      "end": 65.532,
+      "role": "NARRATOR",
+      "text": "In August, 2023, the Japanese government began to release the radioactive water from the Fukushima plant into the ocean."
+    },
+    {
+      "start": 65.532,
+      "end": 75.642,
+      "role": "NARRATOR",
+      "text": "The water could have a deep impact on sea life and the environment. People living in coastal areas around the world are worried."
+    },
+    {
+      "start": 75.642,
+      "end": 81.624,
+      "role": "NARRATOR",
+      "text": "The radioactive water from the plant is still considered harmful today."
+    },
+    {
+      "start": 81.624,
+      "end": 90.75,
+      "role": "NARRATOR",
+      "text": "The earthquake highlighted an important problem — disasters often cause a chain reaction, leading to more problems."
+    },
+    {
+      "start": 90.75,
+      "end": 97.14,
+      "role": "NARRATOR",
+      "text": "If people do not deal with them properly, it will lead to greater disasters."
+    },
+    {
+      "start": 97.14,
+      "end": 105.21000000000001,
+      "role": "NARRATOR",
+      "text": "It is everyone’s responsibility to take action to reduce disasters or secondary disasters."
+    }
+  ],
+  "total": 105.21000000000001
+}

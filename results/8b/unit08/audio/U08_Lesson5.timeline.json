@@ -1,0 +1,58 @@
+{
+  "key": "U08_Lesson5",
+  "no": "Lesson 5",
+  "title": "Let’s do an escape drill!",
+  "title_zh": "我们来做逃生演练吧！",
+  "kind": "记叙文 · 雅安地震中的七秒撤离与逃生要点",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 15.678,
+      "role": "NARRATOR",
+      "text": "On June 1, 2013, an earthquake hit Ya’an, Sichuan Province. When the building began to shake, a teacher at Fengcun School shouted to his students, “Earthquake! Run!”"
+    },
+    {
+      "start": 15.678,
+      "end": 27.66,
+      "role": "NARRATOR",
+      "text": "He opened the door at the same time. All the students bent down, covered their heads with their hands, and quickly left the building from the front door in order."
+    },
+    {
+      "start": 27.66,
+      "end": 35.058,
+      "role": "NARRATOR",
+      "text": "Amazingly, they all made it safely within just seven seconds, without any injuries."
+    },
+    {
+      "start": 35.058,
+      "end": 41.688,
+      "role": "NARRATOR",
+      "text": "From this incident, we can learn much about how to respond in times of danger."
+    },
+    {
+      "start": 41.688,
+      "end": 51.246,
+      "role": "NARRATOR",
+      "text": "Overcome your fears and act quickly. The moment you feel the disaster coming, you should act without thinking twice."
+    },
+    {
+      "start": 51.246,
+      "end": 64.476,
+      "role": "NARRATOR",
+      "text": "Work with others. Teamwork increases survival chances. In times of disaster, the best survival strategy for people is usually to follow the group."
+    },
+    {
+      "start": 64.476,
+      "end": 76.146,
+      "role": "NARRATOR",
+      "text": "Do escape drills. Disasters can happen at any time. Practice often so you don’t have to stop to think during a real emergency."
+    },
+    {
+      "start": 76.146,
+      "end": 83.112,
+      "role": "NARRATOR",
+      "text": "Remember: survival = calm + will to survive + knowledge of escape"
+    }
+  ],
+  "total": 83.112
+}

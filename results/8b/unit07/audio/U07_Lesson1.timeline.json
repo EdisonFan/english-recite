@@ -1,0 +1,88 @@
+{
+  "key": "U07_Lesson1",
+  "no": "Lesson 1",
+  "title": "Money in history",
+  "title_zh": "货币的历史",
+  "kind": "对话 · 王梅在李琳家听李爷爷讲中国货币的历史",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.854,
+      "role": "NARRATOR",
+      "text": "Wang Mei is at Li Lin’s house. Li Lin’s grandpa takes a box out from his bedroom."
+    },
+    {
+      "start": 7.854,
+      "end": 13.475999999999999,
+      "role": "WANG MEI",
+      "text": "Thank you for inviting me over to see your collection, Grandpa Li!"
+    },
+    {
+      "start": 13.475999999999999,
+      "end": 27.113999999999997,
+      "role": "NARRATOR",
+      "text": "You’re welcome! Let’s start with these stamps. This one shows that ancient Chinese people used shells as a form of money. Think of the Chinese character “贩”."
+    },
+    {
+      "start": 27.113999999999997,
+      "end": 31.679999999999996,
+      "role": "LI LIN",
+      "text": "Oh! It includes a “shell”."
+    },
+    {
+      "start": 31.679999999999996,
+      "end": 41.717999999999996,
+      "role": "NARRATOR",
+      "text": "These stamps represent different types of ancient Chinese currency. Some ancient money was in the shape of a knife or spade."
+    },
+    {
+      "start": 41.717999999999996,
+      "end": 55.62,
+      "role": "NARRATOR",
+      "text": "In 221 BCE, Qinshihuang unified China and introduced round coins with a square hole in the centre. Later on, round coins became the main type of money."
+    },
+    {
+      "start": 55.62,
+      "end": 60.714,
+      "role": "WANG MEI",
+      "text": "That’s cool! They look really old."
+    },
+    {
+      "start": 60.714,
+      "end": 64.27199999999999,
+      "role": "NARRATOR",
+      "text": "They are indeed very old!"
+    },
+    {
+      "start": 64.27199999999999,
+      "end": 67.446,
+      "role": "LI LIN",
+      "text": "What about paper money?"
+    },
+    {
+      "start": 67.446,
+      "end": 77.124,
+      "role": "NARRATOR",
+      "text": "Paper money has a long history in China. It was first used during the Song Dynasty and made trading much easier."
+    },
+    {
+      "start": 77.124,
+      "end": 86.05799999999999,
+      "role": "WANG MEI",
+      "text": "Nowadays, we seldom use paper money! We use credit cards and digital currency more and more."
+    },
+    {
+      "start": 86.05799999999999,
+      "end": 99.6,
+      "role": "NARRATOR",
+      "text": "That’s right! By learning history, we can understand how things change. Visiting a history museum is a great way to learn more about ancient Chinese currency."
+    },
+    {
+      "start": 99.6,
+      "end": 106.11,
+      "role": "WANG MEI",
+      "text": "I agree! Li Lin, let’s plan a museum visit soon."
+    }
+  ],
+  "total": 106.11
+}

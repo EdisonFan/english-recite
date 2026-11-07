@@ -1,0 +1,76 @@
+{
+  "key": "U08_Lesson2",
+  "no": "Lesson 2",
+  "title": "Staying safe in an earthquake",
+  "title_zh": "地震中如何保持安全",
+  "kind": "说明文 · 地震发生时室内外的避险方法",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.462,
+      "role": "NARRATOR",
+      "text": "Earthquakes can occur anytime without warning. So it is important to be prepared and know how to protect yourself."
+    },
+    {
+      "start": 9.462,
+      "end": 16.692,
+      "role": "NARRATOR",
+      "text": "What should you do if one happens? Stay calm as the earth begins to shake."
+    },
+    {
+      "start": 16.692,
+      "end": 28.482,
+      "role": "NARRATOR",
+      "text": "If you are inside when the earthquake starts, get under a table or a bed. You need to have something strong around you to protect you from falling objects."
+    },
+    {
+      "start": 28.482,
+      "end": 39.552,
+      "role": "NARRATOR",
+      "text": "Do not stand near walls or windows. Stay out of the kitchen. Also, never get into a lift during an earthquake."
+    },
+    {
+      "start": 39.552,
+      "end": 48.798,
+      "role": "NARRATOR",
+      "text": "If you are outside, get to an open area as fast as you can. Stay away from buildings and trees."
+    },
+    {
+      "start": 48.798,
+      "end": 56.58,
+      "role": "NARRATOR",
+      "text": "If you are in a vehicle, pull over to a place far from trees or tall buildings and stay in the car."
+    },
+    {
+      "start": 56.58,
+      "end": 62.97,
+      "role": "NARRATOR",
+      "text": "If you are close to the sea, try to get as far away from the water as possible."
+    },
+    {
+      "start": 62.97,
+      "end": 69.072,
+      "role": "NARRATOR",
+      "text": "Earthquakes can cause huge, dangerous waves that appear rapidly."
+    },
+    {
+      "start": 69.072,
+      "end": 79.32600000000001,
+      "role": "NARRATOR",
+      "text": "When the earthquake is over, there is still plenty of danger. If you see a fire, quickly move outdoors to an open area."
+    },
+    {
+      "start": 79.32600000000001,
+      "end": 90.468,
+      "role": "NARRATOR",
+      "text": "Keep an eye out for things that can fall on you. Only make necessary phone calls. Too many calls will bring down the phone system."
+    },
+    {
+      "start": 90.468,
+      "end": 99.95400000000001,
+      "role": "NARRATOR",
+      "text": "Staying calm can improve your chances of survival in an earthquake. It is not easy, but it can save your life."
+    }
+  ],
+  "total": 99.95400000000001
+}

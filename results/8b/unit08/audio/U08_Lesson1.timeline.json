@@ -1,0 +1,58 @@
+{
+  "key": "U08_Lesson1",
+  "no": "Lesson 1",
+  "title": "Disaster safety tips",
+  "title_zh": "灾害安全提示",
+  "kind": "对话 · Mr Green 与同学们讨论自然灾害中的安全做法",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 8.693999999999999,
+      "role": "NARRATOR",
+      "text": "Class, what do you know about natural disasters like earthquakes, typhoons, floods, and wildfires?"
+    },
+    {
+      "start": 8.693999999999999,
+      "end": 12.707999999999998,
+      "role": "JENNY",
+      "text": "They are very powerful and dangerous."
+    },
+    {
+      "start": 12.707999999999998,
+      "end": 20.081999999999997,
+      "role": "NARRATOR",
+      "text": "That’s right. When it comes to earthquakes, what should people do to stay safe?"
+    },
+    {
+      "start": 20.081999999999997,
+      "end": 28.464,
+      "role": "BRIAN",
+      "text": "If an earthquake happens, we should stay calm and quickly find shelter to protect ourselves from falling objects."
+    },
+    {
+      "start": 28.464,
+      "end": 36.366,
+      "role": "NARRATOR",
+      "text": "Great advice! And what about typhoons? How can we prepare for them?"
+    },
+    {
+      "start": 36.366,
+      "end": 47.844,
+      "role": "NARRATOR",
+      "text": "For typhoons, we should stay indoors, away from windows and from any dangerous objects outside. We should shut all windows and doors."
+    },
+    {
+      "start": 47.844,
+      "end": 56.994,
+      "role": "NARRATOR",
+      "text": "Good points. Now, let’s talk about floods. What actions should we take during a flood?"
+    },
+    {
+      "start": 56.994,
+      "end": 66.768,
+      "role": "NARRATOR",
+      "text": "We should go to higher ground. Never try to walk or drive through flood waters. They can be dangerous."
+    }
+  ],
+  "total": 66.768
+}

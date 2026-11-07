@@ -1,0 +1,76 @@
+{
+  "key": "U06_Lesson1",
+  "no": "Lesson 1",
+  "title": "Exploring literature",
+  "title_zh": "探索文学",
+  "kind": "对话 · Li Ming 与 Jenny 线上聊文学体裁和读过的作品",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 4.086,
+      "role": "NARRATOR",
+      "text": "Li Ming and Jenny are chatting online."
+    },
+    {
+      "start": 4.086,
+      "end": 16.572000000000003,
+      "role": "JENNY",
+      "text": "Hey, Li Ming. We’re learning about different types of literature in our English class this week. So far, we have read fables and fairy tales."
+    },
+    {
+      "start": 16.572000000000003,
+      "end": 24.618000000000002,
+      "role": "LI MING",
+      "text": "Oh, fables! I really enjoy them. They’re short but meaningful."
+    },
+    {
+      "start": 24.618000000000002,
+      "end": 36.072,
+      "role": "JENNY",
+      "text": "Exactly. I think fables are rich in morals. One of my favourites is The Fox and the Grapes. Have you heard of it?"
+    },
+    {
+      "start": 36.072,
+      "end": 51.006,
+      "role": "LI MING",
+      "text": "Yes! It’s a good one. I also like science fiction. Have you ever read the novel Twenty Thousand Leagues Under the Sea? I’m just a quarter of the way into it."
+    },
+    {
+      "start": 51.006,
+      "end": 65.05199999999999,
+      "role": "JENNY",
+      "text": "Yes, I love it. Jules G. Verne takes us on an exciting underwater adventure full of discoveries. Yesterday, I just finished reading The Gift of the Magi by O. Henry."
+    },
+    {
+      "start": 65.05199999999999,
+      "end": 76.434,
+      "role": "LI MING",
+      "text": "Ah, I am familiar with that short story too. In my Chinese class, we’re reading ancient Chinese poems by great poets like Li Bai and Du Fu."
+    },
+    {
+      "start": 76.434,
+      "end": 80.52,
+      "role": "LI MING",
+      "text": "They wrote hundreds of amazing poems."
+    },
+    {
+      "start": 80.52,
+      "end": 91.374,
+      "role": "JENNY",
+      "text": "That sounds fascinating! I remember Brian is interested in writing poems. Perhaps you could discuss poetry with him one day."
+    },
+    {
+      "start": 91.374,
+      "end": 98.38799999999999,
+      "role": "LI MING",
+      "text": "Really? I hope he enjoys Chinese poems and finds inspiration in them."
+    },
+    {
+      "start": 98.38799999999999,
+      "end": 110.77799999999999,
+      "role": "JENNY",
+      "text": "I bet he does! Literature has so much to offer, and it can open new worlds for us. Let’s continue learning and exploring its wonders together!"
+    }
+  ],
+  "total": 110.77799999999999
+}

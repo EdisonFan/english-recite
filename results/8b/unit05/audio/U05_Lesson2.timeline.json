@@ -1,0 +1,70 @@
+{
+  "key": "U05_Lesson2",
+  "no": "Lesson 2",
+  "title": "Ways of travelling",
+  "title_zh": "出行方式",
+  "kind": "说明文 · 从轮子到宇宙飞船，人类交通方式的演变",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 12.27,
+      "role": "NARRATOR",
+      "text": "Long ago, people did not travel far from home. In fact, in the early days, a person might live their whole life in one village and never travel far."
+    },
+    {
+      "start": 12.27,
+      "end": 25.811999999999998,
+      "role": "NARRATOR",
+      "text": "The first important invention in travel was the wheel. And then came the wagons. Humans began to have the power to move and carry things across long distances."
+    },
+    {
+      "start": 25.811999999999998,
+      "end": 36.33,
+      "role": "NARRATOR",
+      "text": "The next was the train. After the train came the invention of cars, buses, trucks, and other means of transportation."
+    },
+    {
+      "start": 36.33,
+      "end": 41.784,
+      "role": "NARRATOR",
+      "text": "Humans and goods were able to travel farther than ever before."
+    },
+    {
+      "start": 41.784,
+      "end": 51.989999999999995,
+      "role": "NARRATOR",
+      "text": "Boats and ships provided another important way of travelling. The invention of the compass helped people explore more places."
+    },
+    {
+      "start": 51.989999999999995,
+      "end": 57.876,
+      "role": "NARRATOR",
+      "text": "And canal systems made fast waterway transportation possible."
+    },
+    {
+      "start": 57.876,
+      "end": 67.098,
+      "role": "NARRATOR",
+      "text": "Modern means of transportation, such as high-speed trains and airplanes, help people travel faster and farther."
+    },
+    {
+      "start": 67.098,
+      "end": 80.448,
+      "role": "NARRATOR",
+      "text": "Eco-friendly electric cars are common and self-driving cars are in development. People can even travel to space in spaceships. Who knows what the future holds?"
+    },
+    {
+      "start": 80.448,
+      "end": 91.20599999999999,
+      "role": "NARRATOR",
+      "text": "The development of transportation has made people’s travel much easier and faster. Every invention is a symbol of human creativity."
+    },
+    {
+      "start": 91.20599999999999,
+      "end": 97.23599999999999,
+      "role": "NARRATOR",
+      "text": "Let’s enjoy these developments and work for more great things in the future."
+    }
+  ],
+  "total": 97.23599999999999
+}

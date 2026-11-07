@@ -1,0 +1,70 @@
+{
+  "key": "U06_CX",
+  "no": "Unit cultures",
+  "title": "Return the jade intact to Zhao",
+  "title_zh": "完璧归赵",
+  "kind": "历史故事 · 蔺相如使秦，护送和氏璧平安归赵",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 7.902,
+      "role": "NARRATOR",
+      "text": "During the Warring States Period, the King of Zhao got an invaluable piece of jade, He Shi Bi."
+    },
+    {
+      "start": 7.902,
+      "end": 19.692,
+      "role": "NARRATOR",
+      "text": "When the King of Qin heard of this, he offered Zhao fifteen cities for the smooth, bright jade. The King of Zhao feared he might get nothing in return."
+    },
+    {
+      "start": 19.692,
+      "end": 29.97,
+      "role": "NARRATOR",
+      "text": "Yet if he refused, Qin might attack Zhao. Lin Xiangru, who was brave and intelligent, was sent to Qin with the jade."
+    },
+    {
+      "start": 29.97,
+      "end": 41.832,
+      "role": "NARRATOR",
+      "text": "The King of Qin was pleased when he saw the jade, but he did not mention the cities at all. Lin said, “Your Majesty, there is a tiny flaw on the jade."
+    },
+    {
+      "start": 41.832,
+      "end": 48.006,
+      "role": "NARRATOR",
+      "text": "Could I show it to you?” The king handed the jade back to Lin."
+    },
+    {
+      "start": 48.006,
+      "end": 59.556,
+      "role": "NARRATOR",
+      "text": "As soon as Lin got the jade, he stepped back to the pillars in the palace, shouting, “You have no intention of giving us those cities, so I’ve taken back the jade."
+    },
+    {
+      "start": 59.556,
+      "end": 66.09,
+      "role": "NARRATOR",
+      "text": "If you use force against me, I’ll smash my head and the jade against this pillar.”"
+    },
+    {
+      "start": 66.09,
+      "end": 76.968,
+      "role": "NARRATOR",
+      "text": "To save the jade, the King of Qin apologized, and then showed Lin the cities on the map. But Lin did not believe he would turn them over."
+    },
+    {
+      "start": 76.968,
+      "end": 86.382,
+      "role": "NARRATOR",
+      "text": "He ordered one of his men to secretly take the jade back to Zhao. He himself would stay to face the King of Qin."
+    },
+    {
+      "start": 86.382,
+      "end": 97.452,
+      "role": "NARRATOR",
+      "text": "Although the King of Qin was furious, he had no better choice but to set Lin free. Lin Xiangru and the jade returned to Zhao safely."
+    }
+  ],
+  "total": 97.452
+}

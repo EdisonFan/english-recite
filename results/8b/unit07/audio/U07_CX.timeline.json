@@ -1,0 +1,88 @@
+{
+  "key": "U07_CX",
+  "no": "Unit cultures",
+  "title": "Money: A fair medium of exchange",
+  "title_zh": "货币：公平的交换媒介",
+  "kind": "说明文 · 从以物易物到纸币的货币演变",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 14.886,
+      "role": "NARRATOR",
+      "text": "From ancient times when a cow could be traded for a horse, to the 21st century when that same horse might easily be bought with a bank card, humans have always needed a way to buy and sell things at an agreed price."
+    },
+    {
+      "start": 14.886,
+      "end": 24.06,
+      "role": "NARRATOR",
+      "text": "A system, like trading a cow for a horse, is called a barter system. It worked well for a long time."
+    },
+    {
+      "start": 24.06,
+      "end": 37.361999999999995,
+      "role": "NARRATOR",
+      "text": "However, things became more complicated as the population rose. The daily life in such a world required a standard unit to measure the value of one thing against another."
+    },
+    {
+      "start": 37.361999999999995,
+      "end": 44.184,
+      "role": "NARRATOR",
+      "text": "The era of money soon followed. And it has been with us ever since."
+    },
+    {
+      "start": 44.184,
+      "end": 56.693999999999996,
+      "role": "NARRATOR",
+      "text": "Chinese people were the first to move from the bartering era to the money era. They began to trade shells for the products they wanted as early as 3,000 years ago."
+    },
+    {
+      "start": 56.693999999999996,
+      "end": 64.13999999999999,
+      "role": "NARRATOR",
+      "text": "Hundreds of years later, the Chinese began to use copper and bronze to replace the shells."
+    },
+    {
+      "start": 64.14,
+      "end": 72.45,
+      "role": "NARRATOR",
+      "text": "According to research, the world’s first paper money, jiaozi, appeared in Chengdu in 1023."
+    },
+    {
+      "start": 72.45,
+      "end": 80.424,
+      "role": "NARRATOR",
+      "text": "In ancient Europe, around the 6th or 5th century BCE, money coins came into use."
+    },
+    {
+      "start": 80.424,
+      "end": 88.11000000000001,
+      "role": "NARRATOR",
+      "text": "Unlike the Chinese, Europeans used precious metals such as gold and silver for their coins."
+    },
+    {
+      "start": 88.11000000000001,
+      "end": 98.29200000000002,
+      "role": "NARRATOR",
+      "text": "Around the 17th century, paper money started to become more popular in Europe, because it was much easier to carry around and store."
+    },
+    {
+      "start": 98.29200000000002,
+      "end": 106.38600000000001,
+      "role": "NARRATOR",
+      "text": "This system worked until the early 19th century when the Bank of England introduced “gold-backed” paper money."
+    },
+    {
+      "start": 106.38600000000002,
+      "end": 114.33600000000003,
+      "role": "NARRATOR",
+      "text": "If someone had this paper money, they could exchange it for a certain amount of gold or silver in the bank."
+    },
+    {
+      "start": 114.33600000000003,
+      "end": 121.42200000000003,
+      "role": "NARRATOR",
+      "text": "This made people feel more secure because the paper money was connected to something valuable."
+    }
+  ],
+  "total": 121.42200000000003
+}

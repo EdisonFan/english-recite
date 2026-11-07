@@ -1,0 +1,82 @@
+{
+  "key": "U06_Lesson3",
+  "no": "Lesson 3",
+  "title": "The Giant",
+  "title_zh": "巨人",
+  "kind": "童话 · 巨人筑墙赶走孩子，花园里春天迟迟不来",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 13.35,
+      "role": "NARRATOR",
+      "text": "Once upon a time, there was a big, beautiful garden in front of a large, empty house. Its grass was soft and green. Its trees were filled with singing birds."
+    },
+    {
+      "start": 13.35,
+      "end": 26.052,
+      "role": "NARRATOR",
+      "text": "Every afternoon after school, children would play in the garden. They ran in the grass and climbed the trees. They loved to listen to the singing of the birds."
+    },
+    {
+      "start": 26.052,
+      "end": 29.994,
+      "role": "NARRATOR",
+      "text": "They felt that they were in a wonderland."
+    },
+    {
+      "start": 29.994,
+      "end": 44.04,
+      "role": "NARRATOR",
+      "text": "One day, the children were playing in the garden when a giant appeared. “What are you doing here?” The giant got mad and yelled in a deep voice. “This is my garden!"
+    },
+    {
+      "start": 44.04,
+      "end": 50.742,
+      "role": "NARRATOR",
+      "text": "You must leave immediately!” The children were frightened and ran away."
+    },
+    {
+      "start": 50.742,
+      "end": 61.98,
+      "role": "NARRATOR",
+      "text": "The next day, the giant built a high wall around his garden and put up a notice: DO NOT ENTER! The poor children dared not come again."
+    },
+    {
+      "start": 61.98,
+      "end": 66.594,
+      "role": "NARRATOR",
+      "text": "The giant was always in his house, watching."
+    },
+    {
+      "start": 66.594,
+      "end": 78.288,
+      "role": "NARRATOR",
+      "text": "Summer turned to fall and fall turned to winter. When spring came, the giant noticed that flowers blossomed and birds began to sing across the land."
+    },
+    {
+      "start": 78.288,
+      "end": 87.89399999999999,
+      "role": "NARRATOR",
+      "text": "But in his garden, it was still winter. The green grass was covered with snow and the cold winds kept the birds away."
+    },
+    {
+      "start": 87.89399999999999,
+      "end": 99.972,
+      "role": "NARRATOR",
+      "text": "“I don’t understand why spring is so late coming to my garden this year,” said the giant. He felt sad when he looked through the window at his frozen, white garden."
+    },
+    {
+      "start": 99.972,
+      "end": 112.002,
+      "role": "NARRATOR",
+      "text": "One morning when the giant was lying awake in his bed, he heard lovely music coming through the window. He thought it must be the king’s musicians passing by."
+    },
+    {
+      "start": 112.002,
+      "end": 119.03999999999999,
+      "role": "NARRATOR",
+      "text": "“Perhaps spring has come at last,” he said when he jumped out of bed and looked outside."
+    }
+  ],
+  "total": 119.03999999999999
+}

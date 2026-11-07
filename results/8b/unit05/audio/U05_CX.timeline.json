@@ -1,0 +1,64 @@
+{
+  "key": "U05_CX",
+  "no": "Unit cultures",
+  "title": "Great inventions of ancient China",
+  "title_zh": "中国古代的伟大发明",
+  "kind": "说明文 · 中国古代的算盘、豆腐、制茶与瓷器",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 9.342,
+      "role": "NARRATOR",
+      "text": "We all know the most significant inventions of ancient China — paper-making, printing, gunpowder, and compasses."
+    },
+    {
+      "start": 9.342,
+      "end": 15.972000000000001,
+      "role": "NARRATOR",
+      "text": "However, Chinese people also made many other fascinating inventions."
+    },
+    {
+      "start": 15.972000000000001,
+      "end": 29.73,
+      "role": "NARRATOR",
+      "text": "Have you used the abacus? It was invented in China over 2,500 years ago. It became the primary tool used by merchants and bankers to calculate."
+    },
+    {
+      "start": 29.73,
+      "end": 43.775999999999996,
+      "role": "NARRATOR",
+      "text": "Tofu originated in China. It is a good source of protein. Tofu is rich in minerals that are important for building strong bones and reducing the risk of some diseases."
+    },
+    {
+      "start": 43.775999999999996,
+      "end": 51.846,
+      "role": "NARRATOR",
+      "text": "It has been an important part of Chinese cuisine for over 2,000 years and is now enjoyed worldwide."
+    },
+    {
+      "start": 51.846,
+      "end": 56.315999999999995,
+      "role": "NARRATOR",
+      "text": "Tea making is another invention from China."
+    },
+    {
+      "start": 56.315999999999995,
+      "end": 66.402,
+      "role": "NARRATOR",
+      "text": "It is said that Shennong, an ancient Chinese emperor, discovered tea when a tea leaf accidentally fell into a pot of boiling water."
+    },
+    {
+      "start": 66.402,
+      "end": 71.136,
+      "role": "NARRATOR",
+      "text": "Today, tea is popular all over the world."
+    },
+    {
+      "start": 71.136,
+      "end": 82.902,
+      "role": "NARRATOR",
+      "text": "The origins of porcelain can be traced back to the Han Dynasty in China. Porcelain quickly spread throughout China and reached other parts of the world."
+    }
+  ],
+  "total": 82.902
+}

@@ -1,0 +1,82 @@
+{
+  "key": "U05_Lesson4",
+  "no": "Lesson 4",
+  "title": "Thank you, Mr Pasteur!",
+  "title_zh": "谢谢你，巴斯德先生！",
+  "kind": "对话 · 杰瑞米和妈妈聊牛奶的巴氏杀菌与巴斯德",
+  "timeline": [
+    {
+      "start": 0.0,
+      "end": 6.534,
+      "role": "NARRATOR",
+      "text": "While pouring a glass of milk, Jeremy notices something written on the package."
+    },
+    {
+      "start": 6.534,
+      "end": 16.74,
+      "role": "NARRATOR",
+      "text": "Hey, Mum! I just noticed a big word on the carton. PASTEURIZED. What does it mean?"
+    },
+    {
+      "start": 16.74,
+      "end": 25.145999999999997,
+      "role": "NARRATOR",
+      "text": "Well, if something is pasteurized, it means that it has gone through a process of heating to a certain temperature."
+    },
+    {
+      "start": 25.145999999999997,
+      "end": 28.272,
+      "role": "NARRATOR",
+      "text": "Why do we heat milk?"
+    },
+    {
+      "start": 28.272,
+      "end": 39.054,
+      "role": "NARRATOR",
+      "text": "Raw milk has dangerous bacteria and germs. We must heat milk to 72 degrees Celsius for 15 seconds to kill them."
+    },
+    {
+      "start": 39.054,
+      "end": 42.660000000000004,
+      "role": "NARRATOR",
+      "text": "How did people discover that?"
+    },
+    {
+      "start": 42.660000000000004,
+      "end": 52.626000000000005,
+      "role": "NARRATOR",
+      "text": "Many years ago, people sometimes got sick when they drank milk. Some of them even died because of the bad bacteria."
+    },
+    {
+      "start": 52.626000000000005,
+      "end": 61.32000000000001,
+      "role": "NARRATOR",
+      "text": "Wow! Who discovered this heating process? A dairy farmer or a scientist?"
+    },
+    {
+      "start": 61.32000000000001,
+      "end": 70.78200000000001,
+      "role": "NARRATOR",
+      "text": "It was Louis Pasteur, a French microbiologist. He discovered the process around 1864."
+    },
+    {
+      "start": 70.78200000000001,
+      "end": 74.14800000000001,
+      "role": "NARRATOR",
+      "text": "That’s a long time ago!"
+    },
+    {
+      "start": 74.14800000000001,
+      "end": 86.20200000000001,
+      "role": "NARRATOR",
+      "text": "Mr Pasteur was one of the greatest scientists. His work saved millions of lives around the world. He was famous for his work on germs."
+    },
+    {
+      "start": 86.20200000000001,
+      "end": 94.12800000000001,
+      "role": "NARRATOR",
+      "text": "Well, here’s a toast to you, Mr Pasteur. Thank you for making the world much safer."
+    }
+  ],
+  "total": 94.12800000000001
+}
