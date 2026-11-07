@@ -2,55 +2,87 @@
   "book": "冀教版英语·八年级下册（2026春版）",
   "stage": "课文整理（阶段②，按轮验收）",
   "updated_by": "主流程",
-  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。",
+  "note": "本文件仅主流程更新；其他 AI 只读。状态：pending / claimed / submitted / accepted / rejected。主流程在每轮接手时扫描新提交并更新状态。本轮：8 个单元全部交回，验收 7 通过 / 1 退回。",
   "units": {
     "unit01": {
-      "status": "pending",
+      "status": "accepted",
       "input": "pages/8b/unit01.txt",
       "output": "results/8b/unit01/",
-      "note": ""
+      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 98%、词覆盖 0.998、译文 139/139 对齐、无练习题残留。可进入语音合成。",
+      "clauses": 139,
+      "translation_items": 139,
+      "pdf_hit": 0.98,
+      "word_cover": 0.998
     },
     "unit02": {
       "status": "accepted",
       "input": "pages/8b/unit02.txt",
       "output": "results/8b/unit02/",
-      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 89–100%、词覆盖 1.00、译文 147/147 对齐、无练习题残留。可进入语音合成。"
+      "note": "闸门全过（复核确认）：6 课 canonical 逐字一致、PDF 逐句 92.6%、词覆盖 0.998、译文 147/147 对齐。可进入语音合成。",
+      "clauses": 147,
+      "translation_items": 147,
+      "pdf_hit": 0.926,
+      "word_cover": 0.998
     },
     "unit03": {
-      "status": "rejected",
+      "status": "accepted",
       "input": "pages/8b/unit03.txt",
       "output": "results/8b/unit03/",
-      "note": "课文数据与教材基准全过；仅译文 items 第 3 条把两个子句合并，导致 110/111 且后续 108 处错位。详见 REJECT.md，改完重交 3 个 JSON。"
+      "note": "已修复并通过复核：旧 REJECT.md 所述译文错位已改正，现 111/111 条、en 逐条对齐、no 连续；课文数据与教材基准本就全过。REJECT.md 已撤销。可进入语音合成。",
+      "clauses": 111,
+      "translation_items": 111,
+      "pdf_hit": 0.901,
+      "word_cover": 0.998
     },
     "unit04": {
-      "status": "pending",
+      "status": "accepted",
       "input": "pages/8b/unit04.txt",
       "output": "results/8b/unit04/",
-      "note": ""
+      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 94.1%、词覆盖 0.998、译文 118/118 对齐。可进入语音合成。",
+      "clauses": 118,
+      "translation_items": 118,
+      "pdf_hit": 0.941,
+      "word_cover": 0.998
     },
     "unit05": {
-      "status": "pending",
+      "status": "accepted",
       "input": "pages/8b/unit05.txt",
       "output": "results/8b/unit05/",
-      "note": ""
+      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 96.8%、词覆盖 0.999、译文 103/103 对齐。可进入语音合成。",
+      "clauses": 103,
+      "translation_items": 103,
+      "pdf_hit": 0.968,
+      "word_cover": 0.999
     },
     "unit06": {
-      "status": "pending",
+      "status": "rejected",
       "input": "pages/8b/unit06.txt",
       "output": "results/8b/unit06/",
-      "note": ""
+      "note": "仅译文字句切分口径不符，其余全过（canonical 一致、PDF 逐句 92.1%、词覆盖 0.999、无练习题残留——初检「listen to」系主流程正则误报，已撤销）。译文 146 条，按当前渲染器正则应为 144 条，详见 REJECT.md。改完重交 3 个 JSON。",
+      "clauses": 144,
+      "translation_items": 146,
+      "pdf_hit": 0.921,
+      "word_cover": 0.999
     },
     "unit07": {
-      "status": "pending",
+      "status": "rejected",
       "input": "pages/8b/unit07.txt",
       "output": "results/8b/unit07/",
-      "note": ""
+      "note": "闸门通过（两处告警复核后放行）：第 1 课含教材原字「贩」（讲汉字字形，同八上「鱼(fish)」），入库时登记 allow_cjk 白名单豁免，非中文混入；第 6 课 215 字符长句只有一个句末句号、无法再切，竖版折行 ≤12 行符合闸门，判为提醒不阻断。译文 122/122 对齐。可进入语音合成。",
+      "clauses": 122,
+      "translation_items": 122,
+      "pdf_hit": 0.919,
+      "word_cover": 0.997
     },
     "unit08": {
-      "status": "pending",
+      "status": "accepted",
       "input": "pages/8b/unit08.txt",
       "output": "results/8b/unit08/",
-      "note": ""
+      "note": "闸门全过：6 课 canonical 逐字一致、PDF 逐句 94.9%、词覆盖 0.999、译文 99/99 对齐。可进入语音合成。",
+      "clauses": 99,
+      "translation_items": 99,
+      "pdf_hit": 0.949,
+      "word_cover": 0.999
     }
   }
 }
