@@ -1,0 +1,412 @@
+{
+  "lessons": [
+    {
+      "key": "U08_Lesson1",
+      "no": "Lesson 1",
+      "title": "Disaster safety tips",
+      "title_zh": "灾害安全提示",
+      "kind": "对话 · Mr Green 与同学们讨论自然灾害中的安全做法",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Class, what do you know about natural disasters like earthquakes, typhoons, floods, and wildfires?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "They are very powerful and dangerous.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "That’s right. When it comes to earthquakes, what should people do to stay safe?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "BRIAN",
+          "text": "If an earthquake happens, we should stay calm and quickly find shelter to protect ourselves from falling objects.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Great advice! And what about typhoons? How can we prepare for them?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "For typhoons, we should stay indoors, away from windows and from any dangerous objects outside. We should shut all windows and doors.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Good points. Now, let’s talk about floods. What actions should we take during a flood?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "We should go to higher ground. Never try to walk or drive through flood waters. They can be dangerous.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U08_Lesson2",
+      "no": "Lesson 2",
+      "title": "Staying safe in an earthquake",
+      "title_zh": "地震中如何保持安全",
+      "kind": "说明文 · 地震发生时室内外的避险方法",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Earthquakes can occur anytime without warning. So it is important to be prepared and know how to protect yourself.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "What should you do if one happens? Stay calm as the earth begins to shake.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you are inside when the earthquake starts, get under a table or a bed. You need to have something strong around you to protect you from falling objects.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Do not stand near walls or windows. Stay out of the kitchen. Also, never get into a lift during an earthquake.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you are outside, get to an open area as fast as you can. Stay away from buildings and trees.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you are in a vehicle, pull over to a place far from trees or tall buildings and stay in the car.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you are close to the sea, try to get as far away from the water as possible.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Earthquakes can cause huge, dangerous waves that appear rapidly.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When the earthquake is over, there is still plenty of danger. If you see a fire, quickly move outdoors to an open area.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Keep an eye out for things that can fall on you. Only make necessary phone calls. Too many calls will bring down the phone system.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Staying calm can improve your chances of survival in an earthquake. It is not easy, but it can save your life.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U08_Lesson3",
+      "no": "Lesson 3",
+      "title": "Secondary disasters",
+      "title_zh": "次生灾害",
+      "kind": "说明文 · 以日本福岛地震为例说明次生灾害",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Disasters are terrible. Sometimes, secondary disasters are even more dangerous because they create more damages.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Secondary disasters include landslides, fires, floods, and so on. Here is a serious example.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "On March 11, 2011, the largest earthquake ever recorded in Japan caused great destruction. Tsunami waves hit the coastal area less than half an hour later.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They also destroyed the Fukushima Daiichi nuclear power plant. In the following days, explosions rocked the plant.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "More than 150,000 people had to leave the area. Lots of radioactivity got into the ocean and came down from the atmosphere.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In August, 2023, the Japanese government began to release the radioactive water from the Fukushima plant into the ocean.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The water could have a deep impact on sea life and the environment. People living in coastal areas around the world are worried.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The radioactive water from the plant is still considered harmful today.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The earthquake highlighted an important problem — disasters often cause a chain reaction, leading to more problems.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If people do not deal with them properly, it will lead to greater disasters.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It is everyone’s responsibility to take action to reduce disasters or secondary disasters.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U08_Lesson4",
+      "no": "Lesson 4",
+      "title": "Natural disasters are dangerous!",
+      "title_zh": "自然灾害很危险！",
+      "kind": "说明文 · 台风、野火与洪水的危害",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Typhoons are strong storms with powerful winds. They usually occur in the Western North Pacific.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Typhoons form when warm water from the ocean meets special wind patterns. Typhoons can bring heavy rain and help cool down hot summers.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "However, they can be very dangerous and cause a lot of damage. During a typhoon, wind speeds can reach up to 252 kilometres per hour or even higher.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This can lead to trees falling, buildings getting damaged, and some areas flooding.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Wildfires are big, out-of-control fires. They happen in natural places like forests and grasslands.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They can badly hurt animals, plants, and the environment. They are also dangerous to people living nearby.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In 2023, Canada experienced many big forest fires, affecting an area of over 60,000 square kilometres.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Floods are huge amounts of water covering an area. They happen when there’s too much rain or when rivers overflow.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Floods can hurt a lot of people and destroy farms, buildings, and roads.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In China, one of the biggest floods was the 1998 Changjiang River flood. The PLA troops fought against this terrible flood and protected millions of people from drowning.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They successfully kept major cities like Wuhan safe.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U08_Lesson5",
+      "no": "Lesson 5",
+      "title": "Let’s do an escape drill!",
+      "title_zh": "我们来做逃生演练吧！",
+      "kind": "记叙文 · 雅安地震中的七秒撤离与逃生要点",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "On June 1, 2013, an earthquake hit Ya’an, Sichuan Province. When the building began to shake, a teacher at Fengcun School shouted to his students, “Earthquake! Run!”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He opened the door at the same time. All the students bent down, covered their heads with their hands, and quickly left the building from the front door in order.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Amazingly, they all made it safely within just seven seconds, without any injuries.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "From this incident, we can learn much about how to respond in times of danger.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Overcome your fears and act quickly. The moment you feel the disaster coming, you should act without thinking twice.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Work with others. Teamwork increases survival chances. In times of disaster, the best survival strategy for people is usually to follow the group.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Do escape drills. Disasters can happen at any time. Practice often so you don’t have to stop to think during a real emergency.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Remember: survival = calm + will to survive + knowledge of escape",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U08_CX",
+      "no": "Unit cultures",
+      "title": "Measures to prevent floods",
+      "title_zh": "防洪措施",
+      "kind": "说明文 · 中国三峡大坝与英国泰晤士河防洪闸",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Floods are common natural disasters. They can cause serious damage to homes and crops, and pose a threat to human lives.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Many countries take all kinds of measures to prevent floods based on their specific conditions.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The Three Gorges Dam plays a crucial role in preventing floods in China.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This dam is located on the Changjiang River and helps control the flow of water during heavy rains.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The dam acts as a barrier to hold back excess water and releases it slowly and safely.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This makes sure that the areas nearby are protected from the floods.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "By controlling the water levels, the dam keeps people safe.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The Thames Barrier is an important flood defense system in the UK.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It is located on the River Thames with huge gates that can be raised during high tides to protect London from flooding.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The barrier has successfully prevented many floods since its completion in 1982, safeguarding the city and its people.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "lessons": [
+    {
+      "key": "U04_Lesson1",
+      "no": "Lesson 1",
+      "title": "Signs in public places",
+      "title_zh": "公共场所的标识",
+      "kind": "对话 · Brian、Danny、Jenny 讨论公共场所的各种标识",
+      "lines": [
+        {
+          "role": "BRIAN",
+          "text": "Hey look, there’s a sign on the wall. It says, “No cameras or mobile phones!”",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "DANNY",
+          "text": "Why do they have this sign at the entrance of the cinema?",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "Well, I think it’s likely to prevent people from taking pictures or recording the movies.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Ah, that makes sense. It’s important to respect the copyright laws that protect the movie industry. That’s also why you can’t download certain movies online!",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "Have you noticed any other signs in public places?",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Yes, I remember seeing a sign in the library. It said, “Silence is golden.”",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "BRIAN",
+          "text": "I’ve seen that one too. It reminds us to be quiet and considerate of others.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "DANNY",
+          "text": "And what about in parks? Have you seen any signs?",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "Yes, I saw a sign at a national park that said, “Leave nothing but footprints.”",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "BRIAN",
+          "text": "It encourages people to keep the park clean and not to leave any rubbish behind.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "Signs in public places play an important role in promoting social rules and working for the common good.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Agreed. Let’s always follow the rules and be good citizens. Now, let’s go enjoy the movie!",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        }
+      ]
+    },
+    {
+      "key": "U04_Lesson2",
+      "no": "Lesson 2",
+      "title": "Traffic laws help!",
+      "title_zh": "交通法规有用！",
+      "kind": "说明文 · 司机、行人与骑车人应当遵守的交通规则",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Traffic laws are used to regulate the behaviour of drivers, pedestrians, and cyclists. Here are some key points about traffic laws.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Drivers must follow traffic laws on the street. As a driver, you must therefore pay attention to traffic lights and other signals on the road.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When you are planning to change lanes or make a turn, use your car’s turn signals. Every driver and passenger in the car should wear a seat belt.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It can protect you and others in case of sudden stops or accidents.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "As pedestrians, you should walk on the zebra crossings when crossing the street. You are only allowed to go when there is a green light and you must stop at red lights.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When you’re crossing the road, don’t check your phone.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When you are cycling on the road, keep to the right or left according to traffic laws. Always wear a helmet when you ride an e-bike.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you fall or get hit, the helmet will protect your head. When making a turn or a stop, use suitable hand signals to let others know what you are going to do.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "These laws can help keep us safe and prevent accidents.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U04_Lesson3",
+      "no": "Lesson 3",
+      "title": "Spoken and unspoken rules",
+      "title_zh": "成文与不成文的规则",
+      "kind": "说明文 · 口头规则与不成文规则的区别",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Spoken rules are said or written somewhere. You might find spoken rules in school, public buildings, at home, or on the road.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Think of school rules. Are you allowed to run around and yell in the hallways? Are you allowed to insult others and cheat on tests? No!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Think of rules in a public place, like a library or a park. Can you talk loudly in a library? Can you climb on a park statue? No!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "At home, your parents might have clear rules like “no throwing basketballs in the house”.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "And on the road, you are required to follow traffic rules. That can keep yourself and others safe.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Unspoken rules are mostly to do with respecting others. This type of rule is different between countries and cultures!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You should recognise and follow the rules in your own country.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When you plan to visit another country, you should find out the differences to avoid being disrespectful.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "For example, in some western countries, people don’t stand too close during a conversation. But, in many other countries, closeness is considered normal.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In some places, keeping more distance is seen as rude. All these ways are acceptable. It depends on where in the world you are!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U04_Lesson4",
+      "no": "Lesson 4",
+      "title": "Personal boundaries",
+      "title_zh": "个人边界",
+      "kind": "对话 · Danny 拉 Jenny 的头发，Mr Dino 讲解个人边界",
+      "lines": [
+        {
+          "role": "JENNY",
+          "text": "“Stop it!” says Jenny, stepping away from Danny. “I have asked you to stop pulling my hair three times already!”",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "“I’m just playing,” laughs Danny.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Just then, Mr Dino walks over. He asks Jenny if everything is okay. Jenny shakes her head and looks away, hiding her hair under her hood.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“Danny, your friend is setting a boundary. You need to respect it!” warns Mr Dino.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "“A what?” says Danny.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“A boundary,” says Mr Dino. He goes on to explain, “A boundary is a rule we set for ourselves. It helps us feel safe and respected.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Do you remember when Uncle Dino wanted to give you a hug, but you didn’t want one? You told him, ‘Not this time.’",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You set a personal boundary. Jenny is doing the same thing.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mr Dino adds, “Listening to others’ boundaries shows respect and makes them feel they can trust you.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Boundaries teach you to notice when someone might be dangerous.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Danny nods and says, “I get it.”",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "DANNY",
+          "text": "Then, he turns to Jenny, “I was not paying attention to your feelings. I am so sorry for what I did!”",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "“That’s okay, Danny,” smiles Jenny. “Just keep working on it!”",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U04_Lesson5",
+      "no": "Lesson 5",
+      "title": "Public rules",
+      "title_zh": "公共规则",
+      "kind": "说明文 · 插队、传谣、乱扔垃圾三种违反公共规则的行为",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Following public rules and regulations is an important part of living in a society. What happens when people don’t follow public rules? Here are some cases.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Case 1: Cutting in line",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Cutting in line is often considered an annoying behaviour that creates a sense of impatience. It breaks social fairness and is rude.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It can lead to arguments and even fights.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Case 2: Spreading rumours",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Have you ever met someone who spreads rumours? Whether in person or on the internet, spreading false or negative information is disrespectful to others or even illegal.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This behaviour can damage other’s reputation. We should never spread rumours without finding out the truth. It only causes trouble.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Case 3: Littering",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Littering is a very bad behaviour. When people litter, not only the environment but also the health and safety of others are affected.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It is everyone’s responsibility to protect the planet. Don’t be the one to make a mess!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Following public rules protects the people and the world around us. It’s important for us to understand and keep the rules of our society.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U04_CX",
+      "no": "Unit cultures",
+      "title": "Funny international laws",
+      "title_zh": "有趣的国际法规",
+      "kind": "说明文 · 意大利、哈萨克斯坦、旧金山和法国的奇特法规",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "You may want to remember these strange laws next time you’re travelling to avoid fines!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Don’t eat on church steps in Italy.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Be careful where you enjoy a relaxing lunch or drink in Italy. It’s an offense in Florence to eat or drink on church steps or within a church yard.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The same law applies to eating near public buildings or institutions. Find other places to avoid the fine.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Watch your camera in Kazakhstan.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Want to take a picture of your family in the airport before you board the plane? In Kazakhstan, it’s against the law.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Photographing in and around airports is not allowed, and taking pictures of military and official buildings is not allowed either.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Feed the pigeons and you’ll break the law in San Francisco.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You’re not allowed to feed pigeons on the streets of San Francisco. The city doesn’t like the birds because they spread diseases and damage properties.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If you’re seen giving food to San Francisco’s pigeons, you could be punished with a fine.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Pack a breathalyzer in France.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In France, drivers must carry a small breathalyzer in their vehicle. If you’re caught without one in your car, you may be fined.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "So next time you are in France, don’t forget to have a breathalyzer in the car with you.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "lessons": [
+    {
+      "key": "U02_Lesson1",
+      "no": "Lesson 1",
+      "title": "Be careful!",
+      "title_zh": "小心！",
+      "kind": "对话课本剧 · 装饰美术教室时 Danny 爬椅子挂星星摔下来",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "The students are decorating the art classroom.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Look at this yellow star, Brian and Jenny! Isn’t it beautiful? I’m going to hang it from the ceiling over the desk.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Here is the tape. I’ll get the ladder for you.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "DANNY",
+          "text": "I don’t need a ladder. I think I’m tall enough.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Danny can’t reach the ceiling, so he climbs onto Mr Green’s chair.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Almost… Almost… Aaaaaaahhhh!",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Danny falls.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "What was that noise?!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He sees Danny lying on the floor.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Danny, are you okay? Are you hurt?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "DANNY",
+          "text": "Hmm… My tail is a little sore, but it’s not serious.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Then, they hear Brian cry for help, but his voice is very weak.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Brian? Where are you?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "BRIAN",
+          "text": "Help me, sir! I’m under Danny!",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "DANNY",
+          "text": "Oh no! I’m really sorry! Are you okay, Brian?",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "BRIAN",
+          "text": "No, I’m opposite of okay. I tried to catch you, but you landed on top of me. My arm hurts.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "JENNY",
+          "text": "Should I call an ambulance?",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "BRIAN",
+          "text": "No, that’s not necessary. I don’t think my arm is broken.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Jenny, please call Brian’s mother. Tell her we are taking Brian to the hospital. He should get an X-ray just in case.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U02_Lesson2",
+      "no": "Lesson 2",
+      "title": "Safety education",
+      "title_zh": "安全教育",
+      "kind": "日记 · Li Ming 记录全国安全教育日的消防演练与急救学习",
+      "lines": [
+        {
+          "role": "LI MING",
+          "text": "Today is National Safety Education Day. Our school organised activities to teach us about safety.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "The first part was fire safety. What should people do in case of a fire emergency? A firefighter gave us a talk and showed us videos.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "He said that if there is a fire, we should stay calm, find the nearest exit to go outside, and never use lifts.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "We even had a fire drill! As soon as the fire alarm rang, all the students took action. We covered our mouths and noses with wet towels.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "We walked down the stairs calmly and in order. Our teachers guided us outside.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "After the drill, the firefighter taught us how to put out a fire with water or with a fire extinguisher. We did it!",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "Later, we learned some first aid skills, like CPR and other basic life support training. We talked about online safety practices and where to find help in any emergency.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "We discussed how to stay safe in a big crowd, and what to do to avoid drowning.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "The safety education activities helped us understand how to stay safe and make good choices in different situations.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        }
+      ]
+    },
+    {
+      "key": "U02_Lesson3",
+      "no": "Lesson 3",
+      "title": "My helmet saved my life!",
+      "title_zh": "我的头盔救了我的命！",
+      "kind": "记叙文 · 女孩骑车摔倒，头盔替她挡下尖石",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "It was a beautiful noon. I was riding my bicycle by the river, thinking about yesterday’s baseball game. I guess I rode over a hole in the road. All of a sudden, WHAM!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "I went down hard on my right side. That really hurt!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "My head hit the ground. I lay there for a few minutes. I tried to get up, but I couldn’t! “There’s something wrong with me,” I thought.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "I felt so terrible that I lay down again. Then I saw blood on my shoe. My hand and knee were bleeding. I was in a lot of pain.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "As I lay there, I took off my helmet. There was a sharp rock sticking out of it. It was pretty scary to look at. Thank goodness I wore my helmet! I shouted for help.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "A driver stopped his truck and came to help me. He put my bike in the back of his truck and drove me to the hospital.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "When my mother got to the hospital, she gave me a big hug and kiss. “You were wearing your helmet this time. How lucky you were!” she said.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "She knew I was careless and did not always wear my helmet.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "But I’ll never be careless again... My bicycle helmet saved my life!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U02_Lesson4",
+      "no": "Lesson 4",
+      "title": "An accident on the street",
+      "title_zh": "街上的一起事故",
+      "kind": "新闻报道 · 13 岁女孩过街追球被车撞伤",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "NORTH TOWN, Alberta. Thirteen-year-old Ann Brown was hit by a car outside North Town Primary School at 15 Park Road. The accident happened at about 7:30 a.m.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "She and her brother, James, were on their way to an early basketball practice.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“We were in a hurry,” James told the reporter. “We didn’t want to be late for practice. Ann’s basketball rolled onto the street. She raced to get it.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mrs Andrews, a chemistry teacher from Green Wood School, was walking several steps behind the two students. She saw it happen.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“I don’t know whose fault it was,” Mrs Andrews said. “The girl didn’t see the car. And the street was icy — the car couldn’t stop in time. It was terrible.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mrs Andrews said, “I shouted to the girl. I wanted to stop her from running after the ball, but she didn’t hear me.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "After the accident, the car stopped, and the driver, Bill Morin, jumped out. He called an ambulance.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mr Morin knows first aid. He did not move Ann. He stopped traffic on the road until the ambulance came. Then the ambulance took both students to the hospital.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Both kids were in shock.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ann has a broken leg and a bad shoulder wound. She is recovering in the hospital. Doctors say she can expect to return to school in about a week.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U02_Lesson5",
+      "no": "Lesson 5",
+      "title": "Home safety",
+      "title_zh": "居家安全",
+      "kind": "说明文 · 厨房与浴室的居家安全提示",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Many serious accidents happen in people’s homes. The kitchen and the bathroom are the two most dangerous places in the house.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Can people prevent certain accidents? Yes. Many accidents happen because people are careless. So be careful!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Be careful with fire and boiling water when you cook.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Have fire blankets, fire extinguishers, smoke alarms, and flashlights near the kitchen.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Always turn off the oven or stove after use. In case of a gas leak, do not use a cell phone or any electric item.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Immediately turn off the stove and quickly open a window. Move to a safe area to inform emergency services and the gas company.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Never use electricity in the shower or bathtub. It can shock you!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Be sure to keep the bathroom floor dry after you take a shower or bath. It’s easy to slip and fall on a wet floor.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Turn on the cold water first when taking a bath. Then adjust the hot water to ensure a safe water temperature. Hot water can burn you.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Home safety focuses on preventing accidents and reacting well to dangers in order to protect the safety of the family.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U02_CX",
+      "no": "Unit cultures",
+      "title": "Being cybersafe",
+      "title_zh": "安全上网",
+      "kind": "说明文 · 个人信息、虚假信息与网络欺凌",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Technology can be good or bad. That’s why learning to be cybersafe is so important! Never give out private information online. Question the information you read.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Most of us have our names and photos on social media. But without the right privacy settings, they can be used by dangerous people.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Everything you post or send online could be taken and used against your will. And once it’s online, it’s nearly impossible to get rid of it completely!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Also be careful of what others send you. If you click a link or open an attachment, it can be something dangerous for your computer, like a virus.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The internet era makes gathering information easy. But you must consider the source of the information you are reading.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Who published it, a stranger or an expert in the field? What website is it on, a blog or a government resource? Does it offer different views?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Is it meant to inform you, or simply get a quick reaction?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You probably know that cyberbullying is bullying, but online.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Sending hurtful messages, spreading lies about someone, sharing their private photos... these are easy to do, but they have a huge impact on the victim.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The best way to deal with cyberbullying is to ignore, block, and delete. Telling a trusted adult is also important, especially if someone is threatening you.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Be kind to others. Be careful with your information. Think critically about everything you see online. This will ensure you are cybersafe!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    }
+  ]
+}

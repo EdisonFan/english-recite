@@ -1,0 +1,44 @@
+请到 GitHub 仓库 EdisonFan/english-recite（main 分支）完成【阶段④：语音合成】。
+
+【环境说明】
+主流程沙盒连不上微软 TTS 端点才绕道 GitHub Actions；你的网络跟它不是一回事，
+直连通就直接跑本地脚本，不用另建任何中转仓库。先按任务包做 10 秒连通性自检。
+
+【读】
+1. tasks/8b/audio/音频合成_任务包.md —— 全部参数与输出契约，务必读完
+2. tasks/8b/audio/音色表.json —— 本册 role → 微软神经语音映射
+3. tasks/8b/audio/data_unit02.json —— 本单元 6 课的预生成合成输入（每行已带 voice）
+4. tasks/8b/audio/worker.py —— 主流程同一份合成实现，原样使用，不要改
+5. tasks/8b/audio/自检.py —— 提交前自检
+6. results/8b/unit02/课文数据.json —— 仅供对照，不要修改
+
+【做】（在仓库根目录）
+1. pip install edge-tts==7.3.1 imageio-ffmpeg
+2. cp tasks/8b/audio/data_unit02.json data.json
+3. python tasks/8b/audio/worker.py
+4. python tasks/8b/audio/自检.py unit02     ← 必须全绿
+5. 把 output/ 里 12 个文件搬到 results/8b/unit02/audio/：
+   U02_Lesson1.mp3  U02_Lesson1.timeline.json
+   U02_Lesson2.mp3  U02_Lesson2.timeline.json
+   U02_Lesson3.mp3  U02_Lesson3.timeline.json
+   U02_Lesson4.mp3  U02_Lesson4.timeline.json
+   U02_Lesson5.mp3  U02_Lesson5.timeline.json
+   U02_CX.mp3  U02_CX.timeline.json
+
+【本单元】unit02 · 6 课 / 68 个朗读单元 / 4 种音色
+音色：en-GB-RyanNeural, en-US-AriaNeural, en-US-GuyNeural, en-US-JennyNeural
+
+【铁律】
+- 只写 results/8b/unit02/audio/ 这 12 个文件，不碰仓库任何其他文件
+- 必须用微软 edge-tts 神经语音；音色按 data_unit02.json 里每行的 voice 字段，一个字都不要改
+- 语速 rate='-10%'；16 kHz 单声道；每句后插 0.75 秒静音（硬契约，渲染器靠它反推句长）
+- loudnorm=I=-17:TP=-1.5:LRA=11；libmp3lame -q:a 2；失败重试 4 次
+- timeline.json 每条 end = start + 该句时长 + 0.75，start 累加，total = 末条 end ≈ MP3 时长
+- timeline[].text / role 必须与 data_unit02.json 对应行逐字一致，弯引号不许改
+- 不要改 worker.py、音色表.json、data_unit02.json、自检.py、课文数据三份 JSON、status.json
+- 不要提交 report.json / worker.log / 脚本 / 说明文字 / data.json（复制出来的那份）
+- 提交前先 git pull --rebase origin main；冲突只保留自己 audio/ 的 12 个文件
+- 需要能 clone + push 该仓库；只有读权限就把 12 个文件回传给分发方
+
+【完成】自检全绿后提交，只回复一句「unit02 音频已提交」。
+若连通性自检失败，按任务包末尾「备选：GitHub Actions」执行，产物仍放同一目录。

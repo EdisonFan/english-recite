@@ -1,0 +1,502 @@
+{
+  "lessons": [
+    {
+      "key": "U07_Lesson1",
+      "no": "Lesson 1",
+      "title": "Money in history",
+      "title_zh": "货币的历史",
+      "kind": "对话 · 王梅在李琳家听李爷爷讲中国货币的历史",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Wang Mei is at Li Lin’s house. Li Lin’s grandpa takes a box out from his bedroom.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "Thank you for inviting me over to see your collection, Grandpa Li!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "You’re welcome! Let’s start with these stamps. This one shows that ancient Chinese people used shells as a form of money. Think of the Chinese character “贩”.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI LIN",
+          "text": "Oh! It includes a “shell”.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "These stamps represent different types of ancient Chinese currency. Some ancient money was in the shape of a knife or spade.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In 221 BCE, Qinshihuang unified China and introduced round coins with a square hole in the centre. Later on, round coins became the main type of money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "That’s cool! They look really old.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They are indeed very old!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI LIN",
+          "text": "What about paper money?",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Paper money has a long history in China. It was first used during the Song Dynasty and made trading much easier.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "Nowadays, we seldom use paper money! We use credit cards and digital currency more and more.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "That’s right! By learning history, we can understand how things change. Visiting a history museum is a great way to learn more about ancient Chinese currency.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "I agree! Li Lin, let’s plan a museum visit soon.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U07_Lesson2",
+      "no": "Lesson 2",
+      "title": "What do you do with money?",
+      "title_zh": "你会怎么用钱？",
+      "kind": "记叙文 · 马旭捐出一生积蓄回报家乡的故事",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "What do you do with your money? Everyone makes their own choices. Here’s a great example of what to do with money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ma Xu realised another dream at age 86 by donating 10 million yuan of her life savings to her hometown, Mulan County.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The donation was made up of earnings from scientific research and patent transfers.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ma was born in a doctor’s family in Mulan County. She joined the PLA as a doctor in 1947.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "After many years of hard learning and training, she became China’s first female paratrooper in 1961.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ma and her husband put their hearts into research. They have gotten two invention patents and published more than 100 papers.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ma has also developed many traditional Chinese medical prescriptions.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Now, they live a very simple life in a small house in Wuhan. They still use the same hard bed from the 1970s and their sofas are over 50 years old.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They usually wear their military uniforms. Ma misses her hometown very much. In 2018, they decided to donate all their savings to Mulan County.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ma believes that better education can change lives. She is happy to help teenagers in her hometown with her savings.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "True happiness can be found not in material things, but in the ability to make a difference in the lives of others.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U07_Lesson3",
+      "no": "Lesson 3",
+      "title": "Money talks",
+      "title_zh": "金钱的作用",
+      "kind": "对话 · 刘老师与同学们讨论金钱的作用与价值",
+      "lines": [
+        {
+          "role": "MS LIU",
+          "text": "Can anyone tell me what money is and why we use it?",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI MING",
+          "text": "Money is something we use to buy things.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "It’s also something we get through work.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "MS LIU",
+          "text": "That’s right! Money is a medium of exchange. It means we can trade it for goods and services.",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "MS LIU",
+          "text": "Just imagine how difficult life would be without money. Do you think money is important?",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI LIN",
+          "text": "Yes, it helps us buy the things we need, like food and clothes. Without money, it would be hard to afford those things.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "Exactly. Money also helps us achieve our goals, like going to college or travelling.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "And it allows us to help others and make a positive difference in the world.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "MS LIU",
+          "text": "I agree with everyone. However, there are many things that are even more valuable than money. Can you give me some examples?",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI LIN",
+          "text": "Good health, happiness, and love.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "WANG MEI",
+          "text": "Family and knowledge.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI MING",
+          "text": "Peace and friendship.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "MS LIU",
+          "text": "Excellent. While money is important, it cannot buy everything. Use money wisely and responsibly.",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "MS LIU",
+          "text": "Always be grateful for what you have and share what you can.",
+          "voice": "en-GB-SoniaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U07_Lesson4",
+      "no": "Lesson 4",
+      "title": "Needs or wants?",
+      "title_zh": "需要还是想要？",
+      "kind": "记叙文 · Emma 在妈妈引导下分清需要与想要",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Emma was excited when she heard about a big sale at a store near her home. Everything was 20% off, and she wanted to go shopping with her mum, Mrs Carson.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mrs Carson asked Emma what she wanted to buy, but Emma wasn’t sure yet. She saw a pretty cotton dress, a nice blouse, and some cool shoes.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "However, her mum reminded her that she already had enough clothes.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "“You already have so many blouses, Emma. I don’t think you need any more,” Mrs Carson said.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Disappointed, Emma thought for a moment and said, “They used to be very expensive, but now they’re cheap...”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mrs Carson smiled and explained, “It’s not just about the price, Emma. We should spend money wisely.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Before buying something, we should consider our needs and wants.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Curious to learn more, Emma asked, “What do you mean by needs and wants, Mum?”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Patiently, Mrs Carson explained, “Needs are things that we must have, like food, clothes, and a safe home.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Wants, on the other hand, are things that we desire but can live without. It’s important to make smart choices with our money.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Emma started to realise how important it was to manage money wisely.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "By understanding the difference between needs and wants, she knew that she could make better decisions about money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U07_Lesson5",
+      "no": "Lesson 5",
+      "title": "Managing your money",
+      "title_zh": "管理你的钱",
+      "kind": "记叙文 · 三个孩子用不同方式管理零花钱",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Mary and her cousins would go every month for a big family meal at their grandparents’ house.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Their grandfather often gave them a few coins, saying, “You can buy yourself something.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Then all of them ran off to spend the money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The grandparents, aunts, uncles, and parents thought this was not good — the children would never learn to manage their pocket money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "So they decided to have a test. They wanted to see what the children could get with the coins within a year.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Tom, the smallest kid, spent all his money on sweets.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Jim was strong-willed. He wanted to win the test. He saved every cent. He was the clear winner.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Then there was Mary. She loved the violin, but the family couldn’t pay for her violin lessons. So Mary went to her neighbour, a violinist.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Mary offered him all the coins, asking the violinist to teach her how to play. It wasn’t much money, but seeing Mary’s excitement, the violinist agreed.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "He taught her happily for months. Later, the two played together in the park. They were very successful, and Mary was able to buy her own violin.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Years later, Mary became a very famous violinist.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U07_CX",
+      "no": "Unit cultures",
+      "title": "Money: A fair medium of exchange",
+      "title_zh": "货币：公平的交换媒介",
+      "kind": "说明文 · 从以物易物到纸币的货币演变",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "From ancient times when a cow could be traded for a horse, to the 21st century when that same horse might easily be bought with a bank card, humans have always needed a way to buy and sell things at an agreed price.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "A system, like trading a cow for a horse, is called a barter system. It worked well for a long time.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "However, things became more complicated as the population rose. The daily life in such a world required a standard unit to measure the value of one thing against another.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The era of money soon followed. And it has been with us ever since.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Chinese people were the first to move from the bartering era to the money era. They began to trade shells for the products they wanted as early as 3,000 years ago.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Hundreds of years later, the Chinese began to use copper and bronze to replace the shells.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "According to research, the world’s first paper money, jiaozi, appeared in Chengdu in 1023.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In ancient Europe, around the 6th or 5th century BCE, money coins came into use.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Unlike the Chinese, Europeans used precious metals such as gold and silver for their coins.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Around the 17th century, paper money started to become more popular in Europe, because it was much easier to carry around and store.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This system worked until the early 19th century when the Bank of England introduced “gold-backed” paper money.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "If someone had this paper money, they could exchange it for a certain amount of gold or silver in the bank.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "This made people feel more secure because the paper money was connected to something valuable.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    }
+  ]
+}

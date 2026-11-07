@@ -1,0 +1,51 @@
+{
+  "engine": "Microsoft Edge TTS（edge-tts 神经语音，非 Azure 订阅版）",
+  "package": "edge-tts==7.3.1",
+  "python": ">=3.9（主流程用 3.11）",
+  "rate": "-10%",
+  "sample_rate": 16000,
+  "channels": 1,
+  "gap_seconds": 0.75,
+  "loudnorm": "I=-17:TP=-1.5:LRA=11",
+  "mp3_encoder": "libmp3lame -q:a 2",
+  "retry": 4,
+  "note": "gap_seconds=0.75 是硬契约：渲染器用 (end-start)-0.75 反推每句朗读时长，改了会全程错位。",
+  "roles": {
+    "BRIAN": {
+      "voice": "en-GB-RyanNeural",
+      "sex": "M"
+    },
+    "DANNY": {
+      "voice": "en-GB-RyanNeural",
+      "sex": "M"
+    },
+    "JENNY": {
+      "voice": "en-US-JennyNeural",
+      "sex": "F"
+    },
+    "LI LIN": {
+      "voice": "en-US-JennyNeural",
+      "sex": "F"
+    },
+    "LI MING": {
+      "voice": "en-US-GuyNeural",
+      "sex": "M"
+    },
+    "MS LIU": {
+      "voice": "en-GB-SoniaNeural",
+      "sex": "F"
+    },
+    "NARRATOR": {
+      "voice": "en-US-AriaNeural",
+      "sex": "F"
+    },
+    "SONG HUA": {
+      "voice": "en-GB-RyanNeural",
+      "sex": "M"
+    },
+    "WANG MEI": {
+      "voice": "en-US-AriaNeural",
+      "sex": "F"
+    }
+  }
+}

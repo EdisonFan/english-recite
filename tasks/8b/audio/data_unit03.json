@@ -1,0 +1,484 @@
+{
+  "lessons": [
+    {
+      "key": "U03_Lesson1",
+      "no": "Lesson 1",
+      "title": "What’s your favourite sport?",
+      "title_zh": "你最喜欢什么运动？",
+      "kind": "对话 · 李明与宋华在操场上聊各自最喜欢的运动",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Li Ming and Song Hua are talking about sports on the playground.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "LI MING",
+          "text": "What’s your favourite sport, Song Hua?",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "Hmm... I like basketball, but I think swimming is my favourite.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "I feel free when I’m in the water.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "I started learning to swim at the age of five, and I still go to the pool every Saturday evening.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "That sounds great! What are some benefits of swimming?",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "Swimming helps me stay in shape, improves my endurance, and reduces my stress.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "After swimming, I always feel refreshed.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "How about you, Li Ming? What’s your favourite sport?",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "For me, it’s ping-pong.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "It improves my motor skills and my hand-eye coordination.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "I practice it at the sports centre on weekends, and I have made some friends there.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "We all love ping-pong and have a lot of fun together.",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        },
+        {
+          "role": "SONG HUA",
+          "text": "Sports help us improve our physical abilities, learn new skills, overcome challenges, and build confidence.",
+          "voice": "en-GB-RyanNeural",
+          "sex": "M"
+        },
+        {
+          "role": "LI MING",
+          "text": "Well said! Look! There is a basketball game going on. Let’s go and cheer them!",
+          "voice": "en-US-GuyNeural",
+          "sex": "M"
+        }
+      ]
+    },
+    {
+      "key": "U03_Lesson2",
+      "no": "Lesson 2",
+      "title": "National sport",
+      "title_zh": "国球",
+      "kind": "说明文 · 乒乓球为什么是中国的国球",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "Ping-pong, also known as table tennis, holds a special place in Chinese people’s hearts. It shows our love for sports and the spirit of never giving up.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It inspires young athletes and brings joy and a feeling of community to every player.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ping-pong has deep historical roots in China. The game became popular in the early 20th century.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Now, people of all ages play this sport in gyms, parks, community centres, and even at home.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ping-pong is a fast-paced sport. It can improve your overall physical fitness.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ping-pong uses both the left and right sides of the brain. So it can also improve your memory and problem-solving skills. What a fun national sport!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Since ping-pong entered the Olympics in 1988, the Chinese ping-pong team has won many gold medals.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The team has also had many great victories in major ping-pong events, such as the World Championship and the World Cup.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The achievements of Chinese players on the global stage have inspired many people.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Ping-pong has already become an important part of our culture.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The game serves as exercise and as a way for people to connect with others. Don’t wait! Go play ping-pong with your friends.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U03_Lesson3",
+      "no": "Lesson 3",
+      "title": "Dream team",
+      "title_zh": "梦之队",
+      "kind": "说明文 · 梦之队的含义与各国的梦之队",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "At the 1992 Olympics, the US basketball team won the gold medal. People called it the dream team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Nowadays a dream team refers to the greatest team in its field.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "There have been many dream teams throughout the history of sports.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Canada’s dream team plays on ice — it’s the country’s ice hockey team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "For Brazil, it might be the men’s volleyball or soccer team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "What is China’s dream team? Many people would think of the diving team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "China also has dream teams in ping-pong and weight lifting. Time after time, these teams have won gold medals for China.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "However, there is more to a dream team than winning gold medals.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "A dream team has not only the best players and the best coach, but also the best team spirit.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "All of the players must work hard and cooperate with one another.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "By working together, they show their courage and their drive. They never give up. That’s what makes a dream team!",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The spirit of a dream team influences lots of people everywhere, not only in their home nation.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "People admire and feel proud of their dream team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U03_Lesson4",
+      "no": "Lesson 4",
+      "title": "Never giving up",
+      "title_zh": "永不言弃",
+      "kind": "记叙文 · 球迷讲述中国女排精神对自己的影响",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "I’m a huge fan of the Chinese women’s volleyball team.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "I have watched nearly all of their games and have often found myself cheering or shedding tears with the players during these matches.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Throughout the years, I have seen this team win many championships and bring glory and pride to our nation.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "What makes the Chinese women’s volleyball team special? It is their determination, teamwork, and spirit.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "No matter how tough things get, they never give up. When a player misses a shot, the teammates don’t blame her.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Instead, they come together and offer words of encouragement. They support each other and create a positive and exciting atmosphere on the court.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Whether they win or lose, they stay united as a team. The coach, Lang Ping, once said, “Volleyball is not just a job; it is our whole life.”",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "And the team members truly live by that.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The team’s spirit has had a strong influence on me. When I come across difficulty or challenge, their never-give-up spirit always motivates me to keep trying.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The team has taught me to do my best in everything. I have also learned the value of teamwork from them.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Working with others and supporting each other can lead to amazing achievements.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U03_Lesson5",
+      "no": "Lesson 5",
+      "title": "Classroom Olympics",
+      "title_zh": "教室奥运会",
+      "kind": "电子邮件 · Jenny 向王梅介绍班级教室奥运会",
+      "lines": [
+        {
+          "role": "JENNY",
+          "text": "We had our own classroom Olympics this week! Our class had five different events — jump rope, long jump, sit-ups, push-ups, and “ping-pong pass”.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "Everyone competed in each event, one by one.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "The events were fun! Kim won first place in the jump rope event. She jumped 178 times in one minute without stopping.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "Lisa won second place in the long jump. She jumped very far, but Kim jumped farther.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "My favourite event was “ping-pong pass”. Each student had to balance a ping-pong ball with chopsticks and move it from one basket to another without dropping it.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "We used a stopwatch to see who was the fastest. You know what? I can use chopsticks very well.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "Tom did his best, but his ping-pong ball kept falling off his chopsticks.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "What were the results? I won the race! David was only two seconds slower than me.",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        },
+        {
+          "role": "JENNY",
+          "text": "It’s really enjoyable to do sports with friends! I like classroom Olympics. What about you?",
+          "voice": "en-US-JennyNeural",
+          "sex": "F"
+        }
+      ]
+    },
+    {
+      "key": "U03_CX",
+      "no": "Unit cultures",
+      "title": "The Olympic Games",
+      "title_zh": "奥运会",
+      "kind": "说明文 · 奥运会的历史、举办城市与旗帜格言",
+      "lines": [
+        {
+          "role": "NARRATOR",
+          "text": "The Olympic Games were an ancient athletic festival in Greece. Among the games held throughout Greece, the Olympic Games were the most famous.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "They were held every four years.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The modern Olympic Games became popular in the late 19th century. In 1892, at a meeting in Paris, Pierre de Coubertin put forward the idea of holding Olympic Games again.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In 1894, the International Olympic Committee (IOC) was founded.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Modern Olympic Games include the Summer Olympics and the Winter Olympics.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The first modern Olympic Games were held in Athens, Greece, in 1896, while the first Winter Olympics were held in Chamonix, France, in 1924.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "Since 1994, the Olympic Games have alternated between a summer and a winter edition every two years.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "In 2008, Beijing became the first Chinese city to host the Games. Do you remember the slogan “One World, One Dream”?",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The song You and Me touched many people’s hearts. In 2022, Beijing hosted the Winter Olympic Games.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "It became the first city in the world to host both the Summer and the Winter Olympic Games.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "The Olympic flag has a white background with five interlaced rings in blue, yellow, black, green, and red.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        },
+        {
+          "role": "NARRATOR",
+          "text": "These rings symbolise the unity of the continents. The motto of the Olympic Games is “Faster, Higher, Stronger — Together”.",
+          "voice": "en-US-AriaNeural",
+          "sex": "F"
+        }
+      ]
+    }
+  ]
+}

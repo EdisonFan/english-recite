@@ -12,7 +12,8 @@
       "clauses": 139,
       "translation_items": 139,
       "pdf_hit": 0.98,
-      "word_cover": 0.998
+      "word_cover": 0.998,
+      "audio": "ready"
     },
     "unit02": {
       "status": "accepted",
@@ -22,7 +23,8 @@
       "clauses": 147,
       "translation_items": 147,
       "pdf_hit": 0.926,
-      "word_cover": 0.998
+      "word_cover": 0.998,
+      "audio": "ready"
     },
     "unit03": {
       "status": "accepted",
@@ -32,7 +34,8 @@
       "clauses": 111,
       "translation_items": 111,
       "pdf_hit": 0.901,
-      "word_cover": 0.998
+      "word_cover": 0.998,
+      "audio": "ready"
     },
     "unit04": {
       "status": "accepted",
@@ -42,7 +45,8 @@
       "clauses": 118,
       "translation_items": 118,
       "pdf_hit": 0.941,
-      "word_cover": 0.998
+      "word_cover": 0.998,
+      "audio": "ready"
     },
     "unit05": {
       "status": "accepted",
@@ -52,7 +56,8 @@
       "clauses": 103,
       "translation_items": 103,
       "pdf_hit": 0.968,
-      "word_cover": 0.999
+      "word_cover": 0.999,
+      "audio": "ready"
     },
     "unit06": {
       "status": "rejected",
@@ -62,7 +67,8 @@
       "clauses": 144,
       "translation_items": 146,
       "pdf_hit": 0.921,
-      "word_cover": 0.999
+      "word_cover": 0.999,
+      "audio": "blocked"
     },
     "unit07": {
       "status": "accepted",
@@ -72,7 +78,8 @@
       "clauses": 122,
       "translation_items": 122,
       "pdf_hit": 0.919,
-      "word_cover": 0.997
+      "word_cover": 0.997,
+      "audio": "ready"
     },
     "unit08": {
       "status": "accepted",
@@ -82,7 +89,17 @@
       "clauses": 99,
       "translation_items": 99,
       "pdf_hit": 0.949,
-      "word_cover": 0.999
+      "word_cover": 0.999,
+      "audio": "ready"
     }
+  },
+  "audio_stage": {
+    "stage": "④ 语音合成（可分发出去）",
+    "task_package": "tasks/8b/audio/音频合成_任务包.md",
+    "worker": "tasks/8b/audio/worker.py",
+    "input_pattern": "tasks/8b/audio/data_unitNN.json",
+    "output_pattern": "results/8b/unitNN/audio/（每单元 6 课 × 2 = 12 个文件）",
+    "engine": "edge-tts==7.3.1 · rate=-10% · 16k 单声道 · 句间 0.75s · loudnorm=I=-17:TP=-1.5:LRA=11",
+    "note": "仅课文整理 accepted 的单元可开工；unit06 待译文切分修复，标记 blocked。主流程扫到合格音频后跑渲染⑥。"
   }
 }
